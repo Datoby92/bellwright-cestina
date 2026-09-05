@@ -1,0 +1,189 @@
+# Obsah hry, dávka 05 (B-C) - originál <TAB> překlad
+#
+# Ustálené názvy výrobních míst (drží se i v dalších dávkách):
+#   Armourer = platnéř          Blacksmith   = kovář
+#   Toolmaker = nástrojař       Tanner's Hut = koželužna
+#   Weaver Hut = tkalcovna      Weaver Loom  = tkalcovský stav
+#   Workshop = dílna            Workbench    = pracovní stůl
+#   Craftsman's Nook = řemeslnický kout   Smelter = tavicí pec
+#
+# "Can be crafted at X" se překládá činně ("Vyrobíš u kováře") - trpné
+# "Lze vyrobit" zní v popiscích předmětů kostrbatě.
+
+# --- kde se co vyrábí ---
+Can be crafted at Armourer.	Vyrobíš u platnéře.
+Can be crafted at Blacksmith	Vyrobíš u kováře
+Can be crafted at Toolmaker	Vyrobíš u nástrojaře
+Can be crafted at Tanner's Hut	Vyrobíš v koželužně
+Can be crafted at Weaver Hut	Vyrobíš v tkalcovně
+Can be crafted at Weaver Loom	Vyrobíš na tkalcovském stavu
+Can be crafted at Advanced Workbench	Vyrobíš na vylepšeném pracovním stole
+Can be crafted at Simple Workbench	Vyrobíš na prostém pracovním stole
+Can be crafted at Shack, Advanced Workbench	Vyrobíš v chatrči nebo na vylepšeném pracovním stole
+Can be crafted at Workbench.	Vyrobíš na pracovním stole.
+Can be crafted at Workbenches	Vyrobíš na pracovních stolech
+Can be crafted at Workbenches.	Vyrobíš na pracovních stolech.
+Can be crafted at Workbenches. Allows fishing.	Vyrobíš na pracovních stolech. Umožňuje rybolov.
+Can be crafted at Workshop	Vyrobíš v dílně
+Can be crafted at the Workshop	Vyrobíš v dílně
+Can be crafted at Craftsman's Nook.	Vyrobíš v řemeslnickém koutu.
+Can be crafted at Caravan station.	Vyrobíš ve stanici karavan.
+Can be crafted by a Tanner.	Vyrobí koželuh.
+Can be crafted by a Weaver.	Vyrobí tkadlec.
+Can be crafted by a weaver.	Vyrobí tkadlec.
+
+# --- kde se co získá ---
+Can be bought from an Herbalist.	Koupíš u bylinkáře.
+Can be bought from book seller or found in the world.	Koupíš u knihkupce nebo najdeš ve světě.
+Can be found and bought on Halmare Isles.	Najdeš a koupíš na Halmarských ostrovech.
+Can be found around swamp areas.	Najdeš v okolí bažin.
+Can be found in fields.	Najdeš na polích.
+Can be grown on an advanced farm.	Vypěstuješ na vylepšeném hospodářství.
+Can be harvested from swamp birds.	Získáš z bažinných ptáků.
+Can be mined from certain rocks.	Vytěžíš z některých skal.
+Can be mined from copper rocks with a pickaxe.	Vytěžíš krumpáčem z měděných skal.
+Can be mined from iron rocks with a pickaxe.	Vytěžíš krumpáčem ze železných skal.
+Can be mined from tin rocks with a pickaxe.	Vytěžíš krumpáčem z cínových skal.
+Can be skinned from a boar.	Stáhneš z kance.
+Can be skinned from a deer.	Stáhneš z jelena.
+Can be skinned from a demon boar.	Stáhneš z démonického kance.
+Can be skinned from a sheep.	Stáhneš z ovce.
+Can be skinned from a wolf.	Stáhneš z vlka.
+
+# --- zpracování ---
+Can be dried on a hide drying rack.	Suší se na rámu na kůže.
+Can be refined at Workshop.	Zpracuješ v dílně.
+Can be refined into many different substances.	Zpracováním vznikne řada různých látek.
+Can be smelted at Smelter.	Vytavíš v tavicí peci.
+Can be smelted by a Toolmaker.	Vytaví nástrojař.
+Can be smelted into gold metal for crafting.	Vytavíš na zlato pro výrobu.
+Can be smelted into silver metal for crafting.	Vytavíš na stříbro pro výrobu.
+Can be crushed into Copper Ore to produce Bronze	Rozdrcením s měděnou rudou vznikne bronz
+Can be crushed into Iron Ore to produce Steel	Rozdrcením s železnou rudou vznikne ocel
+Can be crushed into Tin Ore to produce Bronze	Rozdrcením s cínovou rudou vznikne bronz
+
+# --- k čemu to je ---
+Can be eaten raw or used to cook advanced dishes.	Sníš syrové, nebo z toho uvaříš složitější pokrmy.
+Can be eaten raw, dried, or can be a part of the dish	Sníš syrové, sušené, nebo jako součást pokrmu
+Can be used for crafting various gear recipes.	Použiješ při výrobě různé výstroje.
+Can be used for Library.	Použiješ pro knihovnu.
+Can be used for medicine.	Použiješ na léky.
+Can be used for various armors like gambesons.	Použiješ na různé zbroje, třeba prošívanice.
+Can be used in crafting Torch	Použiješ při výrobě pochodně
+Can consume more food	Sní víc jídla
+A log harvested from softwood trees, such as pine and oak.	Kláda z měkkého dřeva, například z borovice či dubu.
+A simple seating solution to make any space more inviting.	Prosté sezení, které každý prostor zútulní.
+Boar trophy provides renown for placing in your settlement	Kančí trofej ti po umístění v osadě přinese věhlas
+Booze that Elder asked you to bring for the celebration.	Chlast, který má stařešina na oslavu.
+
+# --- repliky ---
+Bye.	Sbohem.
+Can I help you?	Můžu ti pomoct?
+Can I help you somehow?	Můžu ti nějak pomoct?
+Can I help you in something?	Můžu ti v něčem pomoct?
+Can I help you with anything?	Můžu ti s čímkoli pomoct?
+Can I help you with something?	Můžu ti s něčím pomoct?
+Can I help you with your work?	Můžu ti pomoct s prací?
+Can I ask you about something?	Můžu se na něco zeptat?
+Can I buy some supplies from your stock?	Můžu si od tebe koupit nějaké zásoby?
+But, are your parents poorly?	Jsou tvoji rodiče nemocní?
+Calm down a bit. What exactly is happening to your cow?	Uklidni se trochu. Co přesně se děje s tvou krávou?
+Ah here, don't be like that old fool, show some backbone.	Ale no tak, nebuď jako ten starý blázen, ukaž trochu páteře.
+All your companions will sail with you to their homeland.	Všichni tví družiníci s tebou poplují do své vlasti.
+Alright, what's on your shopping list? I'll go fetch 'em.	Tak co máš na seznamu? Dojdu pro to.
+A day has passed, surely Marek is done making the tools.	Den uplynul, Marek už ty nástroje jistě dodělal.
+About the people who were causing trouble in your tavern…	Ohledně těch lidí, co ti dělali potíže v hospodě…
+Are you Alice Shoreman? I’m looking for a fishing master…	Ty jsi Alice Shoreman? Hledám mistra rybáře…
+Back so soon? Missed me, did you? Ready to work together?	Už zpátky? Chyběl jsem ti, co? Půjdeme do toho spolu?
+
+# --- zadání úkolů ---
+Build a shack	Postav chatrč
+Build Ship	Postav loď
+Build Log Cutting Station.	Postav řezací stanoviště na klády.
+Build Log Splitting Place.	Postav štípací místo na klády.
+Build a {Structure} on the outskirts of the village	Postav {Structure} na okraji vsi
+Build a {Structure} to store your shared belongings.	Postav {Structure} pro společné věci.
+Build an {Structure} to deal with unwanted resources.	Postav {Structure} na zbavení se nepotřebných surovin.
+Build {Structure} and return to {QuestGiver}	Postav {Structure} a vrať se k {QuestGiver}
+Build {Structure} to craft a trap.	Postav {Structure}, abys mohl vyrobit past.
+Build Mining Camp next to this resource site to gain Tin.	Postav u tohoto naleziště hornický tábor a získáš cín.
+Build quarry next to this resource site to gain Iron.	Postav u tohoto naleziště lom a získáš železo.
+Build quarry next to this resource site to gain Quartz.	Postav u tohoto naleziště lom a získáš křemen.
+Build quarry next to this resource site to gain some Clay.	Postav u tohoto naleziště lom a získáš hlínu.
+Build {Structure} to start liberation of Blackridgepool	Postav {Structure} a zahaj osvobozování Blackridgepoolu
+Build {Structure} to start liberation of Bradford	Postav {Structure} a zahaj osvobozování Bradfordu
+Build {Structure} to start liberation of Crasmere	Postav {Structure} a zahaj osvobozování Crasmere
+Build {Structure} to start liberation of Farnworth	Postav {Structure} a zahaj osvobozování Farnworthu
+Build {Structure} to start liberation of Haerndean	Postav {Structure} a zahaj osvobozování Haerndeanu
+Build {Structure} to start liberation of Horndean	Postav {Structure} a zahaj osvobozování Horndeanu
+Build {Structure} to start liberation of Padstow	Postav {Structure} a zahaj osvobozování Padstowu
+Bring 2 small traps to the Elder, as a gift from Lubomir.	Dones stařešinovi 2 malé pasti jako dar od Lubomira.
+Bring trophies to {QuestGiver}	Dones trofeje k {QuestGiver}
+Bring Weapons for {QuestGiver}	Přines zbraně pro {QuestGiver}
+Buy Grain from {Npc}	Kup obilí od {Npc}
+Buy Honey from {Npc}	Kup med od {Npc}
+Camp is clear, time to collect the reward from the Elder.	Tábor je vyčištěný, čas vyzvednout odměnu u stařešiny.
+
+# --- názvy úkolů ---
+Broken Marriage	Rozvrácené manželství
+Burning Stove: Part 1	Hořící kamna: část 1
+Burning Stove: Part 2	Hořící kamna: část 2
+Burning Stove: Part 3	Hořící kamna: část 3
+Burning Stove War Party	Válečná družina Hořících kamen
+By Order and Blood	Řádem a krví
+By the Docks	U přístaviště
+
+# --- zranění ---
+Broken Arm	Zlomená ruka
+Broken Leg	Zlomená noha
+Broken Ribs	Zlomená žebra
+Burning	Hoření
+
+# --- předměty ---
+Broadsword	Široký meč
+Buckler	Pěstní štítek
+Buckle	Přezka
+Bronze Ingot	Bronzový ingot
+Brown Townsfolk Vest	Hnědá měšťanská vesta
+Bucket With Metal Handle	Vědro s kovovým uchem
+Bucket With Metal Handle.	Vědro s kovovým uchem.
+Broken Cart	Rozbitý povoz
+Burnt Fish	Spálená ryba
+Burnt Mushroom	Spálená houba
+Broadhead Chub	Tloušť velkohlavý
+
+# --- zvířata ---
+Bull	Býk
+Bull Carcass	Býčí mršina
+Calf	Tele
+Calf Carcass	Telecí mršina
+
+# --- stavby a místa ---
+Butcher	Řezník
+Butchering	Porcování
+Butchery	Porcovna
+Butchery rack	Porcovací rám
+Butcher Prisoner Cage	Řezníkova klec pro zajatce
+Brisco Prisoner Cage	Briscova klec pro zajatce
+Cabin	Srub
+Cabin WorkBench	Srubový pracovní stůl
+Camp	Tábor
+Campsite	Tábořiště
+Camp Chest	Táborová truhla
+Camp Fire	Táborák
+Campfire	Táborák
+Campfire with Cauldron	Táborák s kotlem
+Building	Stavba
+Buildings	Stavby
+Buildings & Construction	Stavby a stavitelství
+
+# --- rozhraní ---
+Bury	Pohřbít
+Buy	Koupit
+Buy 1	Koupit 1
+Buy orders	Nákupní zakázky
+Buy rules	Pravidla nákupu
+Call to arms	Do zbraně
+Call to Arms	Do zbraně
+Browser	Prohlížeč
+BUSINESS SERVICES	OBCHODNÍ SLUŽBY

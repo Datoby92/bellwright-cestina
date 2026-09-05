@@ -1,0 +1,207 @@
+# Namespace "Mist" - jádro rozhraní: sloty výbavy, interakce, nastavení, hlášky o smrti
+#
+# Značky jako {ItemName} musí zůstat přesně - kontrola je hlídá.
+# Názvy technologií (DLSS, FSR, XeSS, TAA, TSR, Reflex, Lumen) se nepřekládají.
+
+# --- stavové efekty a úpravy --------------------------------------------------
+Mist	ActionModifierStatusEffect	Úprava: {ActionType}
+Mist	ActionModifierStatusEffectDescription	{ActionType}
+Mist	ActionModifierStatusEffectValue	{Sign}{Factor}
+Mist	BaseModifierStatusEffectValue	{Sign}{Factor}
+Mist	AnimalStressStatusEffect	{Name}
+Mist	DamageModifierStatusEffect	{DamageType} {DamageMode}
+Mist	DealDamageStatusEffect	Poškození: {DamageType}
+Mist	HealingStatusEffect	Léčení
+Mist	MoraleStatusEffect	Morálka: {Name}
+Mist	RandomDropStatusEffect	Šance na vypadnutí předmětu
+Mist	RespecStatusEffect	Přerozdělení
+Mist	StaminaBonusStatusEffect	Bonus k výdrži
+Mist	StatModifierStatusEffect	{ActionType}
+Mist	StorageSpaceStatusEffect	Řádky batohu navíc
+Mist	KnowledgeItemStatusEffect	Čteš knihu: {ActionType}
+Mist	KnowledgeItemStatusEffectShortDescription	{ActionType}
+Mist	KnowledgeItemStatusEffectValue	{Value} zkuš.
+Mist	KnowledgeItemStatusEffectValueShortDescription	{Value} zkuš.
+
+# --- sloty výbavy -------------------------------------------------------------
+Mist	BackSlotText	Plášť
+Mist	BeltSlotText	Opasek
+Mist	BootsSlotText	Boty
+Mist	HandsSlotText	Ruce
+Mist	HeadSlotText	Hlava
+Mist	LegsSlotText	Nohy
+Mist	TorsoSlotText	Trup
+Mist	PouchLeftText	Levý váček
+Mist	PouchRightText	Pravý váček
+Mist	Quiver	Toulec
+Mist	BagFood	Brašna na jídlo
+Mist	DropBag	Vak
+Mist	EquipmentContainerName	Výbava
+Mist	NpcInventoryName	Batoh vesničana
+
+# --- základní akce ------------------------------------------------------------
+Mist	Consume	Spotřebovat
+Mist	Drop	Odhodit
+Mist	Equip	Vybavit
+Mist	Unequip	Odložit
+Mist	Move	Přesunout
+Mist	Select	Vybrat
+Mist	Use	Použít
+Mist	ReviveCharacter	Vzkřísit
+Mist	ContinuePrompt	Chceš pokračovat?
+
+# --- interakce ----------------------------------------------------------------
+Mist	InteractableDefaultText	Použít
+Mist	InteractableUseDefault	Použít
+Mist	InteractableInventoryOpen	Otevřít batoh
+Mist	InteractableInventoryOpenContainer	Otevřít: {ItemName}
+Mist	InteractionCantUseText	{UseText} ({CantUseReason})
+Mist	InteractionBrokenTool	Rozbitý nástroj
+Mist	InteractionLowTierTool	Je potřeba lepší nástroj
+Mist	InteractionNoTool	Je potřeba nástroj
+Mist	InteractionWrongTool	Špatný nástroj
+Mist	InteractionShieldEquipped	Schovej štít
+Mist	InteractionWeaponOut	Tasená zbraň
+Mist	DoorInteractableComponentClose	Zavřít
+Mist	DoorInteractableComponentLocked	Zamčeno
+Mist	DoorInteractableComponentOpen	Otevřít
+Mist	LootableMeshBrokenLoot	Prohledat
+Mist	LootableMeshDefaultName	Kořist
+Mist	LootableMeshLoot	Prohledat
+Mist	LootableMeshNotDamagedEnough	Není dost poškozené
+Mist	AnimalEmptyStorageText	Není co sebrat
+Mist	KnowledgeGatherableComponentNoMoreCanBeAquired	Víc už se tu nenaučíš
+Mist	ShipBuildingInteraction	Žádné volné doky!
+Mist	ActivateTurret	Začít bránit
+Mist	DeactivateTurret	Přestat bránit
+Mist	DeactivateTurretNoArrows	Přestat bránit (došly šípy!)
+Mist	CampCantLootAlreadyInactive	Už vyčištěno
+Mist	CampCantLootKillAllGuards	Zabij všechny strážné
+
+# --- léčení a alkohol ---------------------------------------------------------
+Mist	CannotUseAlcoholActive	Už jsi opilý, nebo máš kocovinu!
+Mist	CannotUseHealingDamageCooldown	Nedávno jsi utrpěl zranění. Léčit se můžeš za {Seconds}
+Mist	CannotUseHealingInCombat	V boji se léčit nedá!
+Mist	CannotUseHealingInProgress	Už se léčíš!
+Mist	CauterizingNoHealingMaterial	Vlož do stanoviště léčivý materiál
+Mist	CauterizingSuccess	Zbývá použití: {CurrentCharges}/{MaxCharges}
+
+# --- hlášky o smrti a omráčení ------------------------------------------------
+Mist	KillMessageKilled	zemřel
+Mist	KillMessageWasKilled	byl zabit
+Mist	KillMessageKilledBy	byl zabit:
+Mist	KillMessageKnockedOut	byl omráčen
+Mist	KillMessageKnockedOutBy	byl omráčen:
+Mist	KillMessageCactus	byl zabit kaktusem
+Mist	KillMessageKnockedCactus	byl omráčen kaktusem
+Mist	KillMessageDehydration	zemřel žízní
+Mist	KillMessageKnockedDehydration	omdlel žízní
+Mist	KillMessageGravity	zabil ho pád
+Mist	KillMessageKnockedGravity	omráčil ho pád
+Mist	KillMessageOutOfWorld	vypadl ze světa
+Mist	KillMessageSuicide	si vzal život
+
+# --- oživení ------------------------------------------------------------------
+Mist	ObstructedRespawn	Místo oživení je zablokované
+Mist	WrongSpawnpoint	Špatné místo oživení
+Mist	SpawnPointButtonClosest	Objevit se nejblíž místu smrti
+Mist	SpawnPointButtonDefault	Objevit se u trosek karavany
+Mist	SpawnPointButtonLocal	Objevit se zde: {SpawnPoint}
+
+# --- osada a stavby -----------------------------------------------------------
+Mist	MainSettlementDefaultName	Tvá osada
+Mist	DefaultOutpostName	Základna č. {0}
+Mist	DefaultCombatGroupName	Bojová skupina č. {0}
+Mist	DefaultItemCategoryName	Výchozí
+Mist	DefaultItemGroupName	Výchozí skupina
+Mist	DefaultMoraleFactorCategoryName	Výchozí
+Mist	DefaultNameMissing	Neznámé jméno
+Mist	ConstructionIOSuffixText	- {Count} {SuffixText}
+Mist	ConstructionIOVillageDeliveryText	dorazí zítra
+Mist	SingleStorageCapacity	 {ItemCount}/{MaxVolume}
+Mist	UpdatedSingleStorageText	{Text}{CapacityText}
+
+# --- souboj -------------------------------------------------------------------
+Mist	AllDamage	Vše
+Mist	DamageDealt	Způsobené poškození
+Mist	DamageReceived	Utrpěné poškození
+
+# --- síť, klan, mody ----------------------------------------------------------
+Mist	CharacterInvitedToClanChatMessagePrefix	Byl jsi pozván do klanu: {ClanName}
+Mist	NetworkFailureLagDetected	Zjištěno zpoždění.
+Mist	OasisPlayerControllerPlayerBanned	Přístup zakázán.
+Mist	OasisPlayerControllerPlayerKicked	Vyhozen.
+Mist	PendingCustomTextSanitization	Kontroluji jméno…
+Mist	ModWarnPlayer	Připojil se hráč {PlayerName}:
+Mist	ClientExtraOptionalMods	Máš mody navíc, které hostitel nemá: {ModList}
+Mist	ClientMissingOptionalMods	Chybí ti doporučené mody: {ModList}
+Mist	ExtraOptionalMods	Hráč má mody navíc, které ty nemáš: {ModList}
+Mist	MissingOptionalMods	Hráči chybí doporučené mody: {ModList}
+Mist	ClientModLoadOrderWarning	Tvoje mody se načítají v jiném pořadí než u hostitele. Doporučené pořadí:\n{ModOrder}
+Mist	ServerModLoadOrderWarning	Hráč {PlayerName} má mody načtené v jiném pořadí. Doporučené pořadí:\n{ModOrder}
+
+# --- karty nastavení ----------------------------------------------------------
+Mist	GameSettings	Obecné
+Mist	GameplaySettings	Hratelnost
+Mist	GraphicsSettings	Grafika
+Mist	InputSettings	Ovládání
+Mist	SoundSettings	Zvuk
+Mist	ControllerSettings	Ovladač
+Mist	KeyBindingsSettings	Klávesy
+Mist	KeyBindingArmyCommand	Velení vojsku
+Mist	KeyBindingMenuAdjustments	Úpravy v nabídkách
+Mist	KeyBindingMovement	Pohyb
+Mist	KeyBindingPlayer	Hráč
+Mist	KeyBindingPlayerMenus	Nabídky
+
+# --- grafické volby -----------------------------------------------------------
+Mist	SettingsBorderless	Bez okrajů
+Mist	SettingsFullscreen	Celá obrazovka
+Mist	SettingsWindowed	V okně
+Mist	SettingsCustom	Vlastní
+Mist	SettingsDisabled	Vypnuto
+Mist	SettingsLow	Nízké
+Mist	SettingsMedium	Střední
+Mist	SettingsHigh	Vysoké
+Mist	SettingsUltra	Ultra
+Mist	SettingsDeviceProfilePerformance	Výkon
+Mist	SettingsDeviceProfileQuality	Kvalita
+Mist	SettingsTAASpatialUpsampling	TAA (výkon)
+Mist	SettingsTAATemporalUpsampling	TAA (kvalita)
+Mist	SettingsDLSS	DLSS
+Mist	SettingsFSR	FSR
+Mist	SettingsTSR	TSR
+Mist	SettingsXeSS	XeSS
+Mist	GILumen	Lumen
+Mist	GINone	Žádné
+Mist	GIScreenSpace	Obrazový prostor
+Mist	NoSwapChain	Vypnuto
+
+# --- generování snímků a latence ----------------------------------------------
+Mist	FrameGenerationText	GENEROVÁNÍ SNÍMKŮ
+Mist	FrameGenNeedRestart	Ulož a restartuj pro zapnutí
+Mist	NoFrameGen	Vypnuto
+Mist	DLSSFrameGeneration	Nvidia
+Mist	DLSSFrameGeneration2X	Nvidia 2X
+Mist	DLSSFrameGeneration3X	Nvidia 3X
+Mist	DLSSFrameGeneration4X	Nvidia 4X
+Mist	DLSSFrameGenerationText	NVIDIA DLSS GENEROVÁNÍ SNÍMKŮ
+Mist	FSRFrameGeneration	AMD
+Mist	FSRFrameGeneration2X	Fsr 2X
+Mist	FSRFrameGenerationText	AMD FSR GENEROVÁNÍ SNÍMKŮ
+Mist	IntelFrameGeneration	Intel
+Mist	XeSSFrameGeneration2X	Intel 2X
+Mist	XeSSFrameGeneration3X	Intel 3X
+Mist	XeSSFrameGeneration4X	Intel 4X
+Mist	XeSSFrameGenerationText	INTEL XeSS GENEROVÁNÍ SNÍMKŮ
+Mist	LatencyOff	Vypnuto
+Mist	LatencyAntiLag2	AMD Anti-Lag 2
+Mist	LatencyReflex	NVIDIA Reflex
+Mist	LatencyReflexBoost	NVIDIA Reflex + Boost
+Mist	LatencyXeLL	Intel XeLL
+
+# --- vodoznak vývojové verze --------------------------------------------------
+Mist	WatermarkDevelopment	VÝVOJOVÁ VERZE
+Mist	WatermarkTypeDevelopment	VÝVOJOVÁ VERZE
+Mist	WatermarkTypePreAlpha	PRE-ALPHA
+Mist	WatermarkText	{Type} {Version}

@@ -1,0 +1,74 @@
+# Úprava stylu: šťavnatější, dobovější mluva v dialozích.
+# Vkládá se s --overwrite, protože přepisuje dřívější, plošší verze.
+#
+# Zásada: rozhraní zůstává věcné, barvitost patří do řeči postav.
+# Nejčastější repliky mají přednost - ty hráč slyší pořád dokola.
+
+# --- nejčastější repliky ---
+Is there anything I could help you with?	Můžu ti být nějak k ruce?
+Is there anything I can help you with?	Posloužím ti nějak?
+Hello, Adventurer.	Buď zdráv, dobrodruhu.
+Hold on, I have something to say.	Zadrž, mám něco na srdci.
+I have other things to do now. Return home.	Teď mám jiné starosti. Vrať se domů.
+I don't think so.	To sotva.
+Do you have job for me?	Nemáš pro mě kus práce?
+Do you have any job for me?	Nenašla by se pro mě práce?
+Do you want something?	Přeješ si něco?
+Can you tell me more about yourself?	Pověz mi o sobě víc.
+Can you tell me something about yourself?	Řekni mi o sobě něco.
+Huh? Oh, nothing.	Hm? Ale nic, nic.
+
+# --- žoldnéři a najímání ---
+Heh. A sword for hire? You’re speaking my language.	Chá. Meč k pronajmutí? To je řeč, které rozumím.
+I'm looking for a sword to hire.	Sháním meč k pronajmutí.
+I need you to join me.	Potřebuju tě po svém boku.
+I see. I have some spare time to help you.	Rozumím. Mám kus času nazbyt, pomůžu ti.
+I see. You know where to find me.	Rozumím. Víš, kde mě najdeš.
+Back so soon? Missed me, did you? Ready to work together?	Už zpátky? Stýskalo se ti, co? Dáme se do díla společně?
+
+# --- odbytí a hrubost ---
+Get lost.	Kliď se mi z očí.
+Go away.	Táhni.
+Go away stranger.	Táhni, cizinče.
+Can’t you see I’m busy, go bother someone else.	Nevidíš, že mám práce nad hlavu? Jdi otravovat jinam.
+Ask something worth the breath next time.	Příště se zeptej na něco, co stojí za dech.
+Frankly, that shouldn’t concern you.	Upřímně řečeno, do toho ti nic není.
+I said go away.	Řekl jsem, ať táhneš.
+Get out of my sight! I know what you did with my shipment.	Zmiz mi z očí! Vím dobře, cos provedl s mou zásilkou.
+Big words for someone about to lose their teeth!	Velká slova na někoho, kdo co nevidět přijde o zuby!
+Careful who you turn away. You might regret it.	Dej pozor, koho odbýváš. Mohl bys toho litovat.
+
+# --- hospodští a kupci ---
+Ah, a customer! How can I serve you?	Á, zákazník! Čímpak posloužím?
+Greetings, stranger! What can I interest you in today?	Buď zdráv, cizinče! Co ti dnes mohu nabídnout?
+Enough chatter. Are you going to buy anything or not?	Dost řečí. Koupíš si něco, nebo ne?
+Beds upstairs. Don’t break anything.	Lože jsou nahoře. Ať mi tu nic nerozbiješ.
+A fair day to you. Care for a look at today’s goods?	Dobrého dne. Nechceš mrknout na dnešní zboží?
+Ha! You like what you see, don't you? Fine.	Ha! Padlo ti to do oka, co? Budiž.
+Alright, what's on your shopping list? I'll go fetch 'em.	Tak co máš na svém seznamu? Dojdu pro to.
+Do you think I just carry a stock of weapons on me?	Myslíš, že u sebe nosím celou zbrojnici?
+Good, I'll let it slide this time. Now let's trade.	Dobrá, tentokrát to přejdu. A teď k obchodu.
+How might I assist you today? In need of sturdy livestock?	Čímpak dnes posloužím? Sháníš statný dobytek?
+
+# --- kladné odpovědi ---
+Always glad to help.	Vždy rád přiložím ruku k dílu.
+Glad to have you.	Jsem rád, že tě tu mám.
+Good to see you my friend.	Rád tě vidím, příteli.
+I like your attitude.	Tvůj přístup se mi zamlouvá.
+Fair enough. I'll earn your loyalty.	Budiž. Tvou věrnost si vysloužím.
+I will keep that in mind, thank you.	Budu to mít na paměti, díky.
+I suggest you do the same.	Radím ti učinit totéž.
+I stand by my words. You will die now.	Za svými slovy si stojím. Teď zemřeš.
+I will get your head, I promise.	Tvou hlavu dostanu, na to vem jed.
+
+# --- vypravěčské a zvolání ---
+Hail and well met, traveler!	Buď zdráv a vítej, pocestný!
+Guards, my brothers… all dead. I buried them myself.	Strážní, mí bratři… všichni mrtví. Sám jsem je uložil do země.
+Glory to the Queen!	Sláva královně!
+Great Lord Ashbourne!	Vznešený lorde Ashbourne!
+Guidance of Lord Ashbourne!	Pod vedením lorda Ashbourna!
+Ha! No days off round these parts, mate.	Ha! V těchhle končinách se volno nedává, kamaráde.
+If you want respect, you need to earn it.	Chceš-li úctu, musíš si ji vysloužit.
+If you’ve got business, best say it quick.	Máš-li co na práci, vyklop to rychle.
+If you're here for business, keep it quiet and clean.	Jdeš-li za obchodem, ať je to tiché a čisté.
+Ah here, don't be like that old fool, show some backbone.	Ale jdi, nebuď jako ten starý blázen, ukaž trochu páteře.

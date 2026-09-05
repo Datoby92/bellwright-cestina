@@ -1,0 +1,9 @@
+# originální herní data – nepatří do repa
+source/
+work/
+build/
+release/Bellwright/
+release/*.zip
+__pycache__/
+*.pyc
+*.bak

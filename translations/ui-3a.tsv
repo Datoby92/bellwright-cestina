@@ -1,0 +1,301 @@
+# Rozhraní, dokončení část A - namespace <TAB> klíč <TAB> překlad
+#
+# Množná čísla dostávají české tvary (one/few/many/other).
+# U MistNpcHunger je rodový přepínač využitý na sloveso ("dostal/dostala"),
+# protože čeština rod v minulém čase rozlišuje a angličtina ne.
+
+Caravans	ExecuteResult.NotEnoughCarriers.Short	Bez nosičů
+Caravans	ExecuteResult.NotEnoughCarts.Short	Bez povozů
+Caravans	ExecuteResult.NotEnoughGuards.Short	Bez strážných
+Caravans	ExecuteResult.NotEnoughMoney	Nedostatek peněz.
+Caravans	ExecuteResult.NotEnoughMoney.Short	Bez peněz
+Caravans	ExecuteResult.Success	Karavana byla vyslána.
+CartCraftingComponent	CartsLimitReached	Dosažen strop povozů
+
+ChatMessage	EarnedMoney	<msglog>Vyděláno </><msglog_yellow>{Amount}</><msglog> mincí</>
+ChatMessage	ReachedLevel	<msglog>Dosažena úroveň </><msglog_red>{Level}</>
+ChatMessage	SpentMoney	<msglog>Utraceno </><msglog_red>{Amount}</><msglog> mincí</>
+MessageLog	GotItems	<msglog>Získáno </><msglog_green>{Amount}</><msglog> {Name}</>
+MessageLog	LostItems	<msglog>Ztraceno </><msglog_red>{Amount}</><msglog> {Name}</>
+
+CommandOrder	HarvestFoliage	Sklidit {ResourceName}
+CommandOrder	OrderSquadToWait	Čekat
+CommandOrder	SendSquadStockUp	Doplnit zásoby
+CommandOrder	SendSquadToAttackTarget	Zaútočit na cíl
+CommandOrder	SendSquadToConstruction	Přinést materiál
+CommandOrder	SendSquadToFollowTarget	Následovat cíl
+CommandOrder	SendSquadToLootArea	Prohledat oblast
+CommandOrder	SendSquadToMoveToPosition	Přesunout na pozici
+CommandOrder	SendSquadToUpdateTheirEquipment	Obnovit výstroj
+CommandOrder	SendSquadToWarehouse	Použít skladiště
+
+ConstructionSite	ConstructionFinished	Stavba {Structure} je dokončena!
+ConstructionSite	ConstructionFinishedBuild	Nyní můžeš v {SettlementName} stavět {Structure}!
+
+Crafting	InsuffiecientSkill	Vyžaduje {Skill} {Value}
+Crafting	LackResources	Nedostatek surovin
+Crafting	LightFireInCraftingStructure	Oheň
+Crafting	No workers	Žádní dělníci
+Crafting	TargetReached	Cílové množství splněno
+
+CreateCharacterScreen	ChangeSettings	Změnit
+CreateCharacterScreen	CloseConfirmation	Chceš opustit tvorbu postavy?
+CreateCharacterScreen	CustomSettings	Vlastní
+CreateCharacterScreen	DuplicateName	Postava s tímto jménem už existuje.
+CreateCharacterScreen	JoinGameConfirmation	Jsi připraven vstoupit do hry?
+CreateCharacterScreen	NameContainsInvalidCharacters	Jméno postavy obsahuje nepovolené znaky.
+CreateCharacterScreen	NameTooLong	Jméno postavy je příliš dlouhé.
+CreateCharacterScreen	NoFreeSaveSlot	Není volná pozice pro uložení. Smaž prosím některou existující hru.
+CreateCharacterScreen	NoName	Zadej jméno své postavy.
+CreateCharacterScreen	StartGameConfirmation	Jsi připraven začít hru?
+
+CrosshairSize	Hidden	Skrytý
+CrosshairSize	Large	Velký
+CrosshairSize	Small	Malý
+
+DeliveryOrders	Always	Vždy ponechat
+DeliveryOrders	AlwaysLoad	Vždy naložit, ponechat
+DeliveryOrders	Daily	Denně
+DeliveryOrders	Weekly	Týdně
+DeliveryOrders	OneTime	Jednorázově
+DeliveryOrders	LoadOnce	Naložit jednou
+DeliveryOrders	NeverLoad	Nikdy nenakládat
+DeliveryOrders	DeliveredNotification	Doručeno {Num} {ItemName} z {OriginSettlement} do {Destination}
+DeliveryOrders	VillageDeliveredNotification	Doručeno {Num} {ItemName} z {OriginSettlement} do stavby {StructureName} v {Destination}
+
+Distance	Meters	{Value} m
+DropBag	DropBagName	Odhozený vak
+
+Duration	Ago	před {Duration}
+Duration	Days	{Days} d
+Duration	Hours	{Hours} h
+Duration	Minutes	{Minutes} min
+Duration	Seconds	{Seconds} s
+Duration	FullDays	{Days} {Days}|plural(one=den,few=dny,many=dne,other=dní)
+
+EquipmentTool	Bow	Luk
+EquipmentTool	Mining	Krumpáč
+EquipmentTool	Weapon	Zbraň
+EquipmentToolAction	Digging	Kopání
+EquipmentToolAction	Hoe	Okopávání
+EquipmentToolAction	Mining	Těžba
+EquipmentToolAction	Smithing	Kování
+
+ErrorMessages	ControllerDisconnect	Ovladač byl odpojen! Pokračuj stiskem <action key="Virtual_Gamepad_Accept"/> na připojeném ovladači.
+
+EventMessage	NpcDied_HudLog	{NpcName} zemřel
+EventMessage	NpcInjured_HudLog	{NpcName} byl zraněn
+EventMessage	NpcInjuredByAnimal_HudLog	{NpcName} byl zraněn zvířetem
+EventMessage	NpcInjuredByBandit_HudLog	{NpcName} byl zraněn v boji
+EventMessage	NpcKilledByAnimal_HudLog	{NpcName} byl zabit zvířetem
+EventMessage	NpcKilledByBandit_HudLog	{NpcName} padl v boji
+
+FDensityRoutingEngine	InvalidInputData	Přeskakuji neplatná vstupní data
+FDensityRoutingEngine	MetadataMismatch	Neshoda metadat mezi vstupy
+FDensityRoutingEngine	NoDensityRanges	Nenastaveny žádné rozsahy hustoty
+FDensityRoutingEngine	NoPointDataInInput	Nelze získat bodová data ze vstupu
+
+FaciltiiesRecipeStatus	InQueue	Ve frontě
+FaciltiiesRecipeStatus	MissingInput	Chybí vstup
+FaciltiiesRecipeStatus	NoDemand	Bez poptávky
+FaciltiiesRecipeStatus	StorageFull	Sklad plný
+FaciltiiesStatus	MissingFuel	Chybí palivo
+FaciltiiesStatus	MissingInput	Chybí vstup
+FaciltiiesStatus	MissingTools	Chybí nástroje
+FaciltiiesStatus	NoDemand	Bez poptávky
+FaciltiiesStatus	StorageFull	Sklad plný
+
+Faction	PlayerFactionWithHost	{FactionName} hráče {HostName}
+Faction	PlayerFactionWithSettlement	Povstalci z {SettlementName}
+Factions	BrigandsHeadquarters	Velitelství lupičů
+FarmAnimalFilterView	Condition	Stav
+Farming	Till	Zorat
+Farming	Weeding	Plení
+
+FastTravelConfirmation	Animals	{AnimalCount} {AnimalCount}|plural(one=zvíře,few=zvířata,many=zvířete,other=zvířat)
+FastTravelConfirmation	Companions	{CompanionCount} {CompanionCount}|plural(one=družiník,few=družiníci,many=družiníka,other=družiníků)
+FastTravelConfirmation	Players	{PlayerCount} další {PlayerCount}|plural(one=hráč,few=hráči,many=hráče,other=hráčů)
+FastTravelConfirmation	Destination	Cestovat do {Destination}?
+FastTravelConfirmation	EnemiesWarning	V cíli jsou nepřátelé!
+FastTravelConfirmation	ListJoiner	{List} a {LastElement}
+FastTravelConfirmation	TravelAlone	Budeš cestovat sám.
+FastTravelConfirmation	TravelWith	Tvá družina zahrnuje {FormattedList}.
+FastTravelInteract	NeutralTravelForbidden	Nelze použít
+
+Fishing	State_Waiting	Čekání na záběr…
+FishingDifficultyPreset	Easy	Lehká
+FishingDifficultyPreset	Hard	Těžká
+FishingDifficultyPreset	VeryHard	Velmi těžká
+
+Foliage	GatherFruits	Sesbírat plody
+Foliage	SomeoneElseFoliage	Patří nedaleké vsi
+Foliage	WrongTool	Špatný nástroj
+FoliageInteractionTexts	Cut	Pokácet
+FoliageInteractionTexts	Harvest	Sklidit
+HarvestLogicText	StealHarvestText	Patří nedaleké vsi
+
+GameMenu	ExitPrompt	Neuložený postup bude ztracen.\n\nPokračovat do hlavní nabídky?
+GameMenu	ExitPromptClient	Pokračovat do hlavní nabídky?
+GameMenu	QuitPrompt	Veškerý neuložený postup bude ztracen.\n\nChceš hru ukončit?
+GameMenu	QuitPromptClient	Chceš hru ukončit?
+GameMode	PlayerJoined	{Name} se připojil do hry
+GameMode	PlayerLeft	{Name} opustil hru
+GameMode	StopHostingKickMessage	Server se vypíná
+
+GearPresetsListItemWidget	UMistGearPresetsListItemWidgetRemove	Předvolba výstroje se používá a nelze ji odebrat
+GrapicsSettings	AntiAliasingMethod_Name	Metoda škálování a vyhlazování
+
+GroupTeleport	CompanionsToTeleport	({ValueOfMax})
+GroupTeleport	FactionTeleportForbidden	{Faction} sem nesmí!
+GroupTeleport	NeutralTravelForbidden	Sem cestovat nelze!
+GroupTeleport	NoRemainingUse	Žádná zbývající použití
+GroupTeleport	OneRemainingUse	Jedno zbývající použití
+GroupTeleport	SeveralRemainingUse	{Number} zbývajících použití
+GroupTeleport	TravelAlone	Bude cestovat sám
+GroupTeleport	WillTeleport	Bude cestovat také s:
+
+HandRequirements	Any	Libovolná
+HandRequirements	Both	Obě
+HandRequirements	Left	Levá
+HandRequirements	Right	Pravá
+
+HiringValue	GainedHiringValue	Získáno {HiringValue} náborové hodnoty
+InfoMessage	KillerNameAndFaction	{KillerName} ({KillerFaction})
+InfoMessage	VictimNameAndFaction	{VictimName} ({VictimFaction})
+InputValidation	NumberNotValid	Zadej platné číslo.
+Invasion	PartiesAttacking	Útočí {PartiesCount} družin.
+ItemActor	CannotTakeFromGround_InventoryFull	Batoh je plný
+ItemActor	DropBagActorname	Odhozené předměty
+ItemSlotContextMenu	QuickSlotAssign	Přiřadit na rychlou pozici {Number}
+ItemSlotContextMenu	QuickSlotRemove	Odebrat z rychlé pozice
+
+MainMenu	AccountBannedUntil	Účet má zákaz do {EndDate}
+MainMenu	AccountPermanentlyBanned	Účet má trvalý zákaz.
+MainMenu	FailedToAcceptInvite	Při připojování do hry došlo k chybě.
+MainMenu	FailedToCreateSession	Nepodařilo se vytvořit online relaci.
+MainMenu	FailedToInitializeSteam	Nepodařilo se spustit Steam.\nPokud chyba přetrvává, ujisti se, že máš aktuálního klienta Steamu, a ověř integritu herních souborů.
+MainMenu	FailedToJoinGame	Připojení do hry se nezdařilo: {Reason}
+MainMenu	MainMenuBanString	{BannedUntil} – Zpráva: {BanReason}
+
+Mining	CapacityDepleted	Vyčerpáno
+MistActionMenu	Paste	Vložit
+MistActionMenuProviderNpc	BookPriorities	Priority knih
+MistActionMenuProviderNpc	ResetPriority	Obnovit priority práce
+MistActionMenuProviderSettlement	Promote	Povýšit na hlavní osadu
+MistActionMenuProviderStructure	Bookmark	Záložka
+MistActionMenuProviderStructure	Cheats	Cheaty
+MistActionMenuProviderStructure	CopySettings	Kopírovat nastavení
+MistActionMenuProviderStructure	Manage	Spravovat
+MistActionMenuProviderStructure	TeleportTo	Přenést se sem
+
+MistAnimalFarmListEntryCommonWidget	Menu_StructureHeader	Stavba: {Name}
+MistAnimalFarmManagementDetailsReproductionWidget	LastBreedingChance	šance {PercentChance}
+MistAnimalFarmManagementDetailsReproductionWidget	NoBreedingPartnerFound	Nenalezen druh
+MistAnimalFarmManagementDetailsStressWidget	EffectStackFormat	{FactorName} ({StressValue})
+MistAnimalSkillLevelToolTipWidget	LevelHeader	Úroveň {CurrentLevel}
+MistArmyRecruitScreen	BreadcrumbName	Nábor: {SquadName}
+MistArmyRecruitScreen	Header	Nábor: {SquadName}
+MistArmyRecruitScreen	HeaderReserve	Záloha: {SquadName}
+MistArmySquadScreen	RenameDialogDescription	Zadej název tohoto oddílu
+MistBuildingFilterWidget	TechAgeTier	Úroveň {TechAge}
+
+MistBuildingSelectItemWidget	Limitation.MaximumNumberPlayer	Nejvýše {Number} {Number}|plural(one=stavba,few=stavby,many=stavby,other=staveb)
+MistBuildingSelectItemWidget	Limitation.MaximumNumberVillage	Nejvýše {Number} {Number}|plural(one=stavba,few=stavby,many=stavby,other=staveb) na ves
+MistBuildingSelectItemWidget	Limitation.MinimumTrustLevel	Vyžaduje ve vsi úroveň důvěry {Level}.
+MistBuildingSelectItemWidget	Limitation.RequiresLiberation	Ves musí být osvobozena.
+MistBuildingSelectItemWidget	PlacementRestriction.MaxVillageBuildingsLimitReached	Víc staveb tohoto druhu už v této vsi postavit nemůžeš.
+MistBuildingSelectItemWidget	PlacementRestriction.MultipleBuildingsNotAllowed	V jedné vsi nemůžeš postavit víc staveb tohoto druhu
+MistBuildingSelectItemWidget	PlacementRestriction.MustBeInsideNeutralVillage	Musí stát uvnitř vsi.
+MistBuildingSelectItemWidget	PlacementRestriction.NotEnoughConstructionPointsInVillage	Nedostatek stavebních bodů.
+MistBuildingSelectItemWidget	PlacementRestriction.NotEnoughTrustWithNeutralVillage	Důvěra ve vsi je příliš nízká.
+MistBuildingSelectItemWidget	PlacementRestriction.RequiresOutpost	Nejdřív potřebuješ základnu.
+MistBuildingSelectItemWidget	PlacementRestriction.TownHallAlreadyBuilt	Radnici už máš.
+MistBuildingSelectItemWidget	PlacementRestriction.VillageNotLiberated	Nejdřív musíš ves osvobodit.
+MistBuildingSelectItemWidget	Reward.MilitiaAmount	{Value} {Value}|plural(one=jednotka,few=jednotky,many=jednotky,other=jednotek)
+MistBuildingSelectItemWidget	Reward.MilitiaUpgrade	Vylepšení
+MistBuildingSelectItemWidget	Reward.TrustOnce	{Value} jednorázově
+MistBuildingSelectItemWidget	TechLocked	Zatím na to nemáš potřebné vědomosti.
+
+MistCaravan	Route.Status.Manual	Ručně
+MistCaravan	Route.Status.Recalled	Odvolána
+MistCaravan	Route.Status.Waiting	Čeká
+MistCaravanCart	CartIsReserved	Povoz je vyhrazen
+MistCaravanCart	ReleaseCart	Uvolnit
+MistCaravanPartyListEntryWidget	MissingTradeDestinationName	Obchodní karavana
+MistCaravanTradingCreateScreen	StructureSelect.Hint.NoItems	Žádné stanice
+MistCaravanTradingCreateScreen	TradingSelect.Hint.NoItems	Žádné vsi
+
+MistChronicle	ChroniclePlayerEstablishedASettlementOutpost	Založil jsi základnu {TownHallName}
+MistChronicle	ChroniclePlayerEstablishedASettlementTownHall	Založil jsi osadu {TownHallName}
+MistChronicle	ChronicleTownHallUpgraded	Vylepšil jsi radnici v osadě {TownHallName} na úroveň {TownHallLevel}
+
+MistCombatGroup	FullName	oddíl {SquadName}
+MistCombatGroup	NewName	Nový
+MistDebug	MistDebugreinforceRob	Není co ukrást, nemáš žádný sklad
+MistFactions	FactionAttitudeChanged	{FactionA} se stala {Attitude} vůči {FactionB}
+MistFactions	FactionAttitudeChangedPermanently	{FactionA} se trvale stala {Attitude} vůči {FactionB}
+MistFarming	StockWithPending	{Stock} + {Pending} (roste)
+
+MistFastTravel	AddResource	Přidat {ResourceName} {Available}/{Maximum}
+MistFastTravel	AddResourceNoItem	Žádný předmět
+MistFastTravel	AddSingleResource	Přidat {ResourceName}
+MistFastTravel	BlockTravel_AlreadyInUse	Právě se používá
+MistFastTravel	BlockTravel_BattleNearby	Nelze cestovat, když je poblíž bitva.
+MistFastTravel	NotConnectedToRoad	Musí být napojeno na hlavní cestu
+MistFastTravel	Remaining Uses	Zbývající použití {RemainingUses} / {MaxRemainingUses}
+
+MistHudInvasionWarningWidget	RaidExpectedInDays	Očekává se za {Days} {Days}|plural(one=den,few=dny,many=dne,other=dní)
+MistHudInvasionWarningWidget	RaidExpectedToday	Očekává se dnes
+MistHudInvasionWarningWidget	RaidExpectedTomorrow	Očekává se zítra
+MistHudInvasionWarningWidget	RaidIncoming	Blíží se
+MistHudMiniMapLocationWidget	OccupationLiberated	Osvobozeno
+MistHudMiniMapLocationWidget	OccupationOccupied	Obsazeno
+MistHudMiniMapLocationWidget	OccupationRebelling	Povstává
+
+MistItemActor	DropBagName	ostatky hráče {PlayerName}
+MistItemActor	StructureRefundDropBagName	trosky stavby {StructureName}
+MistLootAllItemsComponent	LootFromCorpse	Sebrat vše
+MistLootFromCorpseComponent	LootFromCorpse	Sebrat vše z mršiny
+
+MistNpcData	FirstNpcName	{FirstName}
+MistNpcData	FullNpcName	{FirstName} {LastName}
+MistNpcData	FullNpcNameWithJobProfession	{FullName} – {Profession}
+MistNpcData	FullNpcNameWithNickname	{FirstName} „{Nickname}“ {LastName}
+MistNpcData	FullNpcNameWithRoleInSettlement	{FullName} – {RoleInSettlement}
+MistNpcEffectsListItemWidget	EffectDescription	{StatusEffectName} {StatusEffectValue}
+MistNpcHunger	CompanionGotHungry	{NpcName} {Gender}|gender(dostal,dostala,dostali) hlad a bude před nepřáteli utíkat, dokud se nenají
+MistNpcQuestCompanion	HalfCompanionTime	{NpcName} tě brzy opustí, pokud nepokročíš v jeho úkolu
+MistNumberSpinBoxWidget	StepSizeMultiplierSmallToolTip	ctrl ×{StepSizeMultiplierSmall}
+MistNumberSpinBoxWidget	StepSizeMultiplierToolTip	ctrl ×{StepSizeMultiplierSmall}, shift ×{StepSizeMultiplierLarge}
+MistOasisPlayerState	PlayerDefaultName	Jiný hráč
+MistPlaceable	PopupHeader	Vrácení za stavbu
+
+MistProductionFacilityDetailsCancelInvestmentWidget	CancelInvestmentConfirmDialogDescription	Zaplatíš vsi {Money} mincí za zrušení investice do jedné stavby {FacilityName}. Určitě?
+MistProductionFacilityDetailsCancelInvestmentWidget	CancelInvestmentNotPossible.NotEnoughMoney	Nedostatek peněz.
+MistProductionFacilityDetailsConstructionWidget	Progress	hotovo {Percent}
+MistProductionFacilityDetailsDismantleWidget	DismantleConfirmDialogDescription	Zaplatíš vsi {Money} mincí za rozebrání jedné stavby {FacilityName}. Určitě?
+MistProductionFacilityDetailsDismantleWidget	DismantleNotPossible.NotEnoughMoney	Nedostatek peněz.
+MistProductionFacilityDetailsInvestWidget	InvestNotPossible.ConstructionInProgress	Už probíhá jiná stavba.
+MistProductionFacilityDetailsInvestWidget	InvestNotPossible.NotEnoughConstructionPoints	Nedostatek stavebních bodů.
+MistProductionFacilityDetailsInvestWidget	InvestNotPossible.NotEnoughMoney	Nedostatek peněz.
+MistProductionFacilityDetailsMilitiaUnitEntryWidget	Amount	+{Value} {Value}|plural(one=jednotka,few=jednotky,many=jednotky,other=jednotek)
+MistProductionFacilityDetailsMilitiaUnitEntryWidget	Upgrade	+{Value} {Value}|plural(one=úroveň,few=úrovně,many=úrovně,other=úrovní)
+MistProductionFacilityDetailsMultiCraftingWidget	MultipleRecipesHeader	Předpisy ({Num})
+MistProductionFacilityDetailsMultiCraftingWidget	SingleRecipeHeader	Předpis
+MistProductionPriorityButtonWidget	NoStructureWithJobCategoryToolTip	Pro tuhle práci nemáš stavbu
+MistQuarryResourceCount	ResourceCount	{ResourceAmount}+
+MistQuestLogDetailsWidget	DiscardConfirmation	Opravdu chceš tento úkol zahodit?
+MistQuickMenuScreen	MenuTitle_Bookmarks	Záložky
+MistQuickMenuScreen	MenuTitle_World	Svět
+MistRecipePopupWidget	ItemNameWithQuantity	{ItemName} ({Quantity})
+MistRecipePopupWidget	ModifiedCraftingTime	({Modified})
+MistSettingsControllerLayoutKeyMappingWidget	HoldAction	[podrž] {Action}
+
+MistSettlementManagementDeliveryOrderListPopupWidget	NoneAvailableStatusText	Ve výchozí osadě nebyly dostupné žádné předměty.
+MistSettlementManagementDeliveryOrderListPopupWidget	PartialStatusText	Nebylo doručeno vše, protože ve výchozí osadě nebylo dost předmětů.
+MistSettlementManagementDeliveryOrderListPopupWidget	SourceNotSet	Nenastaveno
+MistSettlementManagementDeliveryOrderListPopupWidget	TargetFullAllStatusText	Nedoručilo se nic, protože nebylo dost místa ve skladu.
+MistSettlementManagementDeliveryOrderListPopupWidget	TargetFullSomeStatusText	Nebylo doručeno vše, protože nebylo dost místa ve skladu.
+MistSettlementManagementDeliveryOrderListPopupWidget	TransferCapacityLimitAllStatusText	Nedoručilo se nic, protože nezbyla žádná přepravní kapacita.
+MistSettlementManagementDeliveryOrderListPopupWidget	TransferCapacityLimitSomeStatusText	Nebylo doručeno vše, protože nezbyla přepravní kapacita.
+MistSettlementManagementPopupSummaryWidget	TypeMain	Hlavní osada

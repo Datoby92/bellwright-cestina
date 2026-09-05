@@ -1,0 +1,161 @@
+# Bonusy, zvířata, vojsko, bitvy, karavany a potvrzovací dialogy.
+#
+# AnimalFemaleNamesTable a AnimalMaleNamesTable (200 jmen zvířat) zůstávají
+# záměrně anglické - jsou to vlastní jména a hra se odehrává v anglickém světě.
+
+AMistHuman	DebugSkills	{Current}/{Potentional}
+
+# =========================== BONUSY A POSTIHY ================================
+ActionModifier	None	Žádný
+ActionModifier	MaxHealthModify	Max. zdraví
+ActionModifier	MaxStaminaModify	Max. výdrž
+ActionModifier	MovementSpeedMultiplier	Rychlost pohybu
+ActionModifier	AttackSpeedModifier	Rychlost útoku
+ActionModifier	AttackAfterBlockMultiplier	Útok po bloku
+ActionModifier	HeavyAttackStaminaCostMultiplier	Výdrž za těžký útok
+ActionModifier	MartialArtsModifier	Bojové vlastnosti
+ActionModifier	RangedMartialArtsModifier	Vlastnosti střelby
+ActionModifier	ProjectileDamageMultiplier	Poškození střelami
+ActionModifier	SiegeWeaponReloadMultiplier	Nabíjení obléhacích strojů
+ActionModifier	EnemyAggroModifier	Zájem nepřátel
+ActionModifier	InjuryDeathChanceModifier	Šance na smrt při zranění
+ActionModifier	SprintingStaminaMultiplier	Výdrž při sprintu
+ActionModifier	StartSprintingStaminaMultiplier	Výdrž na zahájení sprintu
+ActionModifier	StaminaRegenSpeedMultiplier	Rychlost obnovy výdrže
+ActionModifier	HungerSpeedModifier	Rychlost hladovění
+ActionModifier	CraftingSpeedMultiplier	Rychlost výroby
+ActionModifier	ProductivitySpeedMultiplier	Produktivita
+ActionModifier	QuenchingMultiplier	Kalení
+ActionModifier	LootingLuckMultiplier	Štěstí při prohledávání
+ActionModifier	RareHarvestChanceModifier	Šance na vzácný výnos
+ActionModifier	SkillExpGainModifier	Zisk zkušeností dovedností
+ActionModifier	XPKillGainMultiplier	Zisk zkušeností za zabití
+ActionModifier	MaxMercenaryBonus	Max. žoldnéřů
+
+# ============================== ZVÍŘATA ======================================
+Animal	AnimalStartFollowing	{AnimalName} ({Type}) tě začal následovat!
+Animal	AnimalStoppedFollowing	{AnimalName} ({Type}) tě přestal následovat!
+AnimalDropBag	DropBagNameWithWeight	{Name} [{Weight}]
+AnimalNickname	DialogDescription	Dej zvířeti přezdívku
+
+AnimalSkillExplanation	AmountModifier	Množství vyprodukovaných surovin
+AnimalSkillExplanation	SpeedModifier	Rychlost produkce surovin
+AnimalSkillExplanation	WeightModifier	Váha
+AnimalSkillExplanation	LifespanModifier	Délka života
+AnimalSkillExplanation	FeedThresholdModifier	Práh krmení
+AnimalSkillExplanation	BreedSuccessModifier	Úspěšnost páření
+AnimalSkillExplanation	BreedingCooldownModifier	Prodleva mezi pářením
+AnimalSkillExplanation	PregnancyCooldownModifier	Prodleva po březosti
+AnimalSkillExplanation	OffspringChanceModifier	Šance na potomka
+AnimalSkillExplanation	StressIncreaseModifier	Rychlost nárůstu stresu
+AnimalSkillExplanation	StressDecreaseModifier	Rychlost poklesu stresu
+
+# ============================== OZNÁMENÍ =====================================
+Announcements	NewDayStarted	Svítá nový den: vsi se probouzejí, obchodní zakázky se obnovují a mohou čekat nové úkoly.
+
+# =============================== VOJSKO ======================================
+Army	CommonSquadName	Obecný
+Army	CompanionsSquadName	Družiníci
+Army	NewHiresSquadName	Nováčci
+Army	ReservistsSquadName	Zálohy
+Army	DismissBeforeSettlementTooltip	Družiníky nemůžeš propustit, dokud nemáš osadu.
+Army	DismissCompanionsTooltip	Družiníky lze propustit jen rozhovorem s nimi.
+Army	SquadDisbandDialogConfirmation	Rozpustit {SquadName}?\n\nVojáci se vrátí k práci.
+
+# ================================ BITVY ======================================
+Battle	BattleIconAllies	Spojenci:
+Battle	BattleIconEnemies	Nepřátelé:
+Battle	BattleIconParticipants	Účastníci:
+Battle	BattleIconCharacterLine	{Name}
+Battle	BattleIconFactionLine	{Faction}: {Count}
+
+BattleReport	BattleReport	Zpráva o bitvě
+BattleReport	BattleReportAgainst	Boj proti {FactionName}
+BattleReport	TimeRange	{StartTime} – {EndTime}
+BattleReport	YouWon	Zvítězil jsi
+BattleReport	YouLose	Prohrál jsi
+
+# ========================= OBTÍŽNOST A ČETNOSTI ==============================
+BanditsMigrationFrequency	None	Žádná
+BanditsMigrationFrequency	Low	Nízká
+BanditsMigrationFrequency	Medium	Střední
+BanditsMigrationFrequency	High	Vysoká
+BrigandsRaidFrequency	Low	Nízká
+BrigandsRaidFrequency	Medium	Střední
+BrigandsRaidFrequency	High	Vysoká
+BrigandsRaidStrength	Easy	Lehká
+BrigandsRaidStrength	Medium	Střední
+BrigandsRaidStrength	Hard	Těžká
+BrigandsRaidStrength	VeryHard	Velmi těžká
+BrigandsRaidStrength	Impossible	Nemožná
+
+# ============================== STAVĚNÍ ======================================
+BuildQuest	DefaultText	Postav {Structure}
+Building	ResourceInAreaGood	Dobré
+Building	ResourceInAreaOkay	Ucházející
+Building	ResourceInAreaPoor	Slabé
+Building	ResourceInAreaVeryPoor	Velmi slabé
+BuildingComponent	NameTownHallDescription	Pojmenuj osadu
+BuildingPlan	PlanDisplayName	{BuildingName} (plán)
+BuildingPlan	PlanDisplayNameDefault	Stavební plán
+BuildingSelectItemWidget	Build	Postavit
+BuildingSelectItemWidget	PlaceConstructionSite	Umístit staveniště
+
+BuildingActionConfirmation	YesButtonText	Ano
+BuildingActionConfirmation	NoButtonText	Ne
+BuildingActionConfirmation	HusbandryDescription	{ActionText}\n\n(Všechna přiřazená zvířata přijdou o domov a bez řádné péče mohou uhynout)
+BuildingModeConfirmationQuestion	Disassembling	Chceš rozebrat {StructureName}?
+BuildingModeConfirmationQuestion	Relocating	Chceš přemístit {StructureName}?
+BuildingModeConfirmationQuestion	Renaming	Chceš přejmenovat {StructureName}?
+BuildingModeConfirmationQuestion	Unknown	Chceš upravit {StructureName}?
+
+# ============================ ŘEMESLO A LODĚ =================================
+Butchering	Butcher	Porcovat
+ButcheringCatalyst	CantRelocateManned	Právě se používá
+CameraSettings	Camera_Name	Kamera
+AudioSettings	DefaultSettingsName	Výchozí
+BlockTravel_Upgrading	UpgradingShipMinutes	Loď se vylepšuje (zbývá {Minutes} m {Seconds} s)
+BlockTravel_Upgrading	UpgradingShipSeconds	Loď se vylepšuje (zbývá {Seconds} s)
+
+# ============================= MĚŘENÍ VÝKONU =================================
+Benchmark	CreateNew	+ Vytvořit nové měření
+Benchmark	CreateNamePrompt	Zadej název měření
+Benchmark	NameRequired	Název je povinný.
+Benchmark	CreateFailed	Nepodařilo se vytvořit měření: {Name}
+Benchmark	ResumeFailed	Nepodařilo se obnovit měření: {Name}
+Benchmark	NoActiveCreation	Žádné měření se nevytváří. Nejdřív nějaké vytvoř.
+Benchmark	AddCameraDialogDescription	Přidat bod měření kamery
+Benchmark	PointCount	{Num} bodů kamery
+
+# ============================== KARAVANY =====================================
+Caravan	CaravanCart	{CartName}
+Caravan	CartNameWithStation	{Name} [{Station}]
+CaravanIcon	CaravanIconRoute	Karavana {Name}
+CaravanIcon	CaravanIconTradeDestination	Karavana do {Name}
+CaravanStructureData	CaravanRouteName	Trasa č. {RouteIndex}
+
+CaravanRoute	Name	Trasa
+CaravanRoute	Details	Upravit
+CaravanRoute	Rename	Přejmenovat
+CaravanRoute	RenameDialog_Description	Přejmenuj trasu karavany
+CaravanRoute	Delete	Smazat
+CaravanRoute	DeleteDialog_Description	Opravdu chceš smazat {Name}?
+CaravanRoute	CannotDelete_AssignedParty	Trasu nelze smazat, dokud je k ní přiřazena karavana.
+CaravanRoute	Find	Najít karavanu
+CaravanRoute	Recall	Odvolat
+
+CaravanRouteStop	Details	Upravit
+CaravanRouteStop	Delete	Smazat
+CaravanRouteStop	DeleteDialog_Description	Opravdu chceš smazat zastávku {Name}?
+CaravanRouteStopSettingsWidget	LoadAt	Naložit v {StopName}
+CaravanRouteStopSettingsWidget	UnloadAt	Vyložit v {StopName}
+
+CaravanRouteStatusWidget	PartyStatus.Assemble	Sestavuje se karavana
+CaravanRouteStatusWidget	PartyStatus.Load	Nakládá
+CaravanRouteStatusWidget	PartyStatus.Move	Na cestě
+CaravanRouteStatusWidget	PartyStatus.Unload	Vykládá
+CaravanRouteStatusWidget	PartyStatus.Regroup	Přeskupuje se
+CaravanRouteStatusWidget	PartyStatus.Return	Na cestě zpět
+CaravanRouteStatusWidget	ExecuteResult.NotEnoughCarriers	Nepodařilo se najmout dost nosičů.
+CaravanRouteStatusWidget	ExecuteResult.NotEnoughCarts	Není dost volných povozů.
+CaravanRouteStatusWidget	ExecuteResult.NotEnoughGuards	Nepodařilo se najmout dost strážných.

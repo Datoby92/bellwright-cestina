@@ -1,0 +1,178 @@
+# Obsah hry, dávka 04 (B) - originál <TAB> překlad
+#
+# brigand = lupič, bandit = lapka. Originál je odlišuje jako dvě různé skupiny,
+# tak to držíme i česky.
+# Vynechány vývojářské zbytky (BigFight, BlendMorphAndCloth, AttackButton).
+
+# --- repliky ---
+A fair day to thee! How may I serve thee in thy needs?	Dobrého dne ti přeji! Čím ti mohu posloužiti?
+A fair day to you. Care for a look at today’s goods?	Dobrý den. Nechceš se podívat na dnešní zboží?
+Always a warm welcome. I want to ask some questions.	Vždycky vřelé přivítání. Chci se na něco zeptat.
+50 coins? That’s steep. I might have to look elsewhere.	Padesát mincí? To je moc. Asi se poohlédnu jinde.
+50 gold coins is not enough. Make it 100, and I'm in.	Padesát zlatých nestačí. Dej sto a jdu do toho.
+50 gold, huh? That’s hard to refuse. Alright, I’m in.	Padesát zlatých, jo? To se těžko odmítá. Dobrá, jdu do toho.
+75 coins is too much for a pig like that. How about 50?	Sedmdesát pět mincí je za takové prase moc. Co třeba padesát?
+2 Agility: Novice Books and 2 Archery: Novice Books.	2 knihy Hbitost: začátečník a 2 knihy Lukostřelba: začátečník.
+2 Strength: Novice Books and 2 Shields: Novice Books.	2 knihy Síla: začátečník a 2 knihy Štíty: začátečník.
+
+# --- zadání úkolů ---
+Ask Lubomir for help in getting rid of the bandits.	Požádej Lubomira o pomoc se zbavením lapků.
+Add propaganda to the notice board in Sorwynn’s Cup	Vyvěs propagandu na vývěsku v Sorwynn’s Cup
+Break into the castle	Vnikni do hradu
+Break free: Blackridgepool	Osvoboď: Blackridgepool
+Break free: Bradford	Osvoboď: Bradford
+Break free: Crasmere	Osvoboď: Crasmere
+Break free: Farnworth	Osvoboď: Farnworth
+Break free: Haerndean	Osvoboď: Haerndean
+Break free: Horndean	Osvoboď: Horndean
+Break free: Padstow	Osvoboď: Padstow
+Bring charcoals to {QuestGiver}	Dones dřevěné uhlí k {QuestGiver}
+Bring cloth.	Přines látku.
+Bring cure to the Elder	Dones lék stařešinovi
+Bring Herbalist ingredients for the cure.	Přines bylinkáři přísady na lék.
+Bring ingredients to show dedication	Přines přísady na důkaz oddanosti
+Bring pelts as proof.	Přines kožešiny jako důkaz.
+Bring proof to {QuestGiver}.	Dones důkaz k {QuestGiver}.
+Bring quiver and simple arrows to the {QuestGiver}	Dones toulec a prosté šípy k {QuestGiver}
+Bring somked meat for {QuestGiver}	Přines uzené maso pro {QuestGiver}
+Bring stolen goods to {Npc} to prove your loyality.	Dones kradené zboží k {Npc} na důkaz své věrnosti.
+Bring stuff for {QuestGiver}	Přines věci pro {QuestGiver}
+Bring the sword back to its owner.	Vrať meč jeho majiteli.
+Bring the tools to Robin Ebbot	Dones nástroje Robinu Ebbotovi
+Bring the treasure to the dead knight's family.	Dones poklad rodině mrtvého rytíře.
+Bring the wine to {Npc}	Dones víno k {Npc}
+Bring tools for {QuestGiver}	Přines nástroje pro {QuestGiver}
+Bring tools from Finton Mallet.	Přines nástroje od Fintona Malleta.
+
+# --- názvy úkolů ---
+Blood and Gored	Krev a rány
+Blue Sky	Modré nebe
+Boundary Dispute	Spor o meze
+Bradford Election	Volba v Bradfordu
+Bradford Election is Close!	Volba v Bradfordu se blíží!
+Brigand Introduction	Seznámení s lupiči
+Bootlicking	Patolízalství
+
+# --- popisy ---
+A much stronger gate type used in setting up defenses.	Mnohem pevnější brána používaná při budování obrany.
+A practical and solid seat, offering a place to unwind.	Praktické a pevné sedadlo, kde si lze odpočinout.
+A proof that there is one less thief in the Karvenia.	Důkaz, že v Karvenii je o zloděje méně.
+A simple fence meant for setting up primitive defenses.	Prostý plot pro jednoduchou obranu.
+A step up from a tent. Each house can hold 4 people.	O stupeň lepší než stan. V každém domě bydlí 4 lidé.
+Abandoned tool that you found next to the broken cart.	Odhozený nástroj, který jsi našel u rozbitého povozu.
+Add books to your inventory to select them for reading.	Vlož knihy do batohu, abys je mohl vybrat ke čtení.
+Allows the wearer to carry even more items on the back.	Umožní nositeli nést na zádech ještě víc věcí.
+Animal feces that can be refined into soil fertilizer.	Zvířecí trus, který lze zpracovat na hnojivo.
+Blue sky quest item.	Předmět k úkolu Modré nebe.
+Boundary Dispute quest item.	Předmět k úkolu Spor o meze.
+
+# --- lupiči ---
+Brigand	Lupič
+Brigands	Lupiči
+Brigand Flag	Vlajka lupičů
+Brigand's Camp	Tábor lupičů
+Brigands Headquarters	Velitelství lupičů
+Brigands Prison	Vězení lupičů
+Brigands Raid	Nájezd lupičů
+Brigands Reclamation Party	Dobyvatelská družina lupičů
+Brigands Retaliation Party	Odvetná družina lupičů
+Brigands Tax Collector Party	Výběrčí družina lupičů
+Brigand's Letter (Quest Item)	Lupičův dopis (předmět k úkolu)
+Brigand's note	Lupičův zápisek
+Bloody Prisoner	Zkrvavený zajatec
+Bloodied note	Zakrvácený zápisek
+
+# --- lupičská výstroj ---
+Brigand Armor 1	Lupičská zbroj 1
+Brigand Armor 2	Lupičská zbroj 2
+Brigand's Armor Light	Lehká lupičská zbroj
+Brigand's Armor Medium	Střední lupičská zbroj
+Brigand's Armor Heavy	Těžká lupičská zbroj
+Brigand's Hood	Lupičská kápě
+Brigand's Hood 1	Lupičská kápě 1
+Brigand's Hood 2	Lupičská kápě 2
+Brigand's Gloves 1	Lupičské rukavice 1
+Brigands Gloves	Lupičské rukavice
+Brigands Gloves 2	Lupičské rukavice 2
+Brigand's Pants 1	Lupičské kalhoty 1
+Brigands Pants 2	Lupičské kalhoty 2
+Brigand's Galligaskins	Lupičské pantalony
+Brigand's Thick Galligaskins	Silné lupičské pantalony
+Brigand's Shoes	Lupičské boty
+Brigands Shoes 1	Lupičské boty 1
+Brigands Shoes 2	Lupičské boty 2
+Brigand's Thick Shoes	Silné lupičské boty
+
+# --- zvířata a lov ---
+Boar	Kanec
+Boars	Kanci
+Boar Carcass	Kančí mršina
+Boar Tusk	Kančí kel
+Boar Trophy	Kančí trofej
+Boar Spear	Oštěp na kance
+Black Tusker	Černý kanec
+Black Tusker Carcass	Mršina černého kance
+Bird Fluff	Peří
+Bird Nest	Ptačí hnízdo
+Bird Snares	Ptačí oka
+Birds Coop	Kurník
+Bottom Dweller	Bahňák
+Breeding	Rozmnožování
+
+# --- jídlo a suroviny ---
+Bread	Chléb
+Boiled Eggs	Vařená vejce
+Blueberry	Borůvka
+Black Pepper	Černý pepř
+Black Pearl	Černá perla
+Blossom	Květ
+Blossomveil Bush	Keř závojokvětu
+Blossomveil Seeds	Semena závojokvětu
+Boulder	Balvan
+Blackhide	Černá kůže
+
+# --- výbava ---
+Blackhide Boots	Boty z černé kůže
+Blackhide Gloves	Rukavice z černé kůže
+Blacksmith Apron	Kovářská zástěra
+Blacksmith Handwraps	Kovářské návleky na ruce
+Blacksmith Shirt	Kovářská košile
+Blue Townsfolk Gown	Modrý měšťanský šat
+Blue Townsfolk Robe	Modrá měšťanská róba
+Blue Townsfolk Shirt	Modrá měšťanská košile
+Bluepattern Cloak	Plášť s modrým vzorem
+Breeches with Kneepads	Nohavice s nákoleníky
+Book Merchant's Garb	Šat obchodníka s knihami
+Bolt Quiver	Toulec na šipky
+Bolts	Šipky
+Bottle	Láhev
+Boxes	Bedny
+
+# --- stavby a místa ---
+Blacksmith	Kovář
+Blacksmith Hut	Kovářská chýše
+Bakery	Pekárna
+Brewery	Pivovar
+Bloomery	Dýmačka
+Bookshelf	Knihovna
+Bridge	Most
+Blue Sky Smuggler's Camp	Pašerácký tábor Modré nebe
+Blackridgepool settlers	Osadníci z Blackridgepoolu
+Bradford settlers	Osadníci z Bradfordu
+Blackridgepool Miller Letter (Quest Item)	Dopis mlynáře z Blackridgepoolu (předmět k úkolu)
+
+# --- knihy ---
+Book Merchant	Obchodník s knihami
+Book Seller	Knihkupec
+Book Reading	Čtení knih
+Book from the Cult site	Kniha z kultovního místa
+Books for Haerndean Book Seller.	Knihy pro knihkupce z Haerndeanu.
+Books for Merchant (Quest Item)	Knihy pro obchodníka (předmět k úkolu)
+
+# --- rozhraní ---
+Body	Tělo
+Body Details	Podrobnosti těla
+Bonus	Bonus
+Boots Slot	Pozice na boty
+Break chance	Šance na zlomení
+Blocking Foliages	Překážející porost

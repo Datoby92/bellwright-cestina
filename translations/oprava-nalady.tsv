@@ -1,0 +1,20 @@
+# OPRAVA: nálady vesničanů
+#
+# 1) "Content" je tady nálada (spokojený), ne "obsah". Hlášeno ze hry:
+#    pod Morálkou svítilo "Obsah". Klasická past víceznačného slova.
+#
+# 2) Nálady byly přeložené jako přídavná jména v mužském rodě, takže
+#    u vesničanek hra psala "se cítí spokojený". Podstatná jména rod neřeší
+#    a v obou místech, kde se zobrazují (pod Morálkou i ve větě), znějí dobře.
+#
+# "Neutral" zůstává - přídavné jméno "neutrální" má stejný tvar pro všechny rody.
+
+Content	Spokojenost
+Satisfied	Uspokojení
+Delighted	Nadšení
+Excited	Rozjaření
+Disgruntled	Nespokojenost
+Annoyed	Podrážděnost
+Angry	Zlost
+Enraged	Zuřivost
+Lasting Type	Trvání

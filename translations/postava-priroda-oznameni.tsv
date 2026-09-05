@@ -1,0 +1,272 @@
+# Tvorba postavy, sběratelné suroviny v krajině, oznámení o osadě a NPC.
+#
+# U oznámení nejde česky skloňovat vkládaná jména ({StructureName} apod.), proto
+# se před ně dává obecné podstatné jméno ("stavba X", "osada Y") - věta pak drží
+# pohromadě bez ohledu na to, co se dosadí.
+
+# ============================ TVORBA POSTAVY =================================
+CharacterCustomization	Accessory	Doplněk
+CharacterCustomization	Age	Věk
+CharacterCustomization	Height	Výška
+CharacterCustomization	Large	Statná postava
+CharacterCustomization	Muscular	Svalnatá postava
+CharacterCustomization	Skinny	Hubená postava
+CharacterCustomization	ArmLength	Délka paží
+CharacterCustomization	ShoulderWidth	Šířka ramen
+CharacterCustomization	SkinColor	Barva pleti
+CharacterCustomization	SkinType	Typ pleti
+
+# --- hlava a tvar obličeje ---
+CharacterCustomization	HeadShape	Hlava
+CharacterCustomization	HeadSize	Velikost hlavy
+CharacterCustomization	ForeheadDepth	Hloubka čela
+CharacterCustomization	ForeheadScale	Velikost čela
+CharacterCustomization	CheeksDefinition	Výraznost lící
+CharacterCustomization	CheeksHeight	Výška lící
+CharacterCustomization	CheeksWidth	Šířka lící
+CharacterCustomization	ChinDepth	Hloubka brady
+CharacterCustomization	ChinScale	Velikost brady
+CharacterCustomization	JawDefinition	Výraznost čelisti
+CharacterCustomization	JawHeight	Výška čelisti
+CharacterCustomization	EarsShape	Uši
+
+# --- oči ---
+CharacterCustomization	EyesShape	Oči
+CharacterCustomization	EyesCurve	Sklon očí
+CharacterCustomization	EyeSocketDepth	Hloubka očnic
+CharacterCustomization	EyeSocketHeight	Výška očnic
+CharacterCustomization	EyeSocketWidth	Šířka očnic
+CharacterCustomization	UpperEyelidHeight	Výška horního víčka
+CharacterCustomization	LowerEyelidHeight	Výška dolního víčka
+CharacterCustomization	LeftEyeHue	Barva levého oka
+CharacterCustomization	LeftEyeLightness	Světlost levého oka
+CharacterCustomization	RightEyeHue	Barva pravého oka
+CharacterCustomization	RightEyeLightness	Světlost pravého oka
+
+# --- obočí ---
+CharacterCustomization	EyebrowsStyle	Styl obočí
+CharacterCustomization	EyebrowsDepth	Hloubka obočí
+CharacterCustomization	EyebrowsHeight	Výška obočí
+CharacterCustomization	EyebrowsWidth	Šířka obočí
+CharacterCustomization	EyebrowsPrimaryColor	Hlavní barva obočí
+CharacterCustomization	EyebrowsSecondaryColor	Vedlejší barva obočí
+
+# --- nos a rty ---
+CharacterCustomization	NoseShape	Nos
+CharacterCustomization	NoseDepth	Hloubka nosu
+CharacterCustomization	NoseHeight	Výška nosu
+CharacterCustomization	NoseWidth	Šířka nosu
+CharacterCustomization	LipsShape	Rty
+CharacterCustomization	LipsCurve	Sklon rtů
+CharacterCustomization	LipsDepth	Hloubka rtů
+CharacterCustomization	LipsHeight	Výška rtů
+CharacterCustomization	LipsWidth	Šířka rtů
+
+# --- vlasy a vousy ---
+CharacterCustomization	HairStyle	Účes
+CharacterCustomization	HairColorRatio	Poměr barev vlasů
+CharacterCustomization	HairPrimaryColor	Hlavní barva vlasů
+CharacterCustomization	HairSecondaryColor	Vedlejší barva vlasů
+CharacterCustomization	BeardStyle	Styl vousů
+CharacterCustomization	MustacheStyle	Styl knírů
+CharacterCustomization	FacialHairPrimaryColor	Hlavní barva vousů
+CharacterCustomization	FacialHairSecondaryColor	Vedlejší barva vousů
+
+# --- líčení ---
+CharacterCustomization	EyeMakeupType	Typ očních líčidel
+CharacterCustomization	EyeMakeupIntensity	Sytost očních líčidel
+CharacterCustomization	EyeMakeupMetalness	Kovový lesk očních líčidel
+CharacterCustomization	EyeMakeupPrimaryColor	Hlavní barva očních líčidel
+CharacterCustomization	EyeMakeupSecondaryColor	Vedlejší barva očních líčidel
+CharacterCustomization	BlusherType	Typ tvářenky
+CharacterCustomization	BlusherColor	Barva tvářenky
+CharacterCustomization	BlusherIntensity	Sytost tvářenky
+CharacterCustomization	BlusherRoughness	Drsnost tvářenky
+CharacterCustomization	LipstickColor	Barva rtěnky
+CharacterCustomization	LipstickIntensity	Sytost rtěnky
+
+# --- jizvy a tetování ---
+CharacterCustomization	HeadScarType	Jizva na hlavě
+CharacterCustomization	BodyScarType	Jizva na těle
+CharacterCustomization	TattooType	Typ tetování na hlavě
+CharacterCustomization	TattooColor	Barva tetování na hlavě
+CharacterCustomization	BodyTattooType	Typ tetování na těle
+CharacterCustomization	BodyTattooColor	Barva tetování na těle
+CharacterCustomization	UpperarmTattooType	Typ tetování na paži
+CharacterCustomization	UpperarmTattooColor	Barva tetování na paži
+CharacterCustomization	LowerarmTattooType	Typ tetování na předloktí
+CharacterCustomization	LowerarmTattooColor	Barva tetování na předloktí
+
+# ======================= SUROVINY A POROST V KRAJINĚ =========================
+FoliageStrings	Tree	Strom
+FoliageStrings	YoungTree	Mladý strom
+FoliageStrings	Sapling	Semenáček
+FoliageStrings	AppleTree	Jabloň
+FoliageStrings	BirchTree	Bříza
+FoliageStrings	PineTree	Borovice
+FoliageStrings	Oak	Dub
+FoliageStrings	Willow	Vrba
+FoliageStrings	EucalyptusTree	Eukalyptus
+FoliageStrings	RubberTree	Kaučukovník
+FoliageStrings	SapTree	Mízný strom
+FoliageStrings	Palm	Palma
+FoliageStrings	BurntTree	Spálený strom
+FoliageStrings	Stump	Pařez
+FoliageStrings	RottingStump	Trouchnivý pařez
+FoliageStrings	Log	Kláda
+FoliageStrings	Branch	Větev
+FoliageStrings	Sticks	Hromada klacků
+FoliageStrings	Wood	Suché dřevo
+FoliageStrings	Pinecone	Šiška
+
+FoliageStrings	Bush	Keř
+FoliageStrings	BurntBush	Spálený keř
+FoliageStrings	Brush	Houští
+FoliageStrings	Berry	Bobulový keř
+FoliageStrings	Flower	Květina
+FoliageStrings	GoldenFlower	Zlatý květ
+FoliageStrings	Poppy	Mák
+FoliageStrings	Herbs	Byliny
+FoliageStrings	PleasantHerb	Libá bylina
+FoliageStrings	Mushroom	Houba
+FoliageStrings	Reed	Říční rákos
+FoliageStrings	Bamboo	Bambus
+FoliageStrings	Cotton	Bavlna
+FoliageStrings	Flax	Len
+FoliageStrings	Corn	Kukuřice
+FoliageStrings	Straw	Pšenice
+FoliageStrings	Thatch	Došek
+FoliageStrings	BloodTurnip	Krvavá řepa
+FoliageStrings	VolcanicPlant	Sopečná rostlina
+FoliageStrings	RupuVine	Réva rupu
+FoliageStrings	Okkam	Okkam
+FoliageStrings	Phemke	Phemke
+
+FoliageStrings	Rock	Balvan
+FoliageStrings	CrudeStone	Balvan
+FoliageStrings	Pebble	Kámen
+FoliageStrings	Limestone	Vápenec
+FoliageStrings	Quartz	Křemen
+FoliageStrings	Obsidian	Obsidián
+FoliageStrings	MoonRock	Měsíční kámen
+FoliageStrings	IronOre	Železná ruda
+FoliageStrings	TinOre	Cínová ruda
+FoliageStrings	Aluminium	Hliník
+FoliageStrings	Titanium	Titan
+FoliageStrings	Tungsten	Wolfram
+FoliageStrings	Silicon	Křemík
+FoliageStrings	Sulfur	Síra
+FoliageStrings	Salt	Sůl
+FoliageStrings	Sand	Písek
+FoliageStrings	Clay	Hrouda hlíny
+FoliageStrings	Mud	Bláto
+FoliageStrings	Peat	Rašelina
+FoliageStrings	Tar	Dehet
+FoliageStrings	Asbestos	Azbest
+FoliageStrings	Rubber	Kaučuk
+FoliageStrings	Amber	Jantar
+FoliageStrings	Pearl	Perla
+FoliageStrings	Water	Voda
+FoliageStrings	AshVent	Popelný průduch
+
+FoliageStrings	Hide	Kůže
+FoliageStrings	Pelt	Kožešina
+FoliageStrings	Bones	Kosti
+FoliageStrings	Feather	Pírko
+FoliageStrings	Beeswax	Včelí vosk
+FoliageStrings	Insects	Hmyz
+FoliageStrings	WormEgg	Vajíčko červa
+
+# ============================== OZNÁMENÍ =====================================
+ActionItems	CombatCategory	Boj
+ActionItems	LivestockCategory	Hospodářská zvířata
+ActionItems	NpcsCategory	Obyvatelstvo
+ActionItems	ProductionCategory	Výroba
+ActionItems	SettlementCategory	Osada
+ActionItems	FormattedNpcNickname	 „{0}“
+
+# --- zvířata ---
+ActionItems	AnimalAddedToHusbandry	{AnimalType} {AnimalGender}, {AnimalName} byl přidán do stavby {StructureName} v osadě {SettlementName}.
+ActionItems	AnimalRemovedFromHusbandry	{AnimalType} {AnimalGender}, {AnimalName} byl odebrán ze stavby {StructureName} v osadě {SettlementName}.
+ActionItems	AnimalBorn	{AnimalGender}, {AnimalName} ({AnimalType}) se narodil.
+ActionItems	AnimalGrewUp	{AnimalType} {AnimalGender}, {AnimalName} dospěl.
+ActionItems	AnimalDiedOldAge	{AnimalType} {AnimalGender}, {AnimalName} zemřel stářím.
+ActionItems	AnimalDiedStress	{AnimalType} {AnimalGender}, {AnimalName} zemřel kvůli zanedbání.
+ActionItems	AnimalKilled	{AnimalType} {AnimalGender}, {AnimalName} byl zabit nepřáteli.
+ActionItems	AnimalSlaughtered	{AnimalType} {AnimalGender}, {AnimalName} byl poražen.
+ActionItems	AnimalHighStress	{AnimalType} {AnimalGender}, {AnimalName} je silně ve stresu.
+ActionItems	AnimalHomeless	{AnimalType} {AnimalGender}, {AnimalName} nemá ustájení.
+ActionItems	AnimalPoorlyFed	{AnimalType} {AnimalGender}, {AnimalName} je špatně krmen.
+ActionItems	AnimalStarving	{AnimalType} {AnimalGender}, {AnimalName} hladoví.
+
+# --- karavany ---
+ActionItems	CaravanNotEnoughGuards	Karavana ze stavby {StructureName} nesehnala dost strážných.
+ActionItems	CaravanRouteUnloaded	Karavana dorazila na stanici {StructureName}.
+ActionItems	CaravanSpawns	U stavby {StructureName} se objevila karavana
+
+# --- vesničané ---
+ActionItems	NpcDied	{NpcFullName}{NpcNickname} zemřel.
+ActionItems	NpcInjured	{NpcFullName}{NpcNickname} byl zraněn.
+ActionItems	NpcHungry	{NpcFullName}{NpcNickname} má hlad.
+ActionItems	NpcGuardHungry	Strážný {NpcFullName}{NpcNickname} má hlad.
+ActionItems	NpcCompanionHungry	Družiník {NpcFullName}{NpcNickname} dostává hlad a brzy může odmítat tvé rozkazy.
+ActionItems	NpcHunterIdle	{NpcFullName}{NpcNickname} nemá lovecké vybavení.
+ActionItems	NpcIdle	{NpcFullName}{NpcNickname} zahálí.
+ActionItems	NpcUnarmed	{NpcFullName}{NpcNickname} nemá zbraň.
+ActionItems	NpcUnhappy	{NpcFullName}{NpcNickname} se cítí {HappyOrUnhappy}.
+ActionItems	NpcUnhappyLeaving	{NpcFullName}{NpcNickname} kvůli nespokojenosti odejde.
+ActionItems	NpcLeftByUnhappiness	{NpcFullName}{NpcNickname} odešel kvůli nespokojenosti.
+
+# --- osada ---
+ActionItems	SettlementNoFoodStored	Osada {SettlementName} nemá uskladněné žádné jídlo.
+ActionItems	SettlementOutOfFood	Osadě {SettlementName} došlo jídlo.
+ActionItems	SettlementOutOfFoodSoon	Osadě {SettlementName} brzy dojde jídlo.
+ActionItems	SettlementIncomingPartyBig	K osadě {SettlementName} míří velká nájezdnická družina.
+ActionItems	SettlementIncomingPartyRaid	K osadě {SettlementName} míří nájezdnická družina.
+ActionItems	SettlementIncomingPartyReclamation	K osadě {SettlementName} míří dobyvatelská družina.
+ActionItems	SettlementOutgoingPartyReclaiming	{FactionName} vyslala vojsko obsadit osadu {SettlementName}!
+
+# --- stavby: výroba ---
+ActionItems	StructureCraftingInactive	{StructureName} je odstavena.
+ActionItems	StructureCraftingInactive_Short	Odstaveno
+ActionItems	StructureCraftingUnable	{StructureName} zastavila výrobu a nemůže plnit žádné zakázky.
+ActionItems	StructureCraftingUnable_Short	Výroba zastavena
+ActionItems	StructureCantProcessCarcass	Pro stavbu {StructureName} není kde zpracovat mršiny.
+ActionItems	StructureCantProcessCarcass_Short	Není kde zpracovat mršiny
+ActionItems	StructureWarehouseContainerEmptyFilter	{StructureName} nemá nastavené žádné povolené kategorie předmětů.
+
+# --- stavby: rybolov ---
+ActionItems	StructureFishingMissingBait	Stavbě {StructureName} chybí návnada.
+ActionItems	StructureFishingMissingBait_Short	Chybí návnada
+ActionItems	StructureFishingNoBaitSelected	Ve stavbě {StructureName} není zvolena návnada.
+ActionItems	StructureFishingNoBaitSelected_Short	Nezvolena návnada
+
+# --- stavby: sběr ---
+ActionItems	StructureHarvestingNoAvailableNpcs	Pro stavbu {StructureName} nejsou volní dělníci.
+ActionItems	StructureHarvestingNoAvailableNpcs_Short	Není volný dělník
+ActionItems	StructureHarvestingNoTasks	{StructureName} nemá ve frontě žádné úkoly.
+ActionItems	StructureHarvestingNoTasks_Short	Žádné úkoly
+
+# --- stavby: lov ---
+ActionItems	StructureHuntingMissingArrows	Stavbě {StructureName} chybí šípy.
+ActionItems	StructureHuntingMissingArrows_Short	Chybí šípy
+ActionItems	StructureHuntingAllArrowsUnselected	Ve stavbě {StructureName} nejsou zvoleny žádné šípy.
+ActionItems	StructureHuntingAllArrowsUnselected_Short	Nezvoleny žádné šípy
+ActionItems	StructureHuntingAllWorkersInjured	Všichni dělníci pro stavbu {StructureName} jsou zranění.
+ActionItems	StructureHuntingAllWorkersInjured_Short	Všichni dělníci zranění
+
+# --- stavby: bádání ---
+ActionItems	StructureResearchNoAvailableNpcs	Pro stavbu {StructureName} nejsou volní dělníci.
+ActionItems	StructureResearchNoAvailableNpcs_Short	Není volný dělník
+ActionItems	StructureResearchNoRequiredProfession	Pro stavbu {StructureName} nejsou dělníci s profesí {Profession}.
+ActionItems	StructureResearchNoRequiredProfession_Short	Vyžaduje: {Profession}
+ActionItems	StructureResearchNoRequiredResources	Stavbě {StructureName} chybí potřebné suroviny.
+ActionItems	StructureResearchNoRequiredResources_Short	Chybí suroviny
+
+# --- stavby: pracoviště ---
+ActionItems	StructureWorksiteMissingTool	Stavbě {StructureName} chybí {ToolType}.
+ActionItems	StructureWorksiteMissingTool_Short	Chybí {ToolType}
+ActionItems	StructureWorksiteAllToolUnselected	Ve stavbě {StructureName} nejsou zvoleny žádné nástroje.
+ActionItems	StructureWorksiteAllToolUnselected_Short	Nezvoleny žádné nástroje
+ActionItems	StructureWorksiteNoRequiredToolSkill	Ve stavbě {StructureName} nejsou dělníci s dovedností {SkillName} pro zvolené nástroje.
+ActionItems	StructureWorksiteNoRequiredToolSkill_Short	Nikdo nemá dost {SkillName} pro tento nástroj

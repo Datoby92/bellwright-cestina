@@ -1,0 +1,273 @@
+# Obsah hry, dávka 08 (D-F) - originál <TAB> překlad
+#
+# Vynechány vývojářské zástupné texty (FactionName, DefendButton,
+# ExplorationFriendly) - ty se ve hře nezobrazují jako text pro hráče.
+
+# --- repliky ---
+Did you manage to gather them?	Podařilo se ti je sehnat?
+Did you need something?	Potřeboval jsi něco?
+Do we have business you and I?	Máme spolu nějaké jednání?
+Do you get many customers?	Chodí ti hodně zákazníků?
+Do you have a moment?	Máš chvilku?
+Do you have any job for me now?	Máš teď pro mě nějakou práci?
+Do you have any job for me?	Máš pro mě nějakou práci?
+Do you have any jobs for me today?	Máš pro mě dnes nějakou práci?
+Do you have any tasks for me?	Máš pro mě nějaké úkoly?
+Do you have job for me?	Máš pro mě práci?
+Do you know any legends about Sorwynn?	Znáš nějaké pověsti o Sorwynn?
+Do you know any myths about Seavunda?	Znáš nějaké báje o Seavundě?
+Do you know the hermit that lives over that hill?	Znáš toho poustevníka za kopcem?
+Do you need a drink or a bed?	Potřebuješ pití, nebo nocleh?
+Do you need any help?	Potřebuješ pomoc?
+Do you need anything from me?	Potřebuješ ode mě něco?
+Do you think I just carry a stock of weapons on me?	Myslíš, že u sebe nosím sklad zbraní?
+Do you want something?	Chceš něco?
+Do you want to ask anything else?	Chceš se zeptat ještě na něco?
+Does my father know that you are bothering me?	Ví můj otec, že mě obtěžuješ?
+Doesn’t sound like you agree with how things are run.	Nezní to, že bys souhlasil s tím, jak se to tu vede.
+Doesn’t sound like you enjoy it much.	Nezní to, že by tě to moc bavilo.
+Don’t talk to me, you idiot, you will blow my cover.	Nemluv se mnou, ty hlupáku, prozradíš mě.
+Documents should be here somewhere.	Ty listiny tu někde musí být.
+Enough chatter. Are you going to buy anything or not?	Dost řečí. Koupíš si něco, nebo ne?
+Ever regret it?	Litoval jsi toho někdy?
+Ever think of leaving the isle behind?	Napadlo tě někdy ostrov opustit?
+Fair enough. I'll earn your loyalty.	Budiž. Tvou věrnost si zasloužím.
+
+# --- zadání úkolů ---
+Discover more about the shrine with {Npc}.	Zjisti víc o svatyni s {Npc}.
+Duel {Npc}	Vyzvi {Npc} na souboj
+Duel Leopoldo Ortis	Vyzvi Leopolda Ortise na souboj
+Enter the mansion	Vejdi do sídla
+Escape from prison.	Uteč z vězení.
+Escort Alchemist out of Cave	Vyveď alchymistu z jeskyně
+Escort Baltasar Blanco out of the cave	Vyveď Baltasara Blanca z jeskyně
+Escort Cecilio to the cave	Doprovoď Cecilia k jeskyni
+Escort girl to the Cassians.	Doprovoď dívku k Cassianům.
+Escort girl to the Halmayans.	Doprovoď dívku k Halmayanům.
+Escort Granko Veles to Opportunist Bliss.	Doprovoď Granka Velese do Opportunist Bliss.
+Escort Isa back to Rustshore and talk to her after	Doprovoď Isu zpět do Rustshore a pak s ní promluv
+Escort Isa to Opportunist's Bliss and talk to her after	Doprovoď Isu do Opportunist's Bliss a pak s ní promluv
+Escort Osbert to the meeting spot	Doprovoď Osberta na místo schůzky
+Escort rescued traveler to the village.	Doprovoď zachráněného pocestného do vsi.
+Escort the mad warrior to the village.	Doprovoď šíleného válečníka do vsi.
+Escort traveler to Bradford.	Doprovoď pocestného do Bradfordu.
+Establish a settlement to gain access to trading	Založ osadu a získáš přístup k obchodu
+Examine	Prohlédnout
+Examine Berta's stalls.	Prohlédni Bertiny stánky.
+Examine Gavin's stalls.	Prohlédni Gavinovy stánky.
+Examine the bodies.	Prohlédni těla.
+Examine the body in the cage	Prohlédni tělo v kleci
+Examine the bottle.	Prohlédni láhev.
+Examine the salt basket for gambito’s tracks.	Prohlédni koš se solí a hledej stopy gambita.
+Examine the skeletons.	Prohlédni kostry.
+Examine the shrine near Blackridgepool.	Prohlédni svatyni u Blackridgepoolu.
+Examine the shrine near Crasmere.	Prohlédni svatyni u Crasmere.
+Examine the shrine near Farnworth.	Prohlédni svatyni u Farnworthu.
+Examine the shrine near Horndean.	Prohlédni svatyni u Horndeanu.
+Examine the shrine near Padstow.	Prohlédni svatyni u Padstowu.
+Exit the archive	Odejdi z archivu
+Face bandits who robbed the Blacksmith.	Postav se lapkům, kteří okradli kováře.
+Face Lord Ashbourne in his castle.	Postav se lordu Ashbournovi na jeho hradě.
+
+# --- názvy úkolů ---
+Digging Deeper	Kopeme hlouběji
+Diplomatic Mission	Diplomatické poslání
+Divisions in the Dark	Rozkol ve tmě
+Do No Harm	Neuškodit
+Done for the Day	Pro dnešek hotovo
+Drunken Brawl	Opilecká rvačka
+Election	Volba
+Election Bradford	Volba Bradford
+Election in Bradford	Volba v Bradfordu
+Election in Bradford!	Volba v Bradfordu!
+Experimental Treatment	Pokusná léčba
+Fair Deal	Poctivý obchod
+Fair Deal quest item.	Předmět k úkolu Poctivý obchod.
+Fake it quest	Úkol Předstírej to
+Fake it till you make it	Předstírej, dokud to nebude pravda
+Fake shipment	Falešná zásilka
+False Oaths	Falešné přísahy
+
+# --- zápisky a předměty k úkolům ---
+Donovan's Stolen Treasure	Donovanův ukradený poklad
+Elder Cure (Quest Item)	Stařešinův lék (předmět k úkolu)
+Elder medicine quest item.	Předmět k úkolu Stařešinův lék.
+Excerpt from the “Crown and Flame”	Úryvek z „Koruny a plamene“
+Excerpt of the "Crown and Flame"	Úryvek z „Koruny a plamene“
+
+# --- jídlo a suroviny ---
+Dried	Sušené
+Dried Berries	Sušené bobule
+Dried berries that don't spoil too fast.	Sušené bobule, které se tak rychle nekazí.
+Dried Mushroom	Sušená houba
+Dried mushrooms that don't spoil too fast.	Sušené houby, které se tak rychle nekazí.
+Doll’s Tear Alcohol	Alkohol ze Slz panenky
+Earthworms	Žížaly
+Egg	Vejce
+Embers	Žhavé uhlíky
+Down Fill	Prachové peří
+Dirty water	Špinavá voda
+Exotic berry brought by merchants from overseas.	Cizokrajná bobule, kterou přivážejí kupci ze zámoří.
+Exotic spice brought by merchants from overseas.	Cizokrajné koření, které přivážejí kupci ze zámoří.
+
+# --- zvířata ---
+Dog	Pes
+Dog Carcass	Psí mršina
+Eagle	Orel
+Eagle Carcass	Orlí mršina
+
+# --- výbava a zbraně ---
+Double-Headed Warhammer	Dvoustranné válečné kladivo
+Elm Shortbow	Jilmový krátký luk
+Falchion	Falchion
+Empty Scabbard	Prázdná pochva
+Durable Water Sack	Odolný měch na vodu
+Fabric Satchel	Látková brašna
+Elder's Tunic	Stařešinova tunika
+Engineer Hat	Inženýrský klobouk
+Engineer Shirt	Inženýrská košile
+Engineer Trousers	Inženýrské kalhoty
+
+# --- výstroj elitních lupičů ---
+Elite Brigand Helmet 1	Přilba elitního lupiče 1
+Elite Brigand Helmet 2	Přilba elitního lupiče 2
+Elite Brigand Helmet 3	Přilba elitního lupiče 3
+Elite Brigand Torso 1	Kabátec elitního lupiče 1
+Elite Brigand Torso 3	Kabátec elitního lupiče 3
+Elite Brigand Gloves	Rukavice elitního lupiče
+Elite Brigand Pants	Kalhoty elitního lupiče
+Elite Brigand Boots	Boty elitního lupiče
+
+# --- výstroj Falsgaru ---
+Falsgar Helmet 1	Falsgarská přilba 1
+Falsgar Helmet 2	Falsgarská přilba 2
+Falsgar Helmet 3	Falsgarská přilba 3
+Falsgar Helmet 4	Falsgarská přilba 4
+Falsgar Torso 1	Falsgarský kabátec 1
+Falsgar Torso 2	Falsgarský kabátec 2
+Falsgar Torso 3	Falsgarský kabátec 3
+Falsgar Torso 4	Falsgarský kabátec 4
+Falsgar Gloves 1	Falsgarské rukavice 1
+Falsgar Gloves 2	Falsgarské rukavice 2
+Falsgar Gloves 3	Falsgarské rukavice 3
+Falsgar Pants 1	Falsgarské kalhoty 1
+Falsgar Pants 2	Falsgarské kalhoty 2
+Falsgar Boots 1	Falsgarské boty 1
+Falsgar Boots 2	Falsgarské boty 2
+Falsgar Boots 3	Falsgarské boty 3
+Falsgar Boots 4	Falsgarské boty 4
+Falsgar Shield	Falsgarský štít
+Falsgar's Cape	Falsgarský plášť
+Falsgar Leader Brigandine	Brigantina falsgarského vůdce
+Falsgar Leader Greaves	Holenice falsgarského vůdce
+Falsgar Leader Boots	Boty falsgarského vůdce
+
+# --- knihy ---
+Expert Book - Agility	Mistrovská kniha – Hbitost
+Expert Book - Animal Handling	Mistrovská kniha – Chov zvířat
+Expert Book - Archery	Mistrovská kniha – Lukostřelba
+Expert Book - Cooking	Mistrovská kniha – Vaření
+Expert Book - Crafting	Mistrovská kniha – Výroba
+Expert Book - Farming	Mistrovská kniha – Zemědělství
+Expert Book - Harvesting	Mistrovská kniha – Sběr
+Expert Book - Labourer	Mistrovská kniha – Dělník
+Expert Book - One Handed	Mistrovská kniha – Jednoruční zbraně
+Expert Book - Polearms	Mistrovská kniha – Dřevcové zbraně
+Expert Book - Research	Mistrovská kniha – Bádání
+Expert Book - Shields	Mistrovská kniha – Štíty
+Expert Book - Strength	Mistrovská kniha – Síla
+Expert Book - Two Handed	Mistrovská kniha – Obouruční zbraně
+
+# --- stavby a místa ---
+Distillery	Palírna
+Dirt Road	Polní cesta
+Drawbridge	Padací most
+Drink Stand	Stánek s pitím
+Drying Rack	Sušicí rám
+Drying Rack for Hide	Sušicí rám na kůže
+Dock Area	Přístavní prostor
+Docked Ship	Zakotvená loď
+Dockyard	Loděnice
+Dockyard (BIG)	Loděnice (velká)
+Encampment	Tábor
+Ex-bandit camp	Bývalý tábor lapků
+Engineer's Camp	Inženýrův tábor
+Exiled Craftsman Hut	Chýše vyhnaného řemeslníka
+Eldric Prisoner Cage	Eldricova klec pro zajatce
+Erdana Shrine	Svatyně Erdana
+Family Farm	Rodinné hospodářství
+Doubles the log carrying capacity of lumberjacks.	Zdvojnásobí, kolik klád dřevorubci unesou.
+
+# --- lidé ---
+Elder	Stařešina
+Elder:	Stařešina:
+Engineer	Inženýr
+Digger	Kopáč
+Dullard	Tupec
+Fallen Mercenary	Padlý žoldnéř
+
+# --- rozhraní ---
+Difficulty	Obtížnost
+Dig	Kopat
+Direction	Směr
+Disable popups	Vypnout vyskakovací okna
+Disband	Rozpustit
+Discard	Zahodit
+Discard items	Zahodit předměty
+Disgruntled	Nespokojený
+Dismantle	Rozebrat
+Dismantle facility	Rozebrat provoz
+Dismiss	Propustit
+Display all tutorials again	Zobrazit znovu všechny návody
+Drag and drop a soldier here to transfer to this squad.	Přetáhni sem vojáka, aby přešel do tohoto oddílu.
+Draw Weight	Síla nátahu
+Dreary	Ponurý
+Drive	Řídit
+Duel	Souboj
+Duplicate	Zdvojit
+Durability	Odolnost
+Duration	Trvání
+Duration Time	Doba trvání
+Early Access	Předběžný přístup
+Earn Loyalty to the faction to unclock this reward	Získej u frakce věrnost a odemkni tuto odměnu
+Economy	Hospodářství
+Economy & Prosperity	Hospodářství a prosperita
+Economy Overview	Přehled hospodářství
+Edit...	Upravit…
+Editing is blocked	Úpravy jsou zablokované
+Effects	Účinky
+ELDER-TECH UNLOCKS	ODEMČENÍ STARÝCH TECHNOLOGIÍ
+Empty	Prázdné
+END	KONEC
+Ending	Zakončení
+Enemies	Nepřátelé
+Enemies at destination!	V cíli jsou nepřátelé!
+Engaged in combat	V boji
+Enough resources	Dost surovin
+Enraged	Rozzuřený
+Epic	Epické
+Equipment	Výbava
+Event	Událost
+Events history (last 3 days):	Historie událostí (poslední 3 dny):
+Excited	Natěšený
+Exclusive	Výhradní
+Exit	Odejít
+Expected deliveries:	Očekávané dodávky:
+Expel	Vyhnat
+Eye color	Barva očí
+Eyebrows	Obočí
+Eyes	Oči
+Facial hair	Vousy
+Facilities	Provozy
+Faction equipment sold	Prodaná výbava frakce
+Faction mercenaries	Žoldnéři frakce
+Faction merchant available	Kupec frakce je k dispozici
+Faction name	Název frakce
+Faction patrol defeated!	Hlídka frakce poražena!
+Faction relations	Vztahy s frakcemi
+Factions	Frakce
+FAILED	NEZDAŘILO SE
+Failed to inseminate	Oplodnění se nezdařilo
+Fall	Pád
+Fallen	Padlí
+Fallen in battle	Padl v bitvě

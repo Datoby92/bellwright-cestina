@@ -1,0 +1,11 @@
+# OPRAVA podle hlášení ze hry - namespace <TAB> klíč <TAB> překlad
+#
+# "Vše Způsobené poškození" -> "Způsobené poškození: Vše"
+# Hra skládá popisek jako {DamageType} {DamageMode}. Angličtině to vyhovuje
+# ("All Damage Dealt"), češtině ne. Prohozením na "{DamageMode}: {DamageType}"
+# to sedí i pro ostatní typy: "Způsobené poškození: Tupé", "...: Sečné".
+Mist	DamageModifierStatusEffect	{DamageMode}: {DamageType}
+
+# Nálady jsou nově podstatná jména (kvůli rodu), takže "se cítí spokojenost"
+# by nedávalo smysl. Věta se mění na dvojtečkovou vazbu, která rod neřeší.
+ActionItems	NpcUnhappy	{NpcFullName}{NpcNickname} – nálada: {HappyOrUnhappy}.

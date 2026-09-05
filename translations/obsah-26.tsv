@@ -1,0 +1,239 @@
+# Obsah hry, dávka 26 (W-Z a proměnné) - originál <TAB> překlad
+#
+# Množné číslo: angličtina má jen one/other, čeština potřebuje navíc few (2-4)
+# a many (desetinná čísla). Bez toho by hra psala "5 družiník".
+
+{Num} {Num}|plural(one=companion,other=companions)	{Num} {Num}|plural(one=družiník,few=družiníci,many=družiníka,other=družiníků)
+{Num} {Num}|plural(one=reservist,other=reservists)	{Num} {Num}|plural(one=záložník,few=záložníci,many=záložníka,other=záložníků)
+
+# --- otázky hráče ---
+Who are you?	Kdo jsi?
+Who is Sorwynn?	Kdo je Sorwynn?
+Who is this client?	Kdo je ten zákazník?
+Who taught you to talk like that?	Kdo tě naučil takhle mluvit?
+Who’s in this crew of yours?	Kdo patří k té tvé posádce?
+Why settle here?	Proč se usadit zrovna tady?
+Why would someone do something like Blue Sky?	Proč by někdo dělal něco jako Modré nebe?
+Would you be so kind and tell me more about yourself?	Byl bys tak laskav a řekl mi o sobě víc?
+Would you share more about yourself?	Prozradíš o sobě víc?
+You live up in Cragkeep, right? What’s it like there?	Ty bydlíš nahoře v Cragkeepu, že? Jaké to tam je?
+You look like you need help with something.	Vypadáš, že potřebuješ s něčím pomoct.
+You look like someone in a great hurry, something happened?	Vypadáš, že hodně spěcháš, stalo se něco?
+You look like you’ve seen your share of adventures.	Vypadáš, žes zažil svůj díl dobrodružství.
+You look quite bad today. How do you feel?	Dnes vypadáš dost špatně. Jak ti je?
+You look tired today, want me to help with something?	Vypadáš dnes unaveně, mám ti s něčím pomoct?
+You look worried, can I help with anything?	Vypadáš ustaraně, můžu nějak pomoct?
+You look worried, is there anything I can help you with?	Vypadáš ustaraně, můžu ti s něčím pomoct?
+You look worried…	Vypadáš ustaraně…
+You must know a lot of people around here.	Musíš tu znát spoustu lidí.
+You must know everyone in town, then.	Takže musíš znát celé město.
+You must’ve been in the Falsgar for a while then.	Tak to jsi ve Falsgaru musel být pěknou chvíli.
+You must’ve seen a lot on your travels.	Na cestách jsi toho musel vidět hodně.
+You seem nervous, I’m sure you’ve been through a lot.	Působíš nervózně, určitě sis toho hodně prožil.
+You seem to have a lot on your mind?	Zdá se, že toho máš hodně na srdci?
+You seem to have knowledge about fishing…	Zdá se, že se vyznáš v rybaření…
+You sound like you’ve seen a lot of the world.	Zní to, žes viděl kus světa.
+You think I care who inherits?	Myslíš, že mě zajímá, kdo zdědí?
+You wanted to speak with me?	Chtěl jsi se mnou mluvit?
+You weren’t always a shopkeeper, were you?	Nebyl jsi vždycky kupcem, viď?
+You’re looking anxious. Has something happened?	Vypadáš úzkostně. Stalo se něco?
+You're looking nervous. What happened?	Vypadáš nervózně. Co se stalo?
+You're looking worried, has something happened?	Vypadáš ustaraně, stalo se něco?
+You’re not from these Isles are you?	Ty nejsi z těchhle ostrovů, viď?
+You’re right, but back to the story.	Máš pravdu, ale zpět k příběhu.
+You’re sure he’s okay?	Určitě je v pořádku?
+You’ve never been in the Gauntlet, did you?	V Gauntletu jsi nikdy nebyl, viď?
+You’ve seen your share of battles, then.	Tak to jsi zažil svůj díl bitev.
+Whodunit?	Kdo to spáchal?
+Who calls dog Loaf?	Kdo pojmenuje psa Bochník?
+
+# --- odpovědi hráče ---
+Yeah, I'll deal with those wolves.	Jo, ty vlky vyřídím.
+Yeah, Sure!	Jo, jasně!
+Yep, got the potion right here.	Jo, lektvar mám tady.
+Yes	Ano
+Yes?	Ano?
+Yes, do you need anything?	Ano, potřebuješ něco?
+Yes, good idea. Thanks again for your help.	Ano, dobrý nápad. Ještě jednou dík za pomoc.
+Yes, here they are.	Ano, tady jsou.
+Yes, join me.	Ano, přidej se ke mně.
+Yes, of course. Farwell.	Ano, ovšem. Sbohem.
+Yes, they will harass the cattle no longer.	Ano, dobytek už obtěžovat nebudou.
+You can try.	Můžeš to zkusit.
+You know what? I need to think about it.	Víš co? Musím si to rozmyslet.
+You know, to earn some coins.	Však víš, abych si vydělal.
+I’m sorry for your loss.	Upřímnou soustrast.
+
+# --- repliky NPC ---
+Who gave you permission to enter this town?	Kdo ti dovolil vstoupit do tohohle města?
+Why are you hanging around here? You’re not welcome.	Co se tu potuluješ? Nejsi tu vítán.
+Why you starin’ at us like that?	Co na nás tak čumíš?
+Why you stopping, we need to keep going.	Proč stojíš, musíme jít dál.
+Why did I sign up for this?	Proč jsem do toho šel?
+Whoever made this knows how to cook.	Kdo tohle udělal, umí vařit.
+Will they eat me when I die?	Sní mě, až umřu?
+Wise. Curiosity gets men killed quicker than steel.	Moudré. Zvědavost zabíjí rychleji než ocel.
+Wonderful! What are you interested in learning?	Výborně! Co by ses rád naučil?
+Yes! I’m a healer, so worry not, I’ll take care of him!	Ano! Jsem ranhojič, tak se neboj, postarám se o něj!
+Yes, yes. I've already said you can.	Ano, ano. Už jsem řekl, že můžeš.
+You again. What do you want?	Zase ty. Co chceš?
+You again? Are you deaf? Get out.	Zase ty? Jsi hluchý? Vypadni.
+You Bastard!	Ty parchante!
+You do like to talk.	Ty si rád povídáš.
+You don’t deserve the honor.	Té pocty nejsi hoden.
+You don’t scare me.	Mě nevystrašíš.
+You guessed right, smartarse.	Uhodls, chytráku.
+You have no business here. Go away.	Nemáš tu co pohledávat. Táhni.
+You may ask, but you will not receive an answer.	Ptát se můžeš, ale odpovědi se nedočkáš.
+You need to go home. Your mother is worried about you.	Musíš domů. Matka má o tebe strach.
+You seem the type who could use a steady blade nearby.	Vypadáš na někoho, komu by se hodila pevná čepel po boku.
+You shouldn't be here.	Tady bys být neměl.
+You'll find our cellar well stocked, if your purse is.	Náš sklep je dobře zásobený, pokud je i tvůj měšec.
+You're not allowed to be here. Go away.	Sem nemáš přístup. Táhni.
+You've came back, do you want me to work with you?	Vrátil ses, chceš, abych s tebou šel?
+You’ve returned. Shall we work together?	Vrátil ses. Dáme se do díla společně?
+You’ve got a sharp tongue for a merchant.	Na kupce máš ostrý jazyk.
+Your loss.	Tvá škoda.
+Your room is in the attic, up the stairs.	Tvůj pokoj je v podkroví, nahoře po schodech.
+
+# --- souboje ---
+Win a fight againts Eirik Skarn.	Vyhraj souboj s Eirikem Skarnem.
+Win a fight againts Gregory Sweat	Vyhraj souboj s Gregorym Sweatem
+Win a fight duel Bertram Groosg.	Vyhraj souboj s Bertramem Groosgem.
+Win a fight duel Cathal Doylei.	Vyhraj souboj s Cathalem Doyleiem.
+Win a fight duel Leonard Greenbergg.	Vyhraj souboj s Leonardem Greenbergem.
+Win the duel against the Viceroy	Vyhraj souboj s místokrálem
+Win the duel and prove yourself to the Warriors Guild.	Vyhraj souboj a osvědč se cechu válečníků.
+
+# --- názvy úkolů ---
+Wife’s Wrath	Ženin hněv
+Winter’s Reserve	Zimní zásoba
+Witch Hunt	Hon na čarodějnice
+Without a Trace	Beze stopy
+Work in Pawgress	Práce v tlapkoběhu
+Will this broken blade cause a broken marriage?	Způsobí zlomená čepel i rozvrácené manželství?
+Widow's Diary	Vdovin deník
+Widow’s Diary	Vdovin deník
+Written by a biased historian	Sepsal zaujatý dějepisec
+Zakar missing shipment.	Zakarova ztracená zásilka.
+
+# --- zvířata ---
+Wolf	Vlk
+Wolves	Vlci
+Wolves!	Vlci!
+Wolf Carcass	Vlčí mršina
+Wolf Fang	Vlčí tesák
+Wolf Trophy	Vlčí trofej
+Wolf trophy provides renown for placing in your settlement	Vlčí trofej ti po umístění v osadě přinese věhlas
+Wolf trophy provides renown for placing in your settlement.	Vlčí trofej ti po umístění v osadě přinese věhlas.
+Wild Goat	Divoká koza
+Young Wild Goat	Mladá divoká koza
+Wild Goat Carcass	Mršina divoké kozy
+Wild Goat Carcass.	Mršina divoké kozy.
+Winning Hog	Vítězný vepř
+Yield when slaughtered	Výnos při porážce
+
+# --- suroviny a jídlo ---
+Wine	Víno
+Wine Crate	Bedna s vínem
+Wine Crate (Quest Item)	Bedna s vínem (předmět k úkolu)
+Wood	Dřevo
+Wooden Plank	Dřevěné prkno
+Wool	Vlna
+
+# --- zbraně a výstroj ---
+Winged Mace	Křídlatý palcát
+Wooden Bolts	Dřevěné šipky
+Wooden Spear	Dřevěné kopí
+Woodcutter's Axe	Dřevorubecká sekera
+Yew Shortbow	Tisový krátký luk
+Woodsman Cap	Hajného čapka
+Woodsman Shirt	Hajného košile
+Woodsman Shoes	Hajného boty
+Woodsman Trousers	Hajného kalhoty
+Woodsman Vest	Hajného vesta
+
+# --- stavby a místa ---
+Wide Dirt Road	Široká polní cesta
+Windmill	Větrný mlýn
+Wind God Shrine	Svatyně boha větru
+Wind Shrine	Svatyně větru
+Wine God Shrine	Svatyně boha vína
+Wine Shrine	Svatyně vína
+Wolves Cave	Vlčí jeskyně
+Wolves' Den	Vlčí doupě
+Wolves near Haerndean	Vlci u Haerndeanu
+Wooden Arch Lantern	Lucerna na dřevěném oblouku
+Wooden Chair	Dřevěná židle
+Wooden Stool	Dřevěná stolička
+Wooden Crate	Dřevěná bedna
+Wooden Fence	Dřevěný plot
+Workbench	Pracovní stůl
+Workshop	Dílna
+Ydrassa Shrine	Svatyně Ydrassa
+Zaira's Cage	Zairina klec
+Zlytos Cave Painting	Jeskynní malba Zlytos
+Zlytos Shrine	Svatyně Zlytos
+
+# --- lidé ---
+Woodcutter	Dřevorubec
+Woodsman	Hajný
+Worker	Dělník
+Winner	Vítěz
+Wounded	Zraněný
+
+# --- oznámení ---
+You are now a friend of {SettlementName}.	Teď jsi přítelem {SettlementName}.
+You are now a protector of {SettlementName}.	Teď jsi ochráncem {SettlementName}.
+You are now an associate of {SettlementName}.	Teď jsi společníkem {SettlementName}.
+You are now the bellwright of {SettlementName}.	Teď jsi bellwrightem {SettlementName}.
+You have been raided (Invasion)!	Byl jsi přepaden (vpád)!
+You have been raided!	Byl jsi přepaden!
+You have defeated the invasion party!	Porazil jsi vpádovou družinu!
+You have defeated the invasion!	Odrazil jsi vpád!
+You have defeated the raiders!	Porazil jsi nájezdníky!
+You have liberated the village!	Osvobodil jsi ves!
+You helped faction!	Pomohl jsi frakci!
+You unlocked a technology tier.	Odemkl jsi úroveň technologií.
+Will appear as a worker in your settlement shortly.	Brzy se v tvé osadě objeví jako dělník.
+{Npc} has something for you. Visit him in Bradford.	{Npc} pro tebe něco má. Navštiv ho v Bradfordu.
+{Npc} is looking for you. Talk to her.	{Npc} tě hledá. Promluv s ní.
+{PartySize} {PartyFaction} were spotted.	Bylo spatřeno: {PartySize} {PartyFaction}.
+{SettlementName} was raided	{SettlementName} byla přepadena
+{SettlementName} was raided on {Daytime}	{SettlementName} byla přepadena v {Daytime}
+
+# --- rozhraní ---
+Will	Vůle
+Winter	Zima
+Wip	Rozpracováno
+Work in progress.	Rozpracováno.
+Work attributes	Pracovní vlastnosti
+Worked preferred job	Dělal oblíbenou práci
+Workplace	Pracoviště
+Woodcutting	Kácení
+Wrath	Hněv
+Yesterday	Včera
+Yield	Výnos
+Yield Storage	Sklad výnosů
+You can review tutorials in the codex.	Návody si můžeš projít v kodexu.
+You don't have a building with available slots.	Nemáš stavbu s volnými místy.
+You get	Dostaneš
+You give	Dáš
+You have unsaved changes!	Máš neuložené změny!
+You must restart the game for changes to take effect!	Aby se změny projevily, musíš hru restartovat!
+You won	Vyhrál jsi
+You're too far from host.	Jsi příliš daleko od hostitele.
+Your allies	Tví spojenci
+Your funds	Tvé prostředky
+Your inventory is full.	Tvůj batoh je plný.
+Your name	Tvé jméno
+Your Villagers	Tví vesničané
+Zoom	Přiblížení
+{Days}d {Hours}h	{Days} d {Hours} h
+{Hours}h {Minutes}m	{Hours} h {Minutes} m
+{ExcursionFactionName} loyalty	věrnost: {ExcursionFactionName}
+{ExcursionFactionName} wrath	hněv: {ExcursionFactionName}
+{SettlementName} prosperity	prosperita: {SettlementName}
+{SettlementName} trust	důvěra: {SettlementName}
+{SubregionName} threat	hrozba: {SubregionName}
+|STANCES|	|POSTOJE|

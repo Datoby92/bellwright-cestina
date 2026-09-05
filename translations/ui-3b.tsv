@@ -1,0 +1,259 @@
+# Rozhraní, dokončení část B - namespace <TAB> klíč <TAB> překlad
+#
+# Oddělovače ", " (BringQuestDescriptionItemDelimiter, ShipmentItemDelimiter)
+# zůstávají nepřeložené - mají koncovou mezeru, kterou by TSV ztratilo,
+# a v češtině jsou stejné.
+
+MistSettlementTradingWidget	TransactionState_InvalidBuy	Neplatné hráčovy předměty
+MistSettlementTradingWidget	TransactionState_InvalidSell	Neplatné předměty k prodeji
+MistSettlementTradingWidget	TransactionState_NotEnoughMoney	Nedostatek
+MistSettlementTradingWidget	TransactionState_RequiresSellOrder	Nenakupuje, ale je ochoten směnit
+
+MistSkillBookEntryWidget	Duration	Trvá {Duration}
+MistSkillBookReadEntryWidget	RequiredLevelError	Vyžaduje\núroveň {Level}
+MistSkillLevelToolTipWidget	LevelHeader	Úroveň {CurrentLevel}/{PotentialLevel}
+MistStructureListItemWidget	ConstructionSiteProgress	hotovo {Percentage}
+MistStructureListItemWidget	ConstructionSiteProgressFoliage	Odklízení porostu
+MistStructureManagementContainerPanelWidget	RequiredForNameLabel	Potřebné suroviny pro {Name}
+MistStructureManagementContainerPanelWidget	RequiredLabel	Potřebné suroviny
+MistStructureManagementResearchOrderCurrentWidget	ResearchProgress	vybádáno {ResearchPercentage}
+MistStructureManagementResearchScreen	MaxTechAgeHeader	Bádání technologií až do úrovně {TechAge}.
+MistStructureManagementTradePostRuleEditWidget	QuantityLimit.Buy.Label.Keep	Ponechat
+
+MistTechTreePopupTechAgeWidget	UnlockHintBuild	Postav {StructureName} a odemkneš tuto úroveň.
+MistTechTreePopupTechAgeWidget	UnlockHintResearch	Vybádej {TechnologyName} a odemkneš tuto úroveň.
+MistTechTreePopupTechAgeWidget	UnlockProgress	vybádáno {ProgressPercentage}
+MistTechTreePopupWidget	DurationOriginalLabel	Zbývající doba
+MistTechTreePopupWidget	ModifiedDurationLabel	({Modified})
+MistTechTreePopupWidget	ResearchProgress	vybádáno {ResearchPercentage}
+MistToggleMenuWidget	ButtonLabelWithMultipleSelectedOptions	{Label} +{Num}
+
+MistTownLogicAccessPoint	AccessPoint_Build	Stavět
+MistTownLogicAccessPoint	AccessPoint_Deconstruct	Rozebrat
+MistTownLogicAccessPoint	AccessPoint_Operate	Obsluhovat
+MistTownLogicAccessPoint	AddConstructionMaterial	Přidat stavební materiál
+MistTownLogicAccessPoint	AddConstructionMaterialFirst	Nejdřív přidej stavební materiál
+MistTownLogicAccessPoint	AddResource	Přidat {ResourceName} {Available}/{Maximum}
+MistTownLogicAccessPoint	AddResourceNoItem	Žádný předmět
+MistTownLogicAccessPoint	AddSingleResource	Přidat {ResourceName}
+MistTownLogicAccessPoint	AnimalStartHatching	Zahájit líhnutí
+MistTownLogicAccessPoint	BuildClearConstructionArea	Nejdřív vyklidi staveniště
+MistTownLogicAccessPoint	BuildPart	Postavit část
+MistTownLogicAccessPoint	ConstructPart	Postavit {ElementName}
+MistTownLogicAccessPoint	DeconstructPart	Odebrat část
+MistTownLogicAccessPoint	ItemCountString	{ItemCount} {ItemName}
+MistTownLogicAccessPoint	ItemWithoutCountString	{ItemName}
+MistTownLogicAccessPoint	ManageWorkforce	Spravovat
+MistTownLogicAccessPoint	NoConstructionHammer	Ke stavbě chybí kladivo
+MistTownLogicAccessPoint	OpenStorageContainer	Otevřít sklad
+MistTownLogicAccessPoint	Requires workers	Vyžaduje dělníky
+MistTownLogicAccessPoint	RequiresClearing	Musí se vyklidit
+MistTownLogicAccessPoint	TakeResource	Vzít {Maximum} {ResourceName}
+MistTownLogicAccessPointPrebuilt	ManageWorkforce	Spravovat
+MistTownLogicAccessPointPrebuilt	Requires workers	Vyžaduje dělníky
+
+MistTraderInteractionWidget	BuyButtonLabel	Koupit {Num}
+MistTraderInteractionWidget	SellButtonLabel	Prodat {Num}
+MistTreeFoliageHarvestLogic	AliveStandingTreeCutInteraction	Pokácet
+MistTreeFoliageHarvestLogic	OnTheGroundLogCutInteraction	Rozřezat
+
+MistUI	Confirm	Potvrdit
+MistUI	MoveMap	Posunout mapu
+MistUI	MuteUnmutePlayer	Ztlumit / zrušit ztlumení hráče
+MistUI	Navigate	Procházet
+MistUI	ReportPlayer	Nahlásit hráče
+
+MistVillageInfoImprovementConstructionWidget	ConstructionProgress	postaveno {Percentage}
+MistVillageInfoImprovementConstructionWidget	DeconstructionProgress	rozebráno {Percentage}
+MistVillageInfoImprovementPopupWidget	Reward.MilitiaAmount	+{Value} {Value}|plural(one=jednotka,few=jednotky,many=jednotky,other=jednotek)
+MistVillageInfoImprovementPopupWidget	Reward.MilitiaUpgrade	Vylepšení
+MistVillageInfoImprovementPopupWidget	Reward.Trust	Důvěra
+MistWaypointUI	OtherPlayerWaypointFormat	Rozcestník hráče {PlayerName}
+
+MistWorkforce	ChroniclePlayerKilledByAnimal	{KillerName} zabil {VictimName}
+MistWorkforce	ChroniclePlayerKilledByBandit	Lapka zabil {VictimName}
+MistWorkforce	ChroniclePlayerKilledByPlayer	Zabil jsi {VictimName}
+MistWorkforce	TownAttackedByBandits	Lapkové napadli osadu {TownHallName}
+MistWorkforce	TownLostWorkforceChronicleKilledByAnimal	{KillerName} zabil vesničana {VictimName} z {SettlementName}
+MistWorkforce	TownLostWorkforceChronicleKilledByBandit	Lapka zabil vesničana {VictimName} z {SettlementName}
+MistWorkforce	TownLostWorkforceChronicleKilledByPlayer	Zabil jsi vesničana {VictimName} z {SettlementName}
+MistWorkforce	TownLostWorkforceLeftChronicle	Vesničan {FirstName} {LastName} opustil osadu {TownHallName} – nedostatek bydlení
+
+ModSelection	EnableAnyway	Přesto zapnout
+ModSelection	OutdatedModWarning	POZOR: Tenhle mod byl vytvořen pro starší verzi hry.\n\nMůže způsobit pády, poškození uložených her a další potíže.\n\nOpravdu ho chceš zapnout?
+
+MoraleFactorLastingType	Brief	Krátkodobý
+MoraleFactorLastingType	Dependent	Podmíněný
+MoraleFactorLastingType	Long	Dlouhodobý
+MoraleFactorLastingType	Permanent	Trvalý
+Multiplier	Value	{Value}×
+
+NameValidation	Empty	Zadej prosím jméno.
+NameValidation	TooLong	Jméno je příliš dlouhé, může mít nejvýše {Length} {Length}|plural(one=znak,few=znaky,many=znaku,other=znaků).
+NameValidation	TooShort	Jméno je příliš krátké, musí mít aspoň {Length} {Length}|plural(one=znak,few=znaky,many=znaku,other=znaků).
+
+NeutralVillage	NeutralVillageBecameHostile	{VillageName} tě teď považuje za nepřítele.
+NeutralVillage	NeutralVillageBecameNotHostile	{VillageName} ti odpustila nepřátelské činy.
+NeutralVillage	NeutralVillageReputationGain	Získal jsi {Num} pověsti v {SettlementName}
+NeutralVillage	NeutralVillageReputationLost	Ztratil jsi {Num} pověsti v {SettlementName}
+NeutralVillageComponent	VillageLiberated	{VillageName} je osvobozena
+NeutralVillageComponent	VillageOccupied	{VillageName} je obsazena
+
+NpcActivityDescription	NpcBleedingOut	Vykrvácí
+NpcActivityDescription	NpcIdling	Rozjímá o životě
+NpcDetailsWidget	NpcDetailsWidgetCraftingStatus	{NpcName} právě vyrábí {ItemName}
+NpcDetailsWidget	NpcDetailsWidgetCraftingWaiting	{NpcName} čeká na výrobní zakázky
+NpcDetailsWidget	NpcDetailsWidgetHarvestingStatus	{NpcName} právě něco sklízí
+NpcDetailsWidget	NpcDetailsWidgetWorkingStatus	{NpcName} právě pracuje ve stavbě {StructureName}
+
+NpcEquipmentPreset	PresetCopy	Kopie: {SourceName}
+NpcEquipmentPreset	PresetRuleBack	Pozice na zádech
+NpcEquipmentPreset	PresetRuleFood	Strava
+NpcEquipmentPreset	PresetRuleHands	Pozice na ruce
+NpcEquipmentPreset	PresetRuleLegs	Pozice na nohy
+NpcEquipmentPreset	PresetRuleMedicine	Léky (jen pro bojovníky)
+NpcEquipmentPreset	PresetRulePrimary	Hlavní zbraň
+NpcEquipmentPreset	PresetRuleSecondary	Vedlejší zbraň
+
+NpcFilterView	BookPriorities	Priority knih
+NpcFilterView	Condition	Stav
+NpcFilterView	None	Obecné
+NpcFilterView	Nutrition	Výživa
+NpcHouseWidget	LivesOnDifferentMapInfo	Bydlí na mapě {MapName}
+NpcManagement	ExpelConfirmation	Opravdu chceš {Name} vyhnat?\n {Gender}|gender(On,Ona,Oni) už se k tobě znovu přidat nemusí.
+NpcNickname	DialogDescription	Dej vesničanovi přezdívku
+
+NpcRoleDescription	CaravaneerDroppingCart	Vrací povoz
+NpcRoleDescription	CaravaneerPreparing	Dokončuje předchozí úkol
+NpcRoleDescription	CaravaneerPreparingForJourney	Chystá se na cestu
+NpcRoleDescription	CaravaneerWaiting	Čeká
+NpcRoleDescription	CaravaneerWorking	Probíhá
+NpcRoleDescription	IdleCitizen	Zahálející obyvatel
+NpcRoleDescription	ShipmentListOfItems	{Num} {ItemName}
+NpcRoleDescription	ShipmentOfItemlistFromStructure	Bere {ItemList} ze stavby {OriginStructure}
+NpcRoleDescription	ShipmentOfItemlistFromStructureToStructure	Veze {ItemList} ze stavby {OriginStructure} do stavby {DestinationStructure}
+NpcRoleDescription	ShipmentOfItemlistToStructure	Veze {ItemList} do stavby {DestinationStructure}
+NpcRoleDescription	WaitingForNavmesh	Přepočítává cestu
+
+NpcRoles	Follower	Družiník
+NpcRoles	Immigrant	Přistěhovalec
+NpcRoles	MobFighter	Bojovník
+NpcRoles	Test	Test
+NpcRoles	Transporter	Přepravce
+NpcRoles	TravelingAway	Na cestě pryč
+NpcWorkplaceWidget	WorkAsRole	Nyní pracuje jako: {RoleName}
+
+Number	ValueOfMax	{Value}/{MaxValue}
+Number	ValuePerSecond	{Value}/s
+NumberInputWidget	RequiredError	Hodnota je povinná.
+NumberInputWidget	TooLargeError	Hodnota nesmí být větší než {MaxValue}.
+NumberInputWidget	TooSmallError	Hodnota musí být aspoň {MinValue}.
+Orchard	CutDown	Pokácet
+PCGLandscapeSamplerElement	GenerationInfo	Vygenerováno {0} bodů v {1} buňkách
+Persistence	ErrorSavingSpace	Při ukládání hry došlo k chybě. Ujisti se, že je na disku dost místa.
+
+Placement	BlockedAboveHaerndean	Lupiči drží tuhle část kraje pevně v hrsti. Zkus stavět jižně od Haerndeanu.
+Placement	BlockedByOther	Umístění brání jiný objekt.
+Placement	BlockedByOtherNamed	{ObjectName} brání umístění na tomto místě.
+Placement	BlockedBySpawnPoint	Umístění brání místo oživení.
+Placement	BlockedByTradingStation	Umístění brání obchodní stanice.
+Placement	BockedByRoad	Umístění brání cesta.
+Placement	CantConnectInThisDirection	V tomto směru se napojit nedá
+Placement	CantConnectToSegment	Nelze napojit na {SegmentType}
+Placement	ConnectionAngleTooSharp	Příliš ostrý úhel
+Placement	NeedsToBeDry	{ComponentName} musí být nad vodou
+Placement	NeedsToBeUnderwater	{ComponentName} musí být pod vodou
+Placement	NotConnectedToSupportingParent	Objekt není plně napojen na nosnou část.
+Placement	NotConnectedToTerrain	Objekt není plně napojen na zem.
+Placement	NotFullySupported	Objekt nemá dostatečnou oporu.
+Placement	NotSuitableTerrain	Na tomto terénu stavět nelze
+Placement	OnlyOneTownZoneAllowed	Zóna vlivu se nesmí překrývat se dvěma zónami vlivu měst.
+Placement	SegmentToShortToSnapTo	Úsek je příliš krátký
+
+Player	OfflineLootGetItems	Vzít předměty
+PlayerConnectionChange	PlayerDefaultName	Jiný hráč
+PlayerCraftingRecipeListItemWidget	RequiredSkill	Vyžaduje {RequiredSkill} {RequiredSkillLevel}
+PlayerMessengerComponent	MutedPlayerMessage	Ztlumen {Player}
+PlayerMessengerComponent	No Ammo	Žádné střelivo
+PlayerMessengerComponent	NoBait	Žádná návnada!
+PlayerMessengerComponent	NoFishInPond	V téhle tůni nejsou ryby!
+PlayerMessengerComponent	ShootingObstructed	Ve střelbě něco brání!
+PlayerMessengerComponent	UnmutedPlayerMessage	Ztlumení zrušeno: {Player}
+PlayerMessengerComponent	WaterTooShallow	Voda je příliš mělká!
+
+PlayerSleep	CantSleepDay	Na spánek je příliš brzy
+PlayerSleep	CantSleepHostile	Nelze spát, když jsou poblíž nepřátelé
+PlayerSleep	CantSleepInUse	Právě se používá
+PlayerSleep	SleepUntilMorning	Spát do rána
+PlayerSleep	SleepUntilMorningReclamation	Spát do rána (blíží se dobyvatelská družina)
+
+PracticeFightQuest	DefaultText	Vyhraj souboj s {Npc}
+PracticeFights	AcceptPracticeFight	Přijmout cvičný souboj
+PracticeFights	AlreadyOffered	Už nabídnuto
+PracticeFights	DuelInterrupted	Souboj přerušen
+PracticeFights	DuelLost	Souboj prohrán
+PracticeFights	DuelStarted	Souboj zahájen
+PracticeFights	DuelStarting	Souboj začíná za…
+PracticeFights	DuelWon	Souboj vyhrán
+PracticeFights	OfferPracticeFight	Nabídnout cvičný souboj
+PracticeFights	PracticeFightInterrupted	Cvičný souboj přerušen
+PracticeFights	PracticeFightWon	Cvičný souboj vyhrán
+
+PresetName	DialogDescriptionPreset	Zadej název předvolby výstroje
+PresetsEditorEquipment	DeleteConfirmation	Opravdu chceš tuto předvolbu výstroje smazat?
+
+PrivilegeFailures	AccountPrivilegeError	Tvůj účet nemá potřebná oprávnění ke hraní online.
+PrivilegeFailures	AccountPrivilegeErrorPS5	Ke hraní online potřebuješ aktivní předplatné PlayStation®Plus.
+PrivilegeFailures	AgeRestrictionFailure	Kvůli věkovému omezení nemůžeš hrát online.
+PrivilegeFailures	ChatRestricted	Kvůli rodičovské kontrole Xbox Live nemůžeš rušit ztlumení hráčů
+PrivilegeFailures	GenericFailure	Kvůli chybě platformy nemůžeš hrát online.
+PrivilegeFailures	NetworkConnectionUnavailable	Ke hraní online je potřeba připojení k internetu
+PrivilegeFailures	OnlinePlayRestricted	Tvůj účet má omezené hraní online.
+PrivilegeFailures	RequiredPatchAvailable	Je dostupná novější verze hry, nejdřív ji musíš aktualizovat.
+PrivilegeFailures	RequiredSystemUpdate	Před hraním online prosím aktualizuj systém.
+PrivilegeFailures	UnknownFailure	Kvůli neznámé chybě nemůžeš hrát online.
+PrivilegeFailures	UserNotFound	S neplatným uživatelem nemůžeš hrát online.
+PrivilegeFailures	UserNotLoggedIn	Bez přihlášeného uživatele nemůžeš hrát online.
+ProfileMessages	NeedLicense	Přihlášení uživatelé nemají licenci k této hře. Kup si prosím Bellwright na Xbox Marketplace nebo se přihlas uživatelem s platnou licencí.
+
+ProfessionTier	Apprentice	Učeň
+ProfessionTier	Journeyman	Tovaryš
+ProfessionTier	Expert	Znalec
+
+Quest	DescriptionWithMap	{Description} ({MapName})
+RaidFrequency	High	Vysoká
+RaidFrequency	Low	Nízká
+RaidStrength	Easy	Lehká
+RaidStrength	Hard	Těžká
+RaidStrength	Impossible	Nemožná
+RaidStrength	VeryHard	Velmi těžká
+Raids	ExpectedToday	Očekává se dnes
+Raids	ExpectedTomorrow	Očekává se zítra
+Raids	Incoming	Blíží se
+Raids	Level	Úroveň {Level}
+RangedAimingMode	Hold	Podržet
+RangedAimingMode	Toggle	Přepnout
+
+Recruiting	EnoughRenown	Dostatek věhlasu ({CurrentRenown}/{RequiredRenown})
+Recruiting	NotEnoughRenown	Nedostatek věhlasu: ({CurrentRenown}/{RequiredRenown})
+Recruiting	FollowersHappiness	Spokojenost družiníků
+Recruiting	NotEnoughTrust	Vyžaduje úroveň důvěry {TrustLevel}
+Recruiting	PlayerPopulationHiringValue	Hodnota hráčova obyvatelstva
+Recruiting	QuestInProgress	Probíhá úkol
+Recruiting	Village Trust	Důvěra vsi: {TrustLevel}
+Recruiting	VillageLiberated	Ves osvobozena
+Recruiting	VillageNotLiberated	Ves není osvobozena
+
+RegionInfoWidget	AdjacentRegionsThreat	Ze sousedního nepřátelského území: {AdRegThreat} %
+RegionInfoWidget	BanditActivityPercentage	Činnost hlídek lapků: {BanditActivity} %
+RegionInfoWidget	CampsThreat	Z nepřátelských táborů: {Camps} %
+RegionInfoWidget	ClearedCampsPercentage	Vyčištěné tábory: {ClearedCamps} %
+RegionInfoWidget	DefeatedPatrolsPercentage	Poražené hlídky: {DefeatedPatrols} %
+RegionInfoWidget	MilitiaActivityPercentage	Činnost hlídek domobrany: {MilitiaActivity} %
+RegionInfoWidget	RegionName	Kraj: {Region}
+RegionInfoWidget	SubregionCapital	Hlavní sídlo: {Capital}
+RegionInfoWidget	SubregionOccupyingFaction	Patří: {FactionName}
+RegionInfoWidget	ThreatGrowth	Předpověď hrozby: {Growth} %
+RegionInfoWidget	ThreatPercentage	Hrozba: {Threat} %
+Regions	RegionConquered	Dobyl jsi kraj {RegionName}!
+RemoveResourceLoc	RemoveResource	Vrátit přidané suroviny

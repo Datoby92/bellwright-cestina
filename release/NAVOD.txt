@@ -1,0 +1,60 @@
+BELLWRIGHT – ČEŠTINA
+Fanouškovský překlad, překlad zařídil TheraWoW.com
+Verze překladu: 1.0 (pro Steam build 24840601, září 2026)
+Přeloženo: 100 % textů hry (28 880 řetězců)
+
+===========================================================
+ AUTOMATICKÁ INSTALACE (doporučeno)
+===========================================================
+1. Rozbal celý ZIP kamkoli (ne jen jednotlivé soubory).
+2. Spusť  Instalovat.bat
+   – instalátor sám najde složku hry ve Steam knihovně,
+     nakopíruje soubor s češtinou a přepne jazyk hry na češtinu.
+3. Spusť hru. Hotovo.
+
+Odebrání češtiny:  spusť  Odinstalovat.bat  (vrátí angličtinu).
+
+===========================================================
+ RUČNÍ INSTALACE
+===========================================================
+1. Soubor  Bellwright\Content\Localization\Game\cs\Game.locres  z tohoto ZIPu
+   zkopíruj do složky hry tak, aby vznikla cesta:
+
+   ...\Steam\steamapps\common\Bellwright\Bellwright\Content\Localization\Game\cs\Game.locres
+
+   (složku "cs" vytvoř – ve hře původně není)
+
+2. Otevři v Poznámkovém bloku soubor:
+   %LOCALAPPDATA%\Bellwright\Saved\Config\Windows\GameUserSettings.ini
+   (do adresního řádku Průzkumníka vlož  %LOCALAPPDATA%\Bellwright\Saved\Config\Windows )
+
+3. Najdi sekci [Internationalization] a nastav:
+
+   [Internationalization]
+   Culture=cs
+
+   Pokud sekce neexistuje, přidej ji na konec souboru.
+
+4. Ulož a spusť hru.
+
+Návrat k angličtině: Culture=en
+
+===========================================================
+ ČASTÉ DOTAZY
+===========================================================
+• Je to bezpečné? Ano. Do hry se pouze PŘIDÁVÁ nová složka "cs".
+  Žádný původní soubor se nepřepisuje. Ověření souborů přes Steam
+  češtinu maximálně smaže – pak stačí spustit Instalovat.bat znovu.
+
+• Po aktualizaci hry se objevují anglické texty?
+  Nové texty přidané v updatu zůstanou anglicky, dokud nevyjde nová
+  verze překladu. Nic se nerozbije. Sleduj stránku s překladem.
+
+• Funguje to s módy / multiplayerem? Ano, jde jen o texty na tvém PC.
+
+• Našel jsi chybu / překlep / nesmysl? Pošli screenshot a napiš,
+  co tam bylo anglicky – oprava je otázka pár minut.
+
+===========================================================
+Překlad je zdarma. Nešiřte ho za peníze. Sdílejte prosím odkaz
+na původní stránku, ne přebalené kopie – ať lidé dostanou aktuální verzi.

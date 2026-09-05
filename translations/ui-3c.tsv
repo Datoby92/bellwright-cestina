@@ -1,0 +1,252 @@
+# Rozhraní, dokončení část C - namespace <TAB> klíč <TAB> překlad
+#
+# Část nápověd (Flots, oázy, walkeři, Levy) jsou pozůstatky z Last Oasis,
+# jiné hry téhož studia. Překládáme je taky - ve hře se zobrazit můžou.
+
+GroupTeleport	AnimalsToTeleport	\nZvířata: {Count}
+GroupTeleport	PlayerToTeleport	{PreviousText}\n{PlayerName}
+MistGameMenu	InviteButtonFailDescription	Nepodařilo se otevřít okno pozvánky.\nUjisti se, že je zapnutá překryvná vrstva Steamu.\n\nJak ji zapnout:\n1. Otevři Steam\n2. Jdi do Nastavení -> Ve hře\n3. Zaškrtni „Povolit překryvnou vrstvu Steamu ve hře“
+MistNpcListJobPriorityHeaderGroupWidget	NoStructureWithJobCategoryToolTip	{JobCategory}\nPro tuhle práci nemáš stavbu
+
+Respawn	CannotRespawn	Stiskni pro oživení
+Respawn	DangerousToRespawn	Oživení je teď nebezpečné. Bude možné za {TimeLeft} s
+Respawn	TetherCannotRespawn	Oživení je teď nebezpečné
+
+Roadworks	CantRemoveRoadSegment	TUHLE CESTU NELZE ODSTRANIT
+Roadworks	CreateRoad	UMÍSTIT
+Roadworks	ExtendRoad	PRODLOUŽIT
+Roadworks	JoinRoads	SPOJIT
+Roadworks	MissingResources	CHYBÍ SUROVINY
+Roadworks	NoRoad	ŽÁDNÁ CESTA
+Roadworks	RemoveRoadSegment	ODSTRANIT
+Roadworks	RequiresRoadToExtend	NAJDI STÁVAJÍCÍ CESTU
+Roadworks	RoadBlocked	ZABLOKOVÁNO
+Roadworks	RoadTooLong	PŘÍLIŠ DLOUHÉ
+Roadworks	RoadTooSharp	PŘÍLIŠ OSTRÉ
+Roadworks	RoadTooShort	PŘÍLIŠ KRÁTKÉ
+
+RoleSwitcherWidget	FallenInBattleBeforeSettlement	Brzy se vrátí do tvého oddílu.
+SaplingActor	SaplingActorQueryInfoText	Semenáček roste
+SaveGraphicsSetting	Description	Některé změny se projeví až po restartu
+SaveGraphicsSetting	NoButtonText	Zahodit změny
+SaveGraphicsSetting	YesButtonText	Ukončit hru
+Settings	KeyMappingConflict_CollisionInSameContext	Koliduje s {MappingName}
+Settings	KeyMappingConflict_HiddenBy	Překryto {MappingName}
+Settings	KeyMappingConflict_Hides	Překrývá {MappingName}
+SettingsScreen	UnsavedChangesConfirmation	Máš neuložené změny. Chceš přesto odejít?
+
+Settlement	ChronicleNpcJoinedSettlement	Vesničan {FirstName} {LastName} se přidal k tvé osadě {TownHallName}
+Settlement	ChronicleNpcLeaveSettlementFood	Vesničan {FirstName} {LastName} opustil osadu {TownHallName} – nezbylo nic k jídlu
+Settlement	ChronicleNpcLeaveSettlementWater	Vesničan {FirstName} {LastName} opustil osadu {TownHallName} – nedostatek vody
+Settlement	TownLostWorkforceLeftChronicle	Vesničan {FirstName} {LastName} opustil osadu {TownHallName} – nedostatek bydlení
+Settlement	InitialFirstSettlementName	Tvá osada
+Settlement	InitialOutpostName	Dočasný tábor
+SettlementDefence	DetectedMessageDesciption	Poblíž {SettlementName} byli spatřeni nepřátelé
+SettlementDefence	DetectedMessageText	POPLACH!!!!
+SettlementManagementNpcTabWidget	LibraryNotBuilt	Odemkne se s knihovnou
+SettlementManagementNpcTabWidget	SGNotBuilt	Odemkne se se shromaždištěm
+UMistSettlementManagementNpcListGearPresetButtonColumnGroupWidget	SGNotBuilt	Odemkne se se shromaždištěm
+SettlementRename	DialogDescription	Zadej název této osady
+
+Sleep	DaysUntilWinter	Do zimy zbývá {DaysUntilWinter} dní
+Sleep	DaysUntilWinter_One	Do zimy zbývá jeden den
+Sleep	WakeupNotificationOfCalendarDay	Den {DayNumber}
+
+SoundSettings	DeviceName_Name	Zvukové zařízení
+SoundSettings	MuteAiVoices_Name	Ztlumit hlasy z AI
+SoundSettings	MuteAiVoices_Hint	Během vývoje používáme generativní AI k prototypování dabingu. V plné verzi počítej s profesionální kvalitou namluvení.
+SoundSettings	MuteWhenBackground_Name	Ztlumit na pozadí
+SoundsSettings	AiVoiceVolume_Name	Hlasy z AI
+SoundsSettings	MusicVolume_Name	Hudba
+SoundsSettings	SfxVolume_Name	Zvukové efekty
+SoundsSettings	UiVolume_Name	Zvuky rozhraní
+SoundsSettings	VoiceVolume_Name	Hlasy
+
+StaticMeshLODSettings	DecoLOD	Dekorace
+StaticMeshLODSettings	FoliageLOD	Porost
+StaticMeshLODSettings	HighDetailLOD	Vysoké detaily
+StaticMeshLODSettings	LargePropLOD	Velké objekty
+StaticMeshLODSettings	LevelArchitectureLOD	Architektura úrovně
+StaticMeshLODSettings	MyFoliageLOD	Můj porost
+StaticMeshLODSettings	NoLODs	Bez LOD
+StaticMeshLODSettings	SmallPropLOD	Malé objekty
+StaticMeshLODSettings	TinyPropLOD	Drobné objekty
+StaticMeshLODSettings	VistaLOD	Dálkové pohledy
+
+Stats	Mobility	Pohyblivost
+StatusEffects	KnockedOutDeathChance	Šance na smrt při omráčení
+Storage	Broken	Rozbité: {ItemName}
+StorageRulesWidgetSearch	ItemNotFoundHint	{ItemName} se nepodařilo najít!
+Structure	DestroyedStructureNewRefunds	Některé tvé stavby byly rozebrány kvůli zásadním změnám herní mapy na jejich místech. Všechny vrácené suroviny a předměty najdeš v nejbližším skladu nebo na zemi poblíž: {0}
+Structure	DestroyedStructureOldRefunds	Tyto stavby stále čekají na vyřízení poté, co byly rozebrány kvůli zásadním změnám herní mapy na jejich místech: {0}
+Structure	OutpostStructureTitleInformation	{StructureName} [{OutpostName}]
+StructureRename	DialogDescription	Zadej název této stavby
+
+SwitchSettlement	Description	Chceš z {SettlementName} udělat svou hlavní osadu?
+SwitchSettlement	HasWarehouse	Osada má skládku
+SwitchSettlement	NoWarehouse	Osada potřebuje aspoň jednu skládku
+SwitchSettlement	MostPopulated	Tohle je nejlidnatější osada
+SwitchSettlement	NotMostPopulated	Osada musí být nejlidnatější
+SwitchSettlement	NoHomeless	Všichni vesničané mají bydlení
+SwitchSettlement	HomelessCount	{Count} {Count}|plural(one=vesničan nemá,few=vesničané nemají,many=vesničana nemá,other=vesničanů nemá) dům
+
+Talk	AlreadyTalking	Zaneprázdněn
+Talk	CantTalkNoEntryTalk	Nemá co říct
+Talk	CantTalkWeaponUnsheathed	Nebude mluvit, schovej zbraň
+Talk	TalkInteraction	Promluvit
+TalkChoice	GiveCoins	Dát
+TalkScreen	SubtitleStandaloneSpeakerName	{SpeakerName}
+TalkScreen	SubtitleStandaloneSpeakerNameAndRole	{SpeakerName}, {SpeakerRole}
+
+TavernSleep	CantSleepDay	Na spánek je příliš brzy
+TavernSleep	CantSleepHostile	Nelze spát, když jsou poblíž nepřátelé
+TavernSleep	CantSleepNotPaid	Za nocleh nebylo zaplaceno
+TavernSleep	NotEnoughMoney	Nedostatek peněz. Potřebuješ {Cost} mincí.
+TavernSleep	PayForTavern	Zaplatit {Cost} mincí za nocleh
+TavernSleep	SleepUntilMorning	Spát do rána
+TavernSleep	SleepCompanionsOutOfReach	Spát do rána. ({Num} {Num}|plural(one=družiník je,few=družiníci jsou,many=družiníka je,other=družiníků je) mimo dosah!)
+TetherMessage	TetherMessageWidget	Jsi příliš daleko od {Name}
+
+Time	DayString	Den {Day}
+Time	DayTimeString	Den {Day}, {Hour}:{Minute}
+Time	TimeString	{Hour}:{Minute}
+
+Tooltips	CaravanTraderQuest.Description	Najdi v nedaleké vsi obchodníka a kup si šípy k luku. [Prostý šíp]\nZdá se, že jeden je odsud na jihovýchod, dole u cesty.
+Tooltips	ConsumablesFilter.Headline	Filtr spotřebního zboží
+Tooltips	EquipmentFilter.Headline	Filtr výstroje
+Tooltips	ResourceFilter.Headline	Filtr surovin
+Tooltips	Disassemble.Description	Rozeber stavby a získej zpět malou část surovin.
+Tooltips	Rename.Description	Pojmenuj stavby vlastními názvy, ať se ti lépe spravují.
+Tooltips	Flots.Headline	Floty
+Tooltips	Flots.Description	Kočovníci jimi mezi sebou obchodují na obchodních stanicích, které stojí ve většině oáz.
+Tooltips	InventoryWeight.Headline	Nosnost
+Tooltips	InventoryWeight.Description	Při překročení nosnosti spotřebováváš pohybem výdrž.\nPři dvojnásobku nosnosti se nepohneš vůbec.
+Tooltips	RecipeLocked	Odemkni tuto technologii ve stromu technologií (stiskni O)
+Tooltips	RecipeLocked_Consoles	Odemkni tuto technologii ve stromu technologií
+Tooltips	OwnershipEdit.Description	Uprav vlastnictví a oprávnění u různých walkerů a staveb.
+Tooltips	LobbyDecay.Headline	Zánik oázy
+Tooltips	LobbyDecay.Description	Každou oázu nakonec spálí slunce. Když k tomu dojde, kočovníci a někteří walkeři z té oázy se automaticky přesunou do nejbližší.
+Tooltips	LobbyReservedSlots.Headline	Rezervovaná místa
+Tooltips	LobbyReservedSlots.Description	Přihazuj proti ostatním kočovníkům a rezervuj svému klanu místa na této oáze v určený čas.
+Tooltips	LobbyTrade.Headline	Obchodní zakázky
+Tooltips	LobbyTrade.Description	Zobrazí všechny zakázky obchodníků na obchodní stanici ve vybrané oáze.
+Tooltips	LobbyWalkers.Headline	Walkeři v předsíni
+Tooltips	LobbyWalkers.Description	Zobrazí walkery v předsíni vybrané oázy.
+Tooltips	WalkerLevelUpgrade.Headline	Koupit úroveň walkeru
+Tooltips	WalkerLevelUpgrade.Description	Po zakoupení můžeš do skladu walkeru investovat suroviny a zvyšovat úrovně jednotlivých walkerů. Úroveň určuje, kolik modulů walker unese.
+Tooltips	Levy.Description	Městská domobrana slouží jako stráž tvého města, brání ho před nepřáteli a udržuje pořádek.\n\nVesničany na domobrance změníš v jejich osobním přehledu.\n\nDbej na to, aby mělo obyvatelstvo dost jídla, jinak začnou domobranci umírat hlady!\n\nDomobranci se dají naverbovat jako osobní vojsko, nebo propustit zpět ke střežení města.\n\nBudou tě následovat a tvořit tvou osobní armádu, ale dál budou spotřebovávat jídlo a vodu města.
+Tooltips	Tax.Description	Král vyžaduje, aby každá provincie království platila daně, jinak ponese následky.\n\nProtože tvé poslání osídlit tuto novou zemi pochází přímo od krále, máš osvobození od daní, dokud tvá území nedorostou dostatečné velikosti.\n\nJakmile se tvé hlavní sídlo stane řádným městem 2. úrovně, budeš platit daně jako každý lord v království.\n\nDaně závisejí na počtu obyvatel a vybírají se pravidelně; vše sleduješ na radnici.
+Tooltips	TaxDebt.Description	Dluh narůstá, když králi nezaplatíš daně.\n\nPokaždé, když nezaplatíš celou částku, dostaneš pokutu podle toho, kolik jsi zůstal dlužen.\n\nJakmile dosáhneš nejvyššího daňového dluhu, začne král zabavovat zboží ze skladů tvého města.
+Tooltips	Workforce.Description	Obyvatelstvo udává, kolik vesničanů máš ve městě na sklizeň a výrobu surovin.\n\nNajímej NPC ve světě, ať obyvatel přibývá; nedostatek jídla nebo vody je ale z města vyžene.\n\nLepší jídlo víc zasytí a uživí víc vesničanů na delší dobu. Voda má vždy stejnou hodnotu.\n\nPotřeba jídla se počítá stejnou hodnotou, jakou tvá postava zahání hlad.\n\nPracující obyvatelstvo spotřebuje víc jídla než zahálející, takže je neplýtvej tím, že necháš stavby stát ladem, zatímco v nich vesničané pracují.
+
+TownCrafting	CraftingInUse	Používá se
+TownCrafting	CraftingLimitedUseInteraction	{UseObject}: {Num}/{Max} použití
+TownNpc	CantBandageWounds	Obvázat (žádné obvazy)
+TownNpc	NpcExpelledByYou	Vyhnal jsi svého vesničana {NpcName}
+TownStructure	DisplayNameWithId	{StructureName} č. {Id}
+
+TradeRules	TradeAllBuy	Koupit vše
+TradeRules	TradeAllSell	Prodat vše
+TradeRules	TradeRequestedBuy	Koupit požadované
+TradeRules	TradeRequestedSell	Prodat z nákladu
+Trading	ConstructionFacilityGeneric	Stavební provoz
+Trading	ConstructionOfFacility	Stavba: {FacilityName}
+Trading	ItemExport	Vývoz: {ItemName}
+Trading	ItemHarvesting	Sběr: {ItemName}
+Trading	ItemProduction	Výroba: {ItemName}
+Trading	MultiCrafting.SingleRecipe	Výroba: {ItemName}
+Trading	MultiProduction	Vícenásobná výroba
+
+Trap	TrapReplaceBrokenTrap	Vyměnit rozbitou past
+TrapState	Broken	Rozbitá
+TrapState	GameCaught	Chycená zvěř
+TrapState	MissingBait	Chybí návnada
+UMG	TextBlockDefaultValue	Textový blok
+UMistChatMessageLogMenuWidget	MuteAction	Ztlumit
+UMistChatMessageLogMenuWidget	UnmuteAction	Zrušit ztlumení
+
+UMistExcursionFactionsOverviewDetailsMercenariesWidget	TotalNumberHidden	?
+UMistExcursionFactionsOverviewDetailsReputationEffectListItemWidget	EffectAlliance	Odemčen úkol trvalého spojenectví
+UMistExcursionFactionsOverviewDetailsReputationEffectListItemWidget	EffectFastTravel	Přístav frakce lze použít k cestování
+UMistExcursionFactionsOverviewDetailsReputationEffectListItemWidget	EffectHostile	Frakce se stala nepřátelskou
+UMistExcursionFactionsOverviewDetailsReputationEffectListItemWidget	EffectTradePriceDetailed	{Sign}{Percent} % k obchodním cenám
+UMistExcursionFactionsOverviewDetailsReputationEffectListItemWidget	EffectWarStatus	Trvalá válka s frakcí
+UMistExcursionFactionsOverviewDetailsReputationMarkerWidget	EffectAlliance	Odemknout úkol trvalého spojenectví
+UMistExcursionFactionsOverviewDetailsReputationMarkerWidget	EffectFastTravel	Používat přístav frakce k cestování
+UMistExcursionFactionsOverviewDetailsReputationMarkerWidget	EffectHostile	Frakce se stane nepřátelskou
+UMistExcursionFactionsOverviewDetailsReputationMarkerWidget	EffectMercUpgrade	Vylepšeno: {Type} (úroveň {Tier})
+UMistExcursionFactionsOverviewDetailsReputationMarkerWidget	EffectMercenaries	+{Amount} {Type}
+UMistExcursionFactionsOverviewDetailsReputationMarkerWidget	EffectTradePriceDetailed	{Sign}{Percent} % k obchodním cenám
+UMistExcursionFactionsOverviewDetailsReputationMarkerWidget	EffectWarStatus	Trvalá válka s frakcí
+UMistExcursionFactionsOverviewDetailsReputationMarkerWidget	ReputationLevel	{ReputationLevel}
+UMistExcursionFactionsOverviewDetailsWidget	FactionLeaderName	{FirstName} {LastName}
+UMistExcursionFactionsOverviewFalsgarWidget	Conquered	Dobyto
+UMistExcursionFactionsOverviewFalsgarWidget	Dead	Mrtev
+UMistExcursionFactionsOverviewFalsgarWidget	FactionLeaderName	{FirstName} {LastName}
+UMistExcursionFactionsOverviewFalsgarWidget	HeadquartersConquered	{Headquarters} ({Conquered})
+UMistExcursionFactionsOverviewFalsgarWidget	LeaderDead	{Leader} ({Dead})
+
+UMistNpcFoodListItemWidget	FoodStatusEffectDescription	{FoodStatusEffectName} {FoodStatusEffectValue}
+UMistNpcFoodListItemWidget	HealthBonusTextWidget	{HealthBonusName} +{HealthBonusValue} %
+UMistNpcFoodListItemWidget	HealthRegenTextWidget	{HealthRegenName} {HealthRegenValue}/s
+UMistNpcFoodListItemWidget	StaminaBonusTextWidget	{StaminaBonusName} +{StaminaBonusValue} %
+UMistNpcFoodListItemWidget	StaminaRegenTextWidget	{StaminaRegenName} {StaminaRegenValue}/s
+UMistStructureManagementHuntingToolsWidget	BowsLabel	Luky
+UMistStructureManagementHuntingToolsWidget	QuiversLabel	Toulce
+UMistVillageHireOverviewItemToolTipWidget	RemoveMarkerTooltip	Odebrat značku
+
+UiDialogStrings	CancelButtonLabel	ZRUŠIT
+UiDialogStrings	ContinueButtonLabel	POKRAČOVAT
+UiDialogStrings	GameMenuScreen.Exit	ZPĚT DO NABÍDKY
+UiDialogStrings	GameMenuScreen.Quit	UKONČIT HRU
+UiDialogStrings	GameMenuScreen.Save	ULOŽIT
+UiDialogStrings	GameMenuScreen.SaveExit	ULOŽIT A ODEJÍT
+UiDialogStrings	InvalidPasswordErrorMessage	Neplatné heslo
+UiDialogStrings	PasswordTextBoxHint	Vyžadováno heslo
+UiNavigationStrings	ScreenBackButtonToolTip	Zpět
+UnexecutableJobInfo	UnexecutableJobInfoNoValidTarget	Nenalezen vhodný cíl
+
+VehicleUpgrade	UpgradeInProgress	Vylepšuje se {VehicleName}
+VehicleUpgrade	UpgradeInProgressMinutes	Vylepšuje se {VehicleName} (zbývá {Minutes} m {Seconds} s){Dots}
+VehicleUpgrade	UpgradeInProgressSeconds	Vylepšuje se {VehicleName} (zbývá {Seconds} s){Dots}
+VehicleUpgradeComponent	VehicleUpgraded	Vylepšení {Vehicle} je hotové!
+VillageEconomyOverviewDetailsWidget	ButtonLabel.ReadLess	Méně
+VillageEconomyOverviewDetailsWidget	ButtonLabel.ReadMore	Více
+
+VillageImprovements	ConstructionPointsCost	Cena ve stavebních bodech: {Value}
+VillageImprovements	MaxNumberInVillage	Nejvyšší počet ve vsi: {Value}
+VillageImprovements	MilitiaBonus	+{Amount} {Type}
+VillageImprovements	MilitiaUpgrade	Vylepšeno: {Type}
+VillageInfoScreen	VillageStatusLiberated	Osvobozena
+VillageInfoScreen	VillageStatusOccupied	Obsazena frakcí {OccupyingFactionName}
+VillageInfoScreen	VillageStatusRebelling	Povstává
+
+VillageProsperityInfoWidget	ClearedRegions	Vyčištěné kraje: {Regions}
+VillageProsperityInfoWidget	ClothingNeeds	Oděv: {Clothing}
+VillageProsperityInfoWidget	ConstructionMaintenance	Údržba staveb: {ConstructionMaintenance}
+VillageProsperityInfoWidget	DailyChangeValue	Denní změna: {DailyChange}
+VillageProsperityInfoWidget	DefeatedReclamations	Poražené dobyvatelské družiny: {Parties}
+VillageProsperityInfoWidget	FoodNeeds	Potřeba jídla: {FoodNeeds}
+VillageProsperityInfoWidget	GearNeeds	Potřeba výstroje: {GearNeeds}
+VillageProsperityInfoWidget	Investments	Investice do vsi: {InvestmentValue}
+VillageProsperityInfoWidget	ProsperityValue	Prosperita: {Prosperity}
+VillageProsperityInfoWidget	TradeBalance	Obchodní bilance: {TradeBalance}
+VillageProsperityInfoWidget	VillagersKilled	Zabití vesničané: {Villagers}
+VillageProsperityWidget	ConstructionPoints	+{Amount} stavebních bodů
+VillageProsperityWidget	MilitiaBonus	+{Amount} {Type}
+VillageProsperityWidget	MilitiaUpgrade	Vylepšeno: {Type}
+VillageProsperityWidget	RequiredProsperity	Potřebná prosperita: {Prosperity}
+
+VoiceChat	Disabled	Hlasový chat vypnut
+VoiceChat	Enabled	Hlasový chat zapnut
+WaitQuest	DefaultText	Počkej do {WaitEndTime}
+Wallworks	InWater	Ve vodě stavět nelze
+Wallworks	NoValidHeightFlat	NENÍ ROVNÉ
+Wallworks	NoValidHeightHigh	PŘÍLIŠ VYSOKO
+Wallworks	NoValidHeightLow	PŘÍLIŠ NÍZKO
+Wallworks	NoValidHeightTerrain	NENALEZEN TERÉN
+Wallworks	NoWallToBuild	Nelze stavět
+Weight	Value	{Value} kg
+WorldMenuBehaviorMode	Inventory	Otevřít batoh
+WorldMenuBehaviorMode	OpenPrevious	Otevřít předchozí nabídku
+WorldMenuBehaviorMode	Settlement	Otevřít správu osady

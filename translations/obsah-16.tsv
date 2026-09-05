@@ -1,0 +1,170 @@
+# Obsah hry, dávka 16 (L-M) - originál <TAB> překlad
+# Vkládá se s --overwrite kvůli opravě řady knih dovedností.
+#
+# Stupně knih odpovídají cechovní hierarchii:
+#   Apprentice = učednická, Journeyman = tovaryšská,
+#   Expert = znalecká, Master = mistrovská
+
+# --- oprava: Expert Book byl dřív přeložen stejně jako Master Book ---
+Expert Book - Agility	Znalecká kniha – Hbitost
+Expert Book - Animal Handling	Znalecká kniha – Chov zvířat
+Expert Book - Archery	Znalecká kniha – Lukostřelba
+Expert Book - Cooking	Znalecká kniha – Vaření
+Expert Book - Crafting	Znalecká kniha – Výroba
+Expert Book - Farming	Znalecká kniha – Zemědělství
+Expert Book - Harvesting	Znalecká kniha – Sběr
+Expert Book - Labourer	Znalecká kniha – Dělník
+Expert Book - One Handed	Znalecká kniha – Jednoruční zbraně
+Expert Book - Polearms	Znalecká kniha – Dřevcové zbraně
+Expert Book - Research	Znalecká kniha – Bádání
+Expert Book - Shields	Znalecká kniha – Štíty
+Expert Book - Strength	Znalecká kniha – Síla
+Expert Book - Two Handed	Znalecká kniha – Obouruční zbraně
+
+Master Book - Agility	Mistrovská kniha – Hbitost
+Master Book - Animal Handling	Mistrovská kniha – Chov zvířat
+Master Book - Archery	Mistrovská kniha – Lukostřelba
+Master Book - Cooking	Mistrovská kniha – Vaření
+Master Book - Crafting	Mistrovská kniha – Výroba
+Master Book - Farming	Mistrovská kniha – Zemědělství
+Master Book - Harvesting	Mistrovská kniha – Sběr
+Master Book - Labourer	Mistrovská kniha – Dělník
+Master Book - One Handed	Mistrovská kniha – Jednoruční zbraně
+Master Book - Polearms	Mistrovská kniha – Dřevcové zbraně
+Master Book - Research	Mistrovská kniha – Bádání
+Master Book - Shields	Mistrovská kniha – Štíty
+Master Book - Strength	Mistrovská kniha – Síla
+Master Book - Two Handed	Mistrovská kniha – Obouruční zbraně
+
+# --- repliky ---
+Look, whom we have here.	Podívejme, koho to tu máme.
+Looking for a drink or a story? I’ve got both.	Sháníš pití, nebo historku? Mám obojí.
+Looking for eggs or bacon? Either way, I’ve got you covered!	Sháníš vejce nebo slaninu? Tak či tak, posloužím!
+Looks like I can't afford it now. I'll come back later.	Zdá se, že na to teď nemám. Vrátím se později.
+Love doesn’t excuse betrayal.	Láska zradu neomlouvá.
+Make it quick, I'm a busy man.	Rychle, mám práce nad hlavu.
+Make it quick, please. Commander might be watching.	Rychle, prosím. Velitel se možná dívá.
+
+# --- zadání úkolů ---
+Look for clues in the place where Abel woke up.	Hledej stopy tam, kde se Abel probudil.
+Look for Maria in the Tavern, close to Lower Town.	Hledej Marii v hospodě u Dolního Města.
+Look for the Caravan on the road that Ravio told you about.	Hledej karavanu na cestě, o které mluvil Ravio.
+Look for the gambito near Sorwynn’s Cup.	Hledej gambito u Sorwynn’s Cup.
+Look for the Sea God Shrine.	Hledej svatyni boha moře.
+Look for the sword-fighting manuals in the library.	Hledej v knihovně příručky o šermu.
+Look if the gambito is up in the tower.	Podívej se, jestli gambito není nahoře ve věži.
+Look inside the Barrel.	Podívej se do sudu.
+Look on the horizon for signs of the gambito.	Vyhlížej na obzoru známky gambita.
+Make a cart	Vyrob povoz
+Make your way through the cave to the Alchemist	Prober se jeskyní k alchymistovi
+
+# --- názvy úkolů ---
+Lord of Debates	Pán rozepří
+Lord of the Lowlands	Pán Nížin
+Lord of the Lowlands Letter	Dopis Pána Nížin
+Lost and Found	Ztráty a nálezy
+Lost and Pants-less	Ztracený a bez kalhot
+LostAndPantsless item.	Předmět k úkolu Ztracený a bez kalhot.
+Lostandpantsless quest item.	Předmět k úkolu Ztracený a bez kalhot.
+Lost Belongings	Ztracené věci
+Lost Sword	Ztracený meč
+Lost Sword (Quest Item)	Ztracený meč (předmět k úkolu)
+Lost Sword quest item.	Předmět k úkolu Ztracený meč.
+Magnum Opus	Vrcholné dílo
+Main Quest	Hlavní úkol
+
+# --- předměty k úkolům ---
+Lost cart	Ztracený povoz
+Lost Chest	Ztracená truhla
+Lost Purse	Ztracený měšec
+Love letter attached to the stone	Milostný dopis přivázaný ke kameni
+Love Letter from Alderek	Milostný dopis od Aldereka
+Lydia Simic Note	Zápisek Lydie Simicové
+Manuscript (Quest Item)	Rukopis (předmět k úkolu)
+
+# --- zbroj a zbraně ---
+Lord Ashbourne's Cuirass	Kyrys lorda Ashbourna
+Mace	Palcát
+Mallet	Palice
+Mail Hauberk	Kroužková košile
+Mail Reinforced Shoes	Boty zesílené kroužky
+Mail Robber's Armour	Loupežnická kroužková zbroj
+Mangonel	Mangonel
+
+# --- jídlo a suroviny ---
+Malt	Slad
+Manure	Hnůj
+Mashed Potatoes	Bramborová kaše
+Made of beetroots and water. Sweet and healthy.	Z řepy a vody. Sladké a zdravé.
+Made of berries and water. Sweet and healthy.	Z bobulí a vody. Sladké a zdravé.
+
+# --- stavby a místa ---
+Loom Storage	Sklad u tkalcovského stavu
+Lumberjack	Dřevorubec
+Lumberjack Spot	Dřevorubecké místo
+Lumberjack Storage	Dřevorubecký sklad
+Lumbermill	Pila
+Loxley hideout	Loxleyho skrýš
+Lubomir's bed	Lubomirovo lůžko
+Lubomir's Camp	Lubomirův tábor
+Lysara's Husband Grave	Hrob Lysařina manžela
+Mansion Door	Dveře sídla
+Market	Trh
+Map	Mapa
+
+# --- lidé ---
+Lord	Lord
+Mad Warrior	Šílený válečník
+Marauder	Nájezdník
+Marksman	Střelec
+Master	Mistr
+Master Armorer	Mistr platnéř
+Master Fletcher	Mistr šípař
+Loser	Smolař
+
+# --- správa osady ---
+Manage Camp	Spravovat tábor
+Manage Chopping Logs	Spravovat štípání klád
+Manage Crafting Planks	Spravovat výrobu prken
+Manage Loom	Spravovat tkalcovský stav
+Manage Loom Workers	Spravovat tkalce
+Manage Lumberjack Orders	Spravovat dřevorubecké zakázky
+Manage Lumbermill Workers	Spravovat dělníky na pile
+Manage Mining	Spravovat těžbu
+Manage Orders	Spravovat zakázky
+Manage orders	Spravovat zakázky
+Manage Pit Orders	Spravovat zakázky jámové pily
+Manage Settlement	Spravovat osadu
+Manage Settlers	Spravovat osadníky
+Manage Trappers	Spravovat traperské práce
+Manage unfinished structure.	Spravovat nedokončenou stavbu.
+Manage Weaver's table	Spravovat tkalcův stůl
+Manage Woodcutting	Spravovat kácení
+Manage workers	Spravovat dělníky
+Management	Správa
+Managing Your Settlements	Správa tvých osad
+
+# --- rozhraní ---
+Look	Podívat se
+Look Inside	Podívat se dovnitř
+Loot	Prohledat
+Loot Container	Prohledat nádobu
+Loot Offerings	Sebrat obětiny
+Loot Player	Prohledat hráče
+Loop	Smyčka
+Lost a friend	Ztratil přítele
+Lost a raid	Prohraný nájezd
+Low morale	Nízká morálka
+Lower	Snížit
+Lowest	Nejnižší
+Loyalty	Věrnost
+Loyalty & Wrath	Věrnost a hněv
+Maintenance	Údržba
+Major	Značný
+Makeup	Líčení
+Male	Muž
+Makes material have two available mask slots	Materiál získá dvě pozice na masku
+Mask picker	Výběr masky
+Mask Texture	Textura masky
+Mask Texture Alternative	Náhradní textura masky
+Mark All As Read	Označit vše jako přečtené

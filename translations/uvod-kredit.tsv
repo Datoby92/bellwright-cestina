@@ -1,0 +1,13 @@
+# Uvítací obrazovka po spuštění hry - a podpis překladu.
+#
+# Tahle obrazovka se ukazuje při každém startu, takže je to nejlepší místo,
+# kde uvést, kdo češtinu udělal, aniž by to rušilo herní rozhraní.
+#
+# Pozor: originál používá \r\n, ne \n - zachováváme to.
+# Kontrola kvality kvůli přidanému podpisu ohlásí jiný počet řádků; to je záměr.
+
+EarlyAccessScreenStrings	Header	Předběžný přístup
+EarlyAccessScreenStrings	Body	Vítej v Bellwrightu! Budeme ti pravidelně přinášet nový obsah a opravy chyb, ale sem tam nějaká proklouzne. Dej nám vědět o všem, na co narazíš, i o tom, co bys ve hře rád viděl.\r\n\r\nUžij si to!\r\n\r\n───────────────\r\nČeský překlad: TheraWoW.com
+
+EarlyAccessScreenStrings_XB1	Header	Ukázka hry
+EarlyAccessScreenStrings_XB1	Body	Bellwright je momentálně ve stavu ukázkové verze. Hra se bude průběžně doplňovat o nové funkce, obsah, vylepšení a opravy podle zpětné vazby od naší komunity.\r\n\r\nUpozorňujeme, že v současném stavu nemusí některé funkce platformy i hry fungovat správně a může dojít k pádu. Na odstranění všech nalezených problémů aktivně pracujeme.\r\n\r\n───────────────\r\nČeský překlad: TheraWoW.com

@@ -1,0 +1,222 @@
+# Slovníček pojmů pro českou lokalizaci Bellwright
+#
+# Formát:  anglicky <TAB> česky <TAB> další přijímané tvary (oddělené čárkou)
+#
+# Třetí sloupec je tu kvůli skloňování - kontrola hledá v překladu kterýkoli
+# z uvedených tvarů, takže stačí uvést kmen nebo pár pádů, ne celé paradigma.
+#
+# Styl: tykání hráči, mírně starosvětský slovník, ale čtivý. Kde existuje dobové
+# české slovo (lapka, dýmačka, prošívanice), má přednost před kalkem z angličtiny.
+#
+# Tenhle soubor je odhad postavený na názvech assetů ve hře. Až budeme mít
+# skutečné anglické texty z ModKitu, projdeme ho a doplníme podle reality.
+
+# --- osada a lidé -------------------------------------------------------------
+settlement	osada	osad, osadě, osadu, osadou
+village	ves	vsi, vesnic, vesnice
+town	město	měst, městě, městu
+villager	vesničan	vesničan, vesničt
+recruit	rekrut	rekrut, naverbov, verbov
+follower	družiník	družiník, družin
+worker	dělník	dělník, dělnic
+peasant	sedlák	sedlák, sedlác
+lord	lord	lord, pán, pána
+sheriff	šerif	šerif
+noble	šlechtic	šlechtic, šlechet
+prisoner	zajatec	zajatc, zajatce
+hermit	poustevník	poustevník, poustevn
+bandit	lapka	lapk, lapka, bandit
+outlaw	psanec	psanc, psance
+militia	domobrana	domobran
+invasion	vpád	vpád, invaz
+faction	frakce	frakc
+population	obyvatelstvo	obyvatel
+
+# --- postava a statistiky -----------------------------------------------------
+health	zdraví	zdraví
+stamina	výdrž	výdrž
+hunger	hlad	hlad
+thirst	žízeň	žízn, žízeň
+fatigue	únava	únav
+morale	morálka	morálk
+loyalty	věrnost	věrnost
+skill	dovednost	dovednost
+trait	vlastnost	vlastnost
+perk	přednost	přednost
+level	úroveň	úrovn, úroveň
+experience	zkušenosti	zkušenost
+attribute	atribut	atribut
+
+# --- vlastnosti postav (Traits) ----------------------------------------------
+Berserker	berserk	berserk
+Blind	slepý	slep
+Brawler	rváč	rváč
+Carrier	nosič	nosič
+Coward	zbabělec	zbabělc, zbabělec
+Deep Stomach	nenasyta	nenasyt
+Exemplary Soldier	vzorný voják	vzorn
+Fury	zuřivost	zuřiv
+Gourmet	labužník	labužník
+Marathoner	vytrvalec	vytrvalc, vytrvalec
+Marksman	střelec	střelc, střelec
+Neurotic	neurotik	neurot
+Nomad	kočovník	kočovník
+Novice	nováček	nováč
+Optimist	optimista	optimist
+Pessimist	pesimista	pesimist
+Scientist	učenec	učenc, učenec
+Slacker	lenoch	lenoch, lenoš
+Sprinter	běžec	běžc, běžec
+Swordsman	šermíř	šermíř
+Veteran	veterán	veterán
+
+# --- výroba a stavby ----------------------------------------------------------
+crafting	výroba	výrob
+recipe	předpis	předpis, recept
+workbench	pracovní stůl	pracovní stůl, verpánek
+forge	kovárna	kovárn
+bloomery	dýmačka	dýmač, výheň
+smelting furnace	tavicí pec	tavicí pec, tavic
+tannery	koželužna	koželuž
+sawmill	pila	pil
+mill	mlýn	mlýn
+barn	stodola	stodol
+storage	sklad	sklad
+warehouse	skladiště	skladišt
+tavern	krčma	krčm
+construction site	staveniště	staveništ
+building	stavba	stavb, budov
+technology	technologie	technologi
+research	bádání	bádán, výzkum
+blueprint	plán	plán
+upgrade	vylepšení	vylepš
+
+# --- suroviny a zboží ---------------------------------------------------------
+iron ore	železná ruda	železn
+coal	uhlí	uhlí
+charcoal	dřevěné uhlí	dřevěné uhlí
+timber	dřevo	dřev, klád
+plank	prkno	prkn
+stone	kámen	kámen, kamen
+clay	hlína	hlín
+flax	len	len, lnu
+linen	plátno	plátn
+wool	vlna	vln
+cloth	látka	látk, sukn
+hide	surová kůže	surová kůže, kůž
+leather	useň	usn, useň, kůž
+grain	obilí	obilí
+wheat	pšenice	pšenic
+rye	žito	žit
+flour	mouka	mouk
+bread	chléb	chléb, chleb
+firewood	palivové dříví	palivov, dříví
+ingot	ingot	ingot
+tool	nástroj	nástroj
+
+# --- obchod a logistika -------------------------------------------------------
+trade	obchod	obchod
+trade post	obchodní stanice	obchodní stanic, tržišt
+merchant	kupec	kupc, kupec
+cart	povoz	povoz, vozík
+caravan	karavana	karavan
+price	cena	cen
+goods	zboží	zboží
+
+# --- boj ----------------------------------------------------------------------
+combat	boj	boj
+battle	bitva	bitv
+ambush	přepad	přepad
+raid	nájezd	nájezd
+party	družina	družin
+damage	poškození	poškoz, zranění
+armor	zbroj	zbroj
+weapon	zbraň	zbran, zbraň
+shield	štít	štít
+buckler	pěstní štítek	pěstní štít
+sword	meč	meč
+saber	šavle	šavl
+spear	kopí	kopí
+polearm	dřevcová zbraň	dřevcov
+axe	sekera	seker
+mace	palcát	palcát
+bow	luk	luk
+crossbow	kuše	kuš
+arrow	šíp	šíp
+one-handed	jednoruční	jednoručn
+two-handed	obouruční	obouručn
+unarmed	beze zbraně	beze zbraně, holýma
+helmet	přilba	přilb
+gambeson	prošívanice	prošívanic
+mail	kroužková zbroj	kroužkov
+block	kryt	kryt, blok
+parry	odražení	odraz, odraž
+stagger	vyvedení z rovnováhy	rovnováh, otřes
+
+# --- činnosti -----------------------------------------------------------------
+hunting	lov	lov
+skinning	stahování z kůže	stahován
+butchering	porcování	porcován
+fishing	rybolov	rybolov, ryba
+farming	zemědělství	zemědělstv, hospodař
+foraging	sběr	sběr
+mining	těžba	těžb
+logging	kácení	kácen
+harvest	sklizeň	sklizn, sklizeň
+
+# --- svět a úkoly -------------------------------------------------------------
+quest	úkol	úkol
+objective	cíl	cíl
+reward	odměna	odměn
+codex	kodex	kodex
+journal	deník	deník
+map	mapa	map
+region	kraj	kraj
+territory	území	území
+influence	vliv	vliv
+control	nadvláda	nadvlád, ovládá
+camp	tábor	tábor
+outpost	základna	základn
+
+# --- rozhraní -----------------------------------------------------------------
+inventory	batoh	batoh, inventář
+equipment	výbava	výbav
+container	bedna	bedn, nádob
+settings	nastavení	nastaven
+save	uložit	ulož
+load	načíst	načíst, načt
+quit	ukončit	ukonč
+back	zpět	zpět
+confirm	potvrdit	potvrd
+cancel	zrušit	zruš
+
+# ---------------------------------------------------------------------------
+# Doplněno po první revizi: víc tvarů, aby kontrola nehlásila falešné poplachy.
+# Pozdější řádek přebíjí dřívější, takže tyhle nahrazují původní zápisy výše.
+# ---------------------------------------------------------------------------
+equipment	výbava	výbav, vybaven
+harvest	sklizeň	sklizn, sklizeň, sklid, sklíz
+building	stavba	stavb, budov, stavěn, staveb
+hide	surová kůže	surová kůže, kůž, skrýt, skrý, schov
+experience	zkušenosti	zkušenost, zážit
+town	město	měst, radnic
+quest	úkol	úkol, vývěsk
+combat	boj	boj, bojov, střelb
+crafting	výroba	výrob, vyráb
+research	bádání	bádán, výzkum, vybádan
+trade	obchod	obchod, kupec, kupc
+
+# Nové pojmy zavedené v dávce "stavby, úkoly, dovednosti"
+renown	věhlas	věhlas
+trust	důvěra	důvěr
+prosperity	prosperita	prosperit
+loyalty	věrnost	věrnost
+wrath	hněv	hněv
+tier	úroveň	úrovn, úroveň
+sapling	semenáček	semenáč
+bait	návnada	návnad
+squad	oddíl	oddíl, oddíl
+
+# "hide" se z kontroly slovníku vyřazuje - má dva různé významy (kůže / skrýt)
+# a hlídá ho příkaz "bwloc homographs", ne tahle tabulka.
+hide	surová kůže	surová kůže, kůž, skrýt, skrý, schov, pokrýv

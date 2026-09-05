@@ -1,0 +1,237 @@
+# Obsah hry, dávka 07 (C-D) - originál <TAB> překlad
+#
+# Nářeční repliky ("Did ye’ deal with the wolves?") překládáme hovorovou
+# češtinou, ne pokusem o konkrétní nářečí - to by ve fantasy světě rušilo.
+
+# --- repliky ---
+Could you tell me where to find the gambito?	Řekneš mi, kde najdu gambito?
+Did the whole village move here?	Přestěhovala se sem celá ves?
+Did ye’ changed ye’ mind? Me cow really need’s ye’ help!	Rozmyslel sis to? Má kráva fakticky potřebuje tvou pomoc!
+Did ye’ deal with the wolves?	Vyřídil jsi ty vlky?
+Did you know this alchemist?	Znal jsi toho alchymistu?
+Defend yourself!	Braň se!
+
+# --- zadání úkolů ---
+Craft Planks	Vyrob prkna
+Craft yourself	Vyrob sám
+Deal with Cassandra	Vyřiď to s Cassandrou
+Deal with Lyra	Vyřiď to s Lyrou
+Deal with the bandits.	Vypořádej se s lapky.
+Deal with the smugglers.	Vypořádej se s pašeráky.
+Defeat	Porazit
+Defeat Brigands to save the Butcher.	Poraž lupiče a zachraň řezníka.
+Defeat Lubomir in a practice fight.	Poraž Lubomira v cvičném souboji.
+Defeat the opponents	Poraž protivníky
+Defeat the wandering knight	Poraž potulného rytíře
+Defend from Falsgar guards	Ubraň se strážím Falsgaru
+Defend yourself from the Falsgar	Ubraň se Falsgaru
+Defend yourself from the smugglers	Ubraň se pašerákům
+Defend yourself from {Npc}	Ubraň se {Npc}
+Deliver frauded letter	Doruč podvržený dopis
+Deliver herbs for {QuestGiver}	Doruč byliny pro {QuestGiver}
+Deliver items to Igor Fulke	Doruč věci Igoru Fulkeovi
+Deliver items to Mark Tholy	Doruč věci Marku Tholymu
+Deliver letter and tools to Dalibor	Doruč dopis a nástroje Daliborovi
+Deliver letter to the addressee	Doruč dopis adresátovi
+Deliver potion to Farmer	Doruč lektvar sedlákovi
+Deliver Solstice Delirium	Doruč Slunovratové blouznění
+Deliver the letter to Lucy Lane in Farnworth.	Doruč dopis Lucy Lane ve Farnworthu.
+Deliver the Manuscript to the Elder	Doruč rukopis stařešinovi
+
+# --- názvy úkolů ---
+Creeping Death	Plíživá smrt
+Cry Me A River	Breč si, jak chceš
+CryMeARiver quest item.	Předmět k úkolu Breč si, jak chceš.
+Cult quest item.	Předmět k úkolu Kult.
+Dead or Alive	Mrtvý nebo živý
+Dangerous Individual Beware!	Pozor, nebezpečný jedinec!
+
+# --- zápisky a předměty k úkolům ---
+Crumpled Note	Zmuchlaný zápisek
+Cult Invitation	Pozvánka kultu
+Cult Leader Letter	Dopis vůdce kultu
+Cult Leader Note	Zápisek vůdce kultu
+Cult Leader's Stash	Skrýš vůdce kultu
+Cult Site Book	Kniha z kultovního místa
+Cult Site Note	Zápisek z kultovního místa
+Craftsman's Lost Tool	Řemeslníkův ztracený nástroj
+Dain's ring (Quest Item)	Dainův prsten (předmět k úkolu)
+Damaged Sword (Quest Item)	Poškozený meč (předmět k úkolu)
+Dead body	Mrtvé tělo
+Dead body note	Zápisek u mrtvého těla
+Dead Guard's Note	Zápisek mrtvého strážného
+Dead hunter journal	Deník mrtvého lovce
+Dead hunter's journal	Deník mrtvého lovce
+Dead knight	Mrtvý rytíř
+Dead man body	Tělo mrtvého muže
+Dead man's note	Zápisek mrtvého muže
+Diary of Hospitaller Ida	Deník špitálnice Idy
+Counsel for a good mothers	Rady pro dobré matky
+Counsel for a good mothers. Number 12.	Rady pro dobré matky. Číslo 12.
+Contains secret bites for catching a Golden Trout.	Obsahuje tajná sousta na chytání zlatého pstruha.
+Cure that smells like a fragrant tea.	Lék, který voní jako čaj.
+
+# --- suroviny a jídlo ---
+Copper	Měď
+Copper Ingot	Měděný ingot
+Copper Nails	Měděné hřebíky
+Copper Ore	Měděná ruda
+Copper Rock	Měděná skála
+Cotton	Bavlna
+Cotton Bolt	Štůček bavlny
+Cotton Grass	Suchopýr
+Cotton Seeds	Semena bavlny
+Cranberry	Brusinka
+CranBerry	Brusinka
+Cranberry Jam	Brusinková zavařenina
+Crude Fur	Hrubá kožešina
+Crude Stone	Balvan
+Cured Rope	Napuštěný provaz
+Could be made from quartz.	Vyrobíš z křemene.
+Crafted by a blacksmith.	Vyrobí kovář.
+Crunchy root vegetable. Can be grown on a farm.	Křupavá kořenová zelenina. Vypěstuješ na hospodářství.
+Decently sized piece of fried meat.	Slušný kus smaženého masa.
+Delicious and nutritious.	Chutné a výživné.
+
+# --- zbraně a zbroj ---
+Crossbow	Kuše
+Crossbowman	Střelec z kuše
+Crusader Hauberk	Křižácká kroužková košile
+Crusader Helmet	Křižácká přilba
+Cross	Kříž
+
+# --- zvířata ---
+Cow	Kráva
+Cows	Krávy
+Cow Carcass	Kravská mršina
+Crow	Vrána
+Crows	Vrány
+Crow Carcass	Vraní mršina
+Deer Carcass	Jelení mršina
+Deers	Jeleni
+Deer Hunter	Lovec jelenů
+Demon Boar	Démonický kanec
+Demon Boar Carcass	Mršina démonického kance
+Demon Boar Trophy	Trofej démonického kance
+Crimson Dartfish	Karmínová šipovka
+Crimson	Karmínová
+
+# --- řemeslo ---
+Craft	Vyrobit
+Crafter	Řemeslník
+Crafting	Výroba
+Craftsman	Řemeslník
+Craftsman Hut	Řemeslnická chýše
+Craftsman's Nook	Řemeslnický kout
+Cooking	Vaření
+Cooper	Bednář
+
+# --- místa ---
+Cottage	Chalupa
+Crate	Bedna
+Cragkeep Archive	Archiv Cragkeepu
+Cragkeep attack	Útok na Cragkeep
+Cragkeep Bay	Záliv Cragkeep
+Cragkeep Bay Waypoint	Rozcestník u zálivu Cragkeep
+Cragkeep Castle Coffin	Rakev na hradě Cragkeep
+Cragkeep Lighthouse	Maják Cragkeep
+Cragkeep Prison	Vězení Cragkeep
+Cragkeep Prison Guard	Strážce vězení Cragkeep
+Craglight Lighthouse	Maják Craglight
+Crasmere settlers	Osadníci z Crasmere
+Cudka Ricket Hut	Chýše Cudky Ricketové
+Devannos Shrine	Svatyně Devannos
+Daru the Elderbark Shrine	Svatyně Daru Starokorého
+Damaged Grave	Poškozený hrob
+Devastated Grave	Zpustošený hrob
+Dead tree	Suchý strom
+Dice Game Spot	Místo na kostky
+
+# --- ozdoby ---
+Decorations	Ozdoby
+DECORATIONS BOX	BEDNA S OZDOBAMI
+Decorative Basket.	Ozdobný koš.
+Decorative Small Basket.	Ozdobný malý koš.
+Decorative Closed Basket.	Ozdobný zavřený koš.
+Decorative Small Closed Basket.	Ozdobný malý zavřený koš.
+Decorative Open Barrel.	Ozdobný otevřený sud.
+Decorative Closed Barrel.	Ozdobný zavřený sud.
+Decorative Vase.	Ozdobná váza.
+Decorative Gallow.	Ozdobná šibenice.
+Decorative Pillory.	Ozdobný pranýř.
+Decorative Scarecrow.	Ozdobný strašák.
+Decorative Scarecrow with hat.	Ozdobný strašák s kloboukem.
+Decorative Reinforced Log.	Ozdobná zpevněná kláda.
+Decorative Pit Bench.	Ozdobná lavice u ohniště.
+Decorative Sturdy Bench.	Ozdobná pevná lavice.
+Decorative Sturdy Little Bench.	Ozdobná pevná lavička.
+Decorative Sturdy Chair.	Ozdobná pevná židle.
+Decorative Sturdy Stool.	Ozdobná pevná stolička.
+Decorative Wooden Chair.	Ozdobná dřevěná židle.
+Decorative Wooden Stool.	Ozdobná dřevěná stolička.
+Decorative Single Lantern.	Ozdobná samostatná lucerna.
+Decorative Twinebound Lantern.	Ozdobná lucerna ovázaná motouzem.
+Decorative Wooden Arch Lantern.	Ozdobná lucerna na dřevěném oblouku.
+
+# --- rozhraní ---
+CONTAINERS	NÁDOBY
+Content	Obsah
+Content 1	Obsah 1
+Content 2	Obsah 2
+Contribute	Přispět
+Contribution	Příspěvek
+Copy	Kopírovat
+Copy Rules	Kopírovat pravidla
+Copy storage rules	Kopírovat pravidla skladu
+Corruption	Zkaženost
+Cost	Cena
+Costs	Náklady
+Countdown in	Odpočet za
+Coward	Zbabělec
+Cpu	Procesor
+Create	Vytvořit
+Create New Order	Vytvořit novou zakázku
+Create New Outpost	Založit novou základnu
+Credits	Tvůrci
+Current	Současné
+Current capacity	Současná kapacita
+Current demand	Současná poptávka
+Current supply	Současná nabídka
+Current threat	Současná hrozba
+Current/Potential	Současné/možné
+Currently available in the origin settlement	Nyní dostupné ve výchozí osadě
+Customize Character	Přizpůsobit postavu
+Daily Change:	Denní změna:
+Daily dose	Denní dávka
+Daily production	Denní výroba
+Daily Prosperity Needs	Denní potřeby prosperity
+Daily Upkeep	Denní údržba
+Damage	Poškození
+Damage Bonus	Bonus k poškození
+Death	Smrt
+Decreasing	Klesá
+Default	Výchozí
+Default text for testing, and showing, the textbox here.	Výchozí text pro zkoušku a ukázku textového pole.
+Defeated a raid	Odražen nájezd
+Defender	Obránce
+Defense	Obrana
+Delete	Smazat
+Delete profile	Smazat profil
+Delete Squad	Smazat oddíl
+Delete stop	Smazat zastávku
+Delighted	Nadšený
+Delivered	Doručeno
+Deliveries	Dodávky
+Delivering	Doručuje se
+Delivery	Doprava
+Delivery Capacity:	Přepravní kapacita:
+Dementia	Demence
+Demolish	Zbourat
+Depart	Vyrazit
+Deployable	Rozmístitelné
+Description	Popis
+Details	Podrobnosti
+Day 1 12:45 - Day 1 12:50	Den 1 12:45 – Den 1 12:50
+Day 2 - 11:23 PM	Den 2 – 23:23
+DEBRIS	SUŤ
+COVER	OBAL

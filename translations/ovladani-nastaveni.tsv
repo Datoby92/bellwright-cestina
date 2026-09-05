@@ -1,0 +1,219 @@
+# Klávesové zkratky, herní a grafická nastavení, batoh.
+#
+# Zavedené technické zkratky (HDR, VSync, GPU jako "grafická karta", CAS)
+# necháváme tak, jak je hráči znají z ostatních her.
+
+# ========================= KLÁVESOVÉ ZKRATKY =================================
+# --- pohyb ---
+InputMappingNames	Player_Move	Pohyb
+InputMappingNames	Player_MovePitchForward	Vpřed
+InputMappingNames	Player_MovePitchBackward	Vzad
+InputMappingNames	Player_MoveYawLeft	Vlevo
+InputMappingNames	Player_MoveYawRight	Vpravo
+InputMappingNames	Player_Jump	Skok
+InputMappingNames	Player_Walk	Chůze
+InputMappingNames	Player_Sprint	Sprint
+InputMappingNames	Player_ToggleSprint	Přepnout sprint
+InputMappingNames	Player_AutoRun	Automatický běh
+InputMappingNames	Player_MiniMapZoomIn	Přiblížit minimapu
+InputMappingNames	Player_MiniMapZoomOut	Oddálit minimapu
+
+# --- boj ---
+InputMappingNames	Combat_Primary	Útok
+InputMappingNames	Combat_Secondary	Blok
+InputMappingNames	Combat_Tertiary	Kop
+
+# --- velení ---
+InputMappingNames	Command_Enter	Režim velení
+InputMappingNames	Command_Order	Vydat rozkaz
+InputMappingNames	Command_Cancel	Zrušit rozkaz
+InputMappingNames	Command_Follow	Následovat
+InputMappingNames	Command_Wait	Zastavit
+InputMappingNames	Command_Formation	Přepnout chování
+InputMappingNames	Command_RadiusIncrease	Zvětšit oblast
+InputMappingNames	Command_RadiusDecrease	Zmenšit oblast
+InputMappingNames	Command_SquadNext	Další oddíl
+InputMappingNames	Command_SquadPrevious	Předchozí oddíl
+InputMappingNames	Command_SquadSwitch	Přepnout oddíl
+
+# --- stavění ---
+InputMappingNames	Build_Placement_CycleAngle	Otočit stavbu
+InputMappingNames	Build_Placement_Raise	Zvýšit stavbu
+InputMappingNames	Build_Placement_Lower	Snížit stavbu
+
+# --- interakce a obrazovky ---
+InputMappingNames	Interact_UseCommon	Interakce
+InputMappingNames	Interact_UseFoliage	Sklidit
+InputMappingNames	Interact_NavigateNext	Další
+InputMappingNames	Interact_NavigatePrevious	Předchozí
+InputMappingNames	Screen_Close	Zavřít obrazovku
+InputMappingNames	Screen_ItemNext	Další položka
+InputMappingNames	Screen_ItemPrevious	Předchozí položka
+
+# --- rychlé pozice ---
+InputMappingNames	Hotbar_QuickSlot1	Rychlá pozice 1
+InputMappingNames	Hotbar_QuickSlot2	Rychlá pozice 2
+InputMappingNames	Hotbar_WeaponBelt1	Zbraň 1
+InputMappingNames	Hotbar_WeaponBelt2	Zbraň 2
+InputMappingNames	Hotbar_WeaponBack	Zbraň 3
+
+# --- obrazovky hry ---
+InputMappingNames	Controller_Army	Vojsko
+InputMappingNames	Controller_Build	Stavět
+InputMappingNames	Controller_CallToArms	Do zbraně
+InputMappingNames	Controller_Codex	Kodex
+InputMappingNames	Controller_ExcursionFactions	Frakce výpravy
+InputMappingNames	Controller_GameMenu	Nabídka pauzy
+InputMappingNames	Controller_Inventory	Batoh
+InputMappingNames	Controller_Map	Mapa
+InputMappingNames	Controller_Notifications	Oznámení
+InputMappingNames	Controller_QuestLog	Deník
+InputMappingNames	Controller_Settlement	Osada
+InputMappingNames	Controller_TechTree	Strom technologií
+InputMappingNames	Controller_Rotate	Kamera
+InputMappingNames	Controller_QuickSave	Rychlé uložení
+InputMappingNames	Controller_QuickLoad	Rychlé načtení
+InputMappingNames	Controller_ToggleHud	Přepnout HUD
+InputMappingNames	Controller_HudFollowUp	Výzva na HUD
+InputMappingNames	Controller_IconsCharacterShow	Zobrazit ikony nad postavami
+InputMappingNames	Controller_IconsInteractShow	Zobrazit ikony interakcí
+InputMappingNames	Controller_IconsInteractToggle	Přepnout ikony interakcí
+InputMappingNames	Controller_QuickMenuTap	Rychlá nabídka
+InputMappingNames	Controller_QuickMenuHold	Nabídka světa
+InputMappingNames	Controller_WorldMenuTap	Nabídka světa
+InputMappingNames	Controller_WorldMenuHold	Mapa
+InputMappingNames	WorldMenu_Root_Next	Další v nabídce světa
+InputMappingNames	WorldMenu_Root_Previous	Předchozí v nabídce světa
+InputMappingNames	WorldMenu_Collection_Navigate	Procházet sbírku
+InputMappingNames	WorldMenu_Collection_NavigateNext	Další ve sbírce
+InputMappingNames	WorldMenu_Collection_NavigatePrevious	Předchozí ve sbírce
+
+# =========================== HERNÍ NASTAVENÍ =================================
+GameSettings	Culture_Name	Jazyk
+GameSettings	SettingsCustom	Vlastní
+GameSettings	SettingsDynamic	Dynamické
+GameSettings	SettingsStatic	Statické
+
+# --- obtížnost světa ---
+GameSettings	RaidsEnabled_Name	Nájezdy zapnuty
+GameSettings	RaidsOnOutpostsEnabled_Name	Nájezdy na základny zapnuty
+GameSettings	RaidFrequency_Name	Četnost nájezdů
+GameSettings	RaidStrength_Name	Síla nájezdů
+GameSettings	BanditsMigrationFrequency_Name	Četnost přesunů lapků
+GameSettings	BrigandsFrequency_Name	Četnost dobyvatelských družin lupičů
+GameSettings	BrigandsStrength_Name	Síla dobyvatelských družin lupičů
+GameSettings	MultipleThreatsEnabled_Name	Více hrozeb naráz
+
+# --- pravidla hry ---
+GameSettings	MeleeDamage_Name	Poškození zblízka
+GameSettings	RangedDamage_Name	Poškození na dálku
+GameSettings	ArmorRequirementsEnabled_Name	Požadavky dovedností pro zbroj
+GameSettings	WeaponRequirementsEnabled_Name	Požadavky dovedností pro zbraně
+GameSettings	SkillLearningSpeed_Name	Rychlost učení dovedností
+GameSettings	HungerSpeed_Name	Rychlost hladovění
+GameSettings	FoodSpoilageSpeed_Name	Rychlost kažení jídla
+GameSettings	EquipmentBreakingSpeed_Name	Rychlost opotřebení výbavy
+GameSettings	FishingPreset_Name	Obtížnost rybolovu
+GameSettings	VillageNeeds_Name	Potřeby vsi
+GameSettings	VillageNeedsProsperityReward_Name	Odměna prosperity za splněné potřeby vsi
+GameSettings	VillageNeedsProsperityPenalty_Name	Postih prosperity za nesplněné potřeby vsi
+
+# --- rozhraní ---
+GameSettings	CharacterStatusWidgetAlwaysOn_Name	Zobrazovat ikony a ukazatele zdraví nad postavami
+GameSettings	ShouldAlwaysDisplayInteractables_Name	Zobrazovat ikony interakcí
+GameSettings	DisplayDamageInformation_Name	Zobrazovat čísla poškození
+GameSettings	ShowDialogueChoiceEffects_Name	Zobrazovat následky voleb v dialozích
+GameSettings	PlayerMarksDisabled_Name	Zapnout hráčské značky
+GameSettings	TutorialPoupDisabled_Name	Vypnout návody
+GameSettings	HideHeadClothes_Name	Skrýt pokrývku hlavy
+GameSettings	MeleeCrosshairSize_Name	Velikost bojového zaměřovače
+
+# --- kamera ---
+GameSettings	CameraPreset_Name	Předvolba kamery
+GameSettings	EnableCombatCamera_Name	Zapnout bojovou kameru
+GameSettings	EnableRangedCombatCamera_Name	Zapnout kameru střelby
+GameSettings	EnableDialogueCamera_Name	Zapnout kameru dialogů
+GameSettings	SprintFOVMultiply_Name	Síla kamery při sprintu
+GameSettings	ThirdPersonFovOffset_Name	Zorné pole (pohled z třetí osoby)
+GameSettings	ThirdPersonDistanceOffset_Name	Odsazení kamery do dálky
+GameSettings	ThirdPersonHorizontalOffset_Name	Vodorovné odsazení kamery
+GameSettings	ThirdPersonVerticalOffset_Name	Svislé odsazení kamery
+GameSettings	CombatFieldOfView_Name	Zorné pole (boj)
+GameSettings	CombatDistanceOffset_Name	Odsazení bojové kamery do dálky
+GameSettings	CombatHorizontalOffset_Name	Vodorovné odsazení bojové kamery
+GameSettings	CombatVerticalOffset_Name	Svislé odsazení bojové kamery
+GameSettings	RangedDistanceOffset_Name	Odsazení kamery střelby do dálky
+GameSettings	RangedHorizontalOffset_Name	Vodorovné odsazení kamery střelby
+GameSettings	RangedVerticalOffset_Name	Svislé odsazení kamery střelby
+
+# ========================== GRAFICKÁ NASTAVENÍ ===============================
+GraphicsSettings	Advanced_Name	Pokročilé
+GraphicsSettings	QualityPreset_Name	Předvolba kvality
+GraphicsSettings	DeviceProfile_Name	Režim výkonu
+GraphicsSettings	Gpu_Name	Grafická karta
+GraphicsSettings	Resolution_Name	Rozlišení
+GraphicsSettings	WindowMode_Name	Režim zobrazení
+GraphicsSettings	MaxFps_Name	Strop snímkové frekvence
+GraphicsSettings	VSync_Name	VSync
+GraphicsSettings	Gamma_Name	Gama
+GraphicsSettings	Hdr_Name	HDR
+GraphicsSettings	Hdr_Action	Nastavení HDR
+GraphicsSettings	TextureQuality_Name	Kvalita textur
+GraphicsSettings	ShadowQuality_Name	Kvalita stínů
+GraphicsSettings	FoliageQuality_Name	Kvalita porostu
+GraphicsSettings	ViewDistanceQuality_Name	Dohlednost
+GraphicsSettings	VisualEffectQuality_Name	Kvalita vizuálních efektů
+GraphicsSettings	PostProcessingQuality_Name	Následné zpracování
+GraphicsSettings	MotíonBlurQuality_Name	Rozmazání pohybem
+GraphicsSettings	GlobalIlluminationMethod_Name	Metoda globálního osvětlení
+GraphicsSettings	GlobalIlluminationQuality_Name	Kvalita globálního osvětlení
+GraphicsSettings	AntiAliasingQuality_Name	Kvalita škálování a vyhlazování
+GraphicsSettings	UnrealSharpening_Name	Doostření obrazu
+GraphicsSettings	FsrSharpening_Name	Doostření CAS
+GraphicsSettings	FrameGeneration	Generování snímků
+GraphicsSettings	FrameGenerationTechnology	Technologie generování snímků
+GraphicsSettings	LatencyReduction_Name	Snížení latence
+
+# =========================== NASTAVENÍ OVLÁDÁNÍ ==============================
+InputSettings	General_Name	Obecné
+InputSettings	Combat_Name	Boj
+InputSettings	Controller_Name	Ovladač
+InputSettings	MouseSensitivity_Name	Citlivost kamery
+InputSettings	MouseDragSensitivity_Name	Citlivost přetahování předmětů (nabídky)
+InputSettings	EnableMouseSmoothing_Name	Zapnout vyhlazení myši
+InputSettings	InvertYAxis_Name	Převrátit osu Y rozhlížení
+InputSettings	AutoBlock_Name	Zapnout pomoc s blokováním
+InputSettings	EnableFluidBlocking_Name	Zapnout plynulé blokování
+InputSettings	FluidBlockingHorizontalSensitivity_Name	Vodorovná citlivost plynulého blokování
+InputSettings	FluidBlockingVerticalSensitivity_Name	Svislá citlivost plynulého blokování
+InputSettings	RangedAimingMode_Name	Režim míření
+InputSettings	ForceFeedbackStrength_Name	Síla vibrací
+InputSettings	WorldMenuBehaviorMode_Name	Přepínání nabídky světa
+InputSettings	RightStickHorizontalSensitivity_Name	Vodorovná citlivost kamery
+InputSettings	RightStickVerticalSensitivity_Name	Svislá citlivost kamery
+InputSettings	RightStickHorizontalCombatSensitivity_Name	Vodorovná citlivost bojové kamery
+InputSettings	RightStickVerticalCombatSensitivity_Name	Svislá citlivost bojové kamery
+InputSettings	RightStickHorizontalAimingSensitivity_Name	Vodorovná citlivost míření
+InputSettings	RightStickVerticalAimingSensitivity_Name	Svislá citlivost míření
+
+# =============================== BATOH =======================================
+InventoryUI	Assign	Přiřadit
+InventoryUI	Consume	Spotřebovat
+InventoryUI	Drop	Odhodit
+InventoryUI	Replenish	Doplnit
+InventoryUI	Swap	Prohodit
+InventoryUI	Valid	Přesunout
+InventoryUI	Invalid	Nelze
+InventoryUI	SelectSlot	Vyber pozici, kam přesunout
+InventoryUI	NotEnoughSpace	Není dost místa
+InventoryUI	CantStack	Tyhle předměty se neskládají na sebe
+InventoryUI	CantPut	Do téhle nádoby nemůžeš nic vložit
+InventoryUI	CantHoldInHand	Tenhle předmět se nedá držet v rukou
+InventoryUI	NotUsableForQuickslot	Tenhle předmět nejde dát na rychlou pozici
+InventoryUI	WrongContainerType	Do téhle pozice tenhle druh předmětu nepatří
+InventoryUI	WrongEquipmentType	Špatná pozice pro tenhle předmět
+InventoryUI	DoesNotSatisfySkillRequirements	Na tenhle předmět máš příliš nízkou dovednost
+InventoryUI	CraftingStationIsActive	Probíhá výroba
+InventoryUI	CantEatFoodFull	Nemáš hlad
+InventoryUI	CantEatFoodNotConsumable	Tohle se jíst nedá
+InventoryUI	CantEatFoodOfSameType	Už jíš jídlo tohoto druhu

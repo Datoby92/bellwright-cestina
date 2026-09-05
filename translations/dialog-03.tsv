@@ -1,0 +1,93 @@
+# Dialogy NPC, dávka 03 (dokončení Npcs/Talk) - originál <TAB> překlad
+
+# --- navigace v rozhovoru ---
+[BACK].	[ZPĚT].
+[Back].	[Zpět].
+[More].	[Více].
+[NEXT].	[DÁL].
+You know what, take this, so you won't go hungry today. [10 COINS].	Víš co, vezmi si tohle, ať dnes nemáš hlad. [10 MINCÍ].
+
+# --- pozdravy ---
+A fair day, isn’t it?	Pěkný den, že?
+Yes, sir?	Ano, pane?
+Yes.	Ano.
+Yes? Is there something you need?	Ano? Potřebuješ něco?
+You do? What is it?	Vážně? O co jde?
+You again?	Zase ty?
+You again. What mischief follows this time?	Zase ty. Jakou lotrovinu vlečeš tentokrát?
+You’re a new face. What brings you to our Town?	Nová tvář. Co tě přivádí do našeho města?
+You’re a new face. What brings you to our village?	Nová tvář. Co tě přivádí do naší vsi?
+You are not from around here, are you? What brings you to this town?	Nejsi zdejší, viď? Co tě přivádí do tohohle města?
+You're not from around here, are you? What brings you to this town?	Nejsi odsud, viď? Co tě přivádí do tohohle města?
+You're new around here, huh? Watch your back, stranger...	Jsi tu nový, co? Dávej si pozor, cizinče…
+You're new around here, huh? Watch your back, stranger. Those bandits don't take kindly to outsiders.	Jsi tu nový, co? Dávej si pozor, cizinče. Lapkové cizáky rádi nemají.
+You're new around here, huh? Watch your back, stranger. Those brigands don't take kindly to outsiders.	Jsi tu nový, co? Dávej si pozor, cizinče. Lupiči cizáky rádi nemají.
+Welcome to our village. It's not much, but it's home. Just don't go wandering too far out or you might find trouble.	Vítej v naší vsi. Není toho moc, ale je to domov. Jen se nepotuluj moc daleko, ať nenajdeš potíže.
+Ah, a fellow traveler! I’ve got wares from Crasmere, Blackridgepool and more. Care to trade?	Á, druh pocestný! Mám zboží z Crasmere, Blackridgepoolu a odjinud. Nechceš obchodovat?
+
+# --- uznání a vděk ---
+Your bravery resonates through the land.	Tvá statečnost se nese celou zemí.
+Your presence is always reassuring.	Tvá přítomnost vždy uklidní.
+Your kindness truly lifts our spirits.	Tvá laskavost nám opravdu zvedá náladu.
+You’re always a welcome sight.	Vidět tě je vždycky potěšení.
+You’ve proven yourself, no doubt.	Osvědčil ses, o tom není pochyb.
+You stand as one of us.	Stojíš mezi námi jako jeden z nás.
+You are a Halmayan in all but name.	Jsi Halmayan ve všem kromě jména.
+You did well for our people. Now, how can I help you?	Pro náš lid jsi udělal mnoho. Jak ti teď můžu pomoct?
+You did well for our village, I'm in your debt	Pro naši ves jsi udělal mnoho, jsem tvým dlužníkem
+You'll be glad to hear that things have been improving steadily since your last visit.	Potěší tě, že se to od tvé poslední návštěvy stále lepší.
+You're welcome. I'll continue to support you all in any way I can.	Není zač. Budu vás dál podporovat, jak jen budu moct.
+Of course, my friend. The villagers are struggling with hunger, and the brigands are becoming more brazen by the day.	Ovšem, příteli. Vesničané trpí hladem a lupiči jsou každým dnem drzejší.
+Yes, there are several things you could help me with.	Ano, je několik věcí, se kterými bys mi mohl pomoct.
+Well, if there's anything I can do to assist, please let me know. Even if it's just keeping an eye out for trouble.	Kdybych mohl nějak pomoct, dej vědět. Třeba jen tím, že budu dávat pozor.
+
+# --- nedůvěra a odmítnutí ---
+Come and see me once we’ve had the chance to get to know you. You’re unfamiliar, and we don’t do well with that.	Přijď za mnou, až tě trochu poznáme. Jsi cizí a s tím tady moc nejsme zadobře.
+I apologize for being blunt, but you’re wasting your time. Earn our trust, and we may be more receptive to your offer.	Odpusť mi upřímnost, ale marníš čas. Získej si naši důvěru a tvé nabídce budeme nakloněni víc.
+Your offer is kind, but I'm afraid I can't accept help from someone I don't know.	Tvá nabídka je laskavá, ale pomoc od někoho, koho neznám, přijmout nemůžu.
+I have no need for this. You've brought enough. Find a trader or an elder who might offer you something for it.	Tohle nepotřebuju. Přinesl jsi dost. Najdi kupce nebo stařešinu, ten ti za to něco nabídne.
+You're just trying to survive, it’s understandable.	Jen se snažíš přežít, to je pochopitelné.
+I refuse to speak with someone who terrorizes the people he rules. I will return one day, and I will be seeking justice.	Odmítám mluvit s někým, kdo utiskuje lid, jemuž vládne. Jednoho dne se vrátím a budu žádat spravedlnost.
+
+# --- nepřátelství ---
+You dare show your face before me?	Ty se opovažuješ přede mě předstoupit?
+You’ve got a lot of nerve showing up.	Máš pořádnou drzost, že sem lezeš.
+You’ve got a lot of nerve showing your face here.	Máš pořádnou drzost, že se tu ukazuješ.
+You’ve got business here?	Máš tu co pohledávat?
+You’ve brought enough trouble already.	Potíží jsi už nadělal dost.
+You’ve crossed a line from which there is no return.	Překročil jsi čáru, za kterou není návratu.
+You’ve run out of luck, and I’m not patient.	Došlo ti štěstí a já nejsem trpělivý.
+You’re lucky I haven’t drawn steel already.	Máš štěstí, že jsem ještě netasil.
+Your presence is… noted.	Tvá přítomnost je… zaznamenána.
+We are the elite troops of Queen Osenne. We are here to make sure the peace of the town stays intact.	Jsme elitní vojsko královny Ossene. Jsme tu, aby ve městě zůstal pokoj.
+
+# --- přijetí spolupráce ---
+If you’ve earned the trust of the Elder, then that’s good enough for me. I’m ready to align with you.	Když sis získal důvěru stařešiny, mně to stačí. Jsem připraven jít s tebou.
+You’re a good soul. I’d be happy to work with you.	Jsi dobrá duše. Rád budu pracovat s tebou.
+You’ve done well so far, so I’ll take you up on that offer. But I’ll still be keeping an eye on you.	Zatím sis vedl dobře, tak tvou nabídku přijímám. Ale oko na tobě mít budu.
+You’ve done enough, I’m surprised you’re asking that, my friend.	Udělal jsi dost, divím se, že se ptáš, příteli.
+If you bring them to the Elders from the Lowlands and Highlands, they will surely regard you more kindly.	Když je doneseš stařešinům z Nížin a Vysočiny, jistě na tebe budou hledět vlídněji.
+
+# --- vyprávění a humor ---
+Oh, we’re just a bunch of charming rogues chasing shiny things and arguing about who gets the last bottle of wine.	Jsme jen banda okouzlujících lotrů, co honí lesklé věci a hádá se, kdo dostane poslední láhev vína.
+Short version? Sea, spoils, fight when we must. We never stay in one place too long. Well not including Halmares.	Krátce? Moře, kořist, boj, když musíme. Nikde se nezdržujeme dlouho. No, kromě Halmare.
+They fight openly during the day, but after sunset, it’s safer to lock up — smugglers see darkness as opportunity.	Ve dne bojují otevřeně, ale po západu slunce je lepší zamknout – pašerákům je tma příležitostí.
+Times are tough, but we're getting by. Between the Scourge and the Queen's taxes, there's never a dull moment.	Časy jsou zlé, ale protloukáme se. Mezi pohromou a královninými daněmi není chvilka nuda.
+I heard the new guy tried to strike it rich by mining for gold. He came back with a handful of clay and stone.	Prý se ten nový chtěl obohatit těžbou zlata. Vrátil se s hrstí hlíny a kamení.
+They say the first rule of mining is to never start a cave-in. The second rule is to never talk about the first rule.	Říká se, že první pravidlo hornictví zní: nikdy nezpůsob zával. Druhé pravidlo zní: o prvním pravidle se nemluví.
+Yeaaaa, lets go eat some mushrooms	Jóóó, pojďme si dát houby
+Yes, I am, but I hope to continue my family’s legacy. If not, my name will die with me.	Ano, jsem, ale doufám, že v odkazu rodu budu pokračovat. Jinak mé jméno zemře se mnou.
+I was sure you were going to tell me more about those coins I found. Can you tell me more about them?	Byl jsem si jistý, že mi o těch nalezených mincích řekneš víc. Povíš mi o nich?
+You’ll need a ship or a boat—if you’re brave enough, that is. What a question, silly.	Budeš potřebovat loď nebo člun – pokud máš dost odvahy. Co je to za otázku, hlupáčku.
+
+# --- odpovědi na shánění ---
+Oh you can find them in plenty of villages. You should check in Padstow, Bradford, Farnworth and Horndean.	Najdeš je ve spoustě vsí. Zkus Padstow, Bradford, Farnworth a Horndean.
+You can check for them in Farnworth, Blackridgepool and Crasmere.	Zkus je hledat ve Farnworthu, Blackridgepoolu a Crasmere.
+You can find plenty Carpenters in Padstow and Blackridgepool.	Tesařů najdeš dost v Padstowu a Blackridgepoolu.
+You can find them all over the Isles; the closest ones should be outside of Cragkeep, in the gardens.	Najdeš je po celých ostrovech; nejbližší by měly být za Cragkeepem, v zahradách.
+You can find it in swamps area, but be careful we have plenty of bandits there. Vicious ones.	Najdeš to v bažinách, ale pozor, je jich tam plno lapků. A pěkně zlých.
+You should check in Crasmere or Horndean.	Zkus to v Crasmere nebo Horndeanu.
+You should look for it in the mountains.	Hledej to v horách.
+You should speak with Lyra, or check with our folks out here. We’re always in need of help against the Cassians.	Promluv s Lyrou, nebo se poptej našich lidí tady. Pomoc proti Cassianům se vždycky hodí.
+You’re new here, huh? Speak with Dario or Lyra — they should be able to tell you more about this.	Jsi tu nový, co? Promluv s Dariem nebo Lyrou – ti ti řeknou víc.
+I’m not sure where to find it, but a blacksmith, carpenter or someone who works with that resource should know.	Nevím jistě, kde to najít, ale kovář, tesař nebo někdo, kdo s tou surovinou pracuje, by měl vědět.

@@ -1,0 +1,251 @@
+# Obsah hry, dávka 23 (S-T) - originál <TAB> překlad
+# Obsahuje nejčastější zadání úkolu ve hře: "Talk to {Npc}" (51×) a varianty.
+
+# --- rozhovorové úkoly ---
+Talk to {Npc}	Promluv s {Npc}
+Talk to {Npc}.	Promluv s {Npc}.
+Talk with {Npc}	Promluv s {Npc}
+Talk to {Npc} again	Promluv s {Npc} znovu
+Talk to {Npc} about what's happened.	Promluv s {Npc} o tom, co se stalo.
+Talk to {Npc} about the cure.	Promluv s {Npc} o léku.
+Talk to {Npc}, leader of the free people in the village.	Promluv s {Npc}, vůdcem svobodných lidí ve vsi.
+Talk to {Npc} and share what you found out.	Promluv s {Npc} a řekni mu, cos zjistil.
+Talk to {Npc} and collect the reward	Promluv s {Npc} a vyzvedni odměnu
+Talk to {Npc} and bring him his loot...or not.	Promluv s {Npc} a přines mu kořist… nebo taky ne.
+Talk to {Npc} and bring him the loot back loot...or not.	Promluv s {Npc} a vrať mu kořist… nebo taky ne.
+Talk to {Npc} at Sol Winery	Promluv s {Npc} ve vinařství Sol
+Talk to {Npc} to find out the race results.	Promluv s {Npc} a zjisti výsledky závodu.
+Talk to {Npc}at the Graveyard.	Promluv s {Npc} na hřbitově.
+Talk to the {Npc} about the suspicious spices	Promluv s {Npc} o tom podezřelém koření
+Talk to the {Npc} living nearby.	Promluv s {Npc}, co bydlí opodál.
+Talk with muse - {Npc}	Promluv s múzou – {Npc}
+Talk with Lubomir	Promluv s Lubomirem
+Talk with the Rookie.	Promluv s nováčkem.
+Talk to Halmayan Rookie	Promluv s halmayanským nováčkem
+Talk to Alistair Boone	Promluv s Alistairem Boonem
+Talk to Amelie and learn more about the troubling hunter.	Promluv s Amelií a zjisti víc o tom problémovém lovci.
+Talk to Anzo Milton	Promluv s Anzem Miltonem
+Talk to bastard.	Promluv s tím parchantem.
+Talk to Carlos at his secret place	Promluv s Carlosem na jeho tajném místě
+Talk to Cudka Ricket	Promluv s Cudkou Ricketovou
+Talk to Herbalist again	Promluv znovu s bylinkářem
+Talk to Lubomir after sleep.	Po spánku promluv s Lubomirem.
+Talk to Padstow’s Elder	Promluv se stařešinou Padstowu
+Talk to Patryk Sten - new Bradford Elder	Promluv s Patrykem Stenem, novým stařešinou Bradfordu
+Talk to Prisoners.	Promluv se zajatci.
+Talk to sad woman	Promluv se smutnou ženou
+Talk to Smugglers	Promluv s pašeráky
+Talk to the deserter.	Promluv se zběhem.
+Talk to the stranger	Promluv s cizincem
+Talk to Widow	Promluv s vdovou
+
+# --- další zadání úkolů ---
+Take down the bandits Donovan Clane mentioned.	Skoncuj s lapky, o kterých mluvil Donovan Clane.
+Take the manual	Vezmi příručku
+Take the pants out of the chest.	Vyndej kalhoty z truhly.
+Take the shipment to the Alexander Solazar Innkeeper.	Odnes zásilku hostinskému Alexandru Solazarovi.
+Take the shipment to the Sal Maia Innkeeper.	Odnes zásilku hostinskému Salu Maiovi.
+Take the spices from the {Npc}	Vezmi koření od {Npc}
+Take the treasure	Vezmi poklad
+Take the treasure from Brigands	Vezmi poklad lupičům
+Take the wine crate	Vezmi bednu s vínem
+Support Cassians in battle	Podpoř Cassiany v bitvě
+Support Halmayans in battle	Podpoř Halmayany v bitvě
+Support construction	Podpoř stavbu
+Tell Abel the truth of what happened and give him his pants.	Řekni Abelovi pravdu a vrať mu kalhoty.
+Tell Lubomir you’re ready to attack the bandits’ camp.	Řekni Lubomirovi, že jsi připraven zaútočit na tábor lapků.
+
+# --- repliky ---
+Sure.	Jistě.
+Sure, what herbs do you need? I'll get them.	Jistě, jaké byliny potřebuješ? Seženu je.
+Take care.	Opatruj se.
+Still hunting.	Pořád lovím.
+Still looking.	Pořád hledám.
+Still working on them.	Ještě na nich dělám.
+Stop embarrassing yourself. Kill me or be gone.	Přestaň se ztrapňovat. Zabij mě, nebo zmiz.
+Tell me about the Blood Moon Feast.	Pověz mi o Hostině krvavého měsíce.
+Tell me about the lighthouses please.	Pověz mi prosím o majácích.
+
+# --- názvy úkolů ---
+Spread Too Thin	Roztříštěné síly
+Stopping The Harassment	Konec obtěžování
+Story of Halmare Isles	Příběh Halmarských ostrovů
+Story of the Lowlands	Příběh Nížin
+Switching Gear	Výměna výstroje
+Sweet victory	Sladké vítězství
+Tax Obligations for Security	Daňové povinnosti za bezpečí
+Taxes for Good	Daně pro dobro
+Taxes for Safety	Daně za bezpečí
+
+# --- předměty k úkolům ---
+Stolen "Pregnant" Woman's treasure	Poklad ukradený „těhotné“ ženě
+Stolen Brigand's treasure	Lupičům ukradený poklad
+Stolen Goods (Quest Item)	Kradené zboží (předmět k úkolu)
+Stolen Necklace (Quest Item)	Ukradený náhrdelník (předmět k úkolu)
+Stone with a letter (Quest Item)	Kámen s dopisem (předmět k úkolu)
+Strange Spices (Quest Item)	Podivné koření (předmět k úkolu)
+Strange Boar Tusk	Podivný kančí kel
+Strange Torch	Podivná pochodeň
+Strange Man	Podivný muž
+Stranger	Cizinec
+Stranger in the outskirts.	Cizinec na okraji.
+
+# --- jídlo a suroviny ---
+Steel Ingot	Ocelový ingot
+Stone	Kámen
+Stone Block	Kamenný kvádr
+Straw	Sláma
+Stick	Klacek
+Strong Cloth	Pevná látka
+Strap	Řemen
+Stews	Guláše
+Sweet Potatoes	Batáty
+Sweet Potato Seeds	Sadba batátů
+Sunflower Seeds	Slunečnicová semena
+Sunleaf Cluster	Trs slunolistu
+Sunleaf Seeds	Semena slunolistu
+Swamp Reed	Bažinný rákos
+
+# --- zvířata a ryby ---
+Stag	Jelen
+Stag Horns	Jelení parohy
+Stag Trophy	Jelení trofej
+Stag trophy provides renown for placing in your settlement	Jelení trofej ti po umístění v osadě přinese věhlas
+Stag trophy provides renown for placing in your settlement.	Jelení trofej ti po umístění v osadě přinese věhlas.
+Spotted Gluttonfish Trophy	Trofej skvrnité nenasytky
+Steelfin Glider	Ocelploutvý klouzavec
+Striped Catfin	Pruhovaná kočkoploutvá
+Striped Shadowtail	Pruhovaný stínoocasý
+
+# --- zbraně a výstroj ---
+Sturdy Arrows	Pevné šípy
+Sturdy Falchion	Pevný falchion
+Sturdy Sabre	Pevná šavle
+Sturdy Waraxe	Pevná válečná sekera
+Sturdy Warhammer	Pevné válečné kladivo
+Sturdy Pickaxe	Pevný krumpáč
+Sturdy Gloves	Pevné rukavice
+Sturdy Shoes	Pevné boty
+Studded Bracers	Cvočkované chrániče předloktí
+Studded Helm	Cvočkovaná přilba
+Studded Shirt	Cvočkovaná košile
+Strapped Leather Boots	Kožené boty s řemínky
+Strapped Reinforced Gloves	Zesílené rukavice s řemínky
+Strengthen Shirt	Zesílená košile
+Straw Hat	Slaměný klobouk
+Sword	Meč
+Telescope	Dalekohled
+
+# --- výstroj bažinných loupežníků ---
+Swamp Robbers Helmets 1	Přilby bažinných loupežníků 1
+Swamp Robbers Helmets 2	Přilby bažinných loupežníků 2
+Swamp Robbers Hood	Kapuce bažinných loupežníků
+Swamp Robbers Garb 1	Šat bažinných loupežníků 1
+Swamp Robbers Garb 2	Šat bažinných loupežníků 2
+Swamp Robbers Garb 3	Šat bažinných loupežníků 3
+Swamp Robbers Gloves	Rukavice bažinných loupežníků
+Swamp Robbers Pants	Kalhoty bažinných loupežníků
+Swamp Robbers Boots	Boty bažinných loupežníků
+
+# --- nábytek a ozdoby ---
+Standing Torch	Stojací pochodeň
+Sturdy Bench	Pevná lavice
+Sturdy Little Bench	Pevná lavička
+Sturdy Chair	Pevná židle
+Sturdy Stool	Pevná stolička
+Stump bench	Lavice z pařezu
+Sunken Basket	Potopený koš
+Sunflower Patch	Záhon slunečnic
+Suspicious Altar	Podezřelý oltář
+Suspicious Pile	Podezřelá hromada
+
+# --- stavby a místa ---
+Stable	Stáj
+Stairs	Schody
+Stairs To The Chamber	Schody do komnaty
+Stairs with Battlements	Schody s cimbuřím
+Staging Ground	Shromaždiště
+Starting Area Chicken Coop	Kurník ve výchozí oblasti
+Starting Area Outhouse	Kadibudka ve výchozí oblasti
+Stone Road	Kamenná cesta
+Stone Tomb	Kamenná hrobka
+Stonemason's Hut	Kamenická chýše
+Stockpile	Skládka
+Storage	Sklad
+Stormwarden Lighthouse	Maják Stormwarden
+Study Corner	Studijní kout
+Swamp	Bažina
+Swamp Hermit Hut	Chýše bažinného poustevníka
+Tanner's House	Koželuhův dům
+Tanner's Hut	Koželužna
+Tanners Hut	Koželužna
+Tannery	Koželužna
+Tanning Rack	Vydělávací rám
+Tavern	Hospoda
+Tavern Cauldron	Kotel v hospodě
+
+# --- lidé ---
+Spy	Zvěd
+Sprinter	Běžec
+Stalwart	Neochvějný
+Stout	Statný
+Stowaway	Černý pasažér
+Suspect	Podezřelý
+Swordsman	Šermíř
+Tailor	Krejčí
+
+# --- rozhraní ---
+Squads	Oddíly
+Stabilization Time	Doba ustálení
+Stack	Hromádka
+Stamina	Výdrž
+Stamina Bonus	Bonus k výdrži
+Stamina Regeneration	Obnova výdrže
+START	START
+Start preview	Spustit náhled
+Stop preview	Zastavit náhled
+Stop research	Zastavit bádání
+Starving	Hladoví
+State	Stav
+Statistics	Statistiky
+Stats	Statistiky
+Stats & Effects	Statistiky a účinky
+Status	Stav
+Status:	Stav:
+Stayed a night at a tavern in home village	Přespal v hospodě v domovské vsi
+Stir	Zamíchat
+Stock	Zásoba
+Stop	Zastavit
+Stops	Zastávky
+Storage Filters	Filtry skladu
+Storage management	Správa skladu
+Strength	Síla
+Stress	Stres
+Stress factors:	Zdroje stresu:
+Stress Penalty	Postih ze stresu
+Structure name	Název stavby
+Structure Priority	Priorita stavby
+Struggling	Strádá
+Subtract	Odečíst
+Sunset	Západ slunce
+Support	Podpora
+Sweat	Pot
+Swim	Plavat
+Switch	Přepnout
+Switch settlement	Přepnout osadu
+Switch Settlement	Přepnout osadu
+Switch squad	Přepnout oddíl
+Switch Structure	Přepnout stavbu
+Switch structure	Přepnout stavbu
+Take	Vzít
+talking	mluví
+Tech Item	Technologie
+Tech Items	Technologie
+Tech Tree	Strom technologií
+TechTree	Strom technologií
+Technology Tier	Úroveň technologie
+Teleport in	Přenést se za
+Teleport to NPC	Přenést se k NPC
+STONES	KAMENY
+SUBTITLE TEXT HERE	SEM PATŘÍ TITULEK
+TECHNICAL ART	TECHNICKÁ GRAFIKA

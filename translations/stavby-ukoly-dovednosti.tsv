@@ -1,0 +1,297 @@
+# Stavění, úkoly, zvířata, práce vesničanů, dovednosti, kodex a vlastnosti předmětů.
+#
+# Úkoly obsahují formátovací značky <item>...</> a <destination>...</> - musí
+# zůstat přesně tak, jak jsou, jinak se text ve hře rozbije.
+#
+# Ustálené pojmy zavedené v této dávce:
+#   renown    = věhlas       trust      = důvěra
+#   prosperity= prosperita   loyalty    = věrnost
+#   wrath     = hněv         tier       = úroveň
+
+# ========================= STAVĚNÍ A UMÍSŤOVÁNÍ ==============================
+PlayerBuildingScreen	BuildingComponentNoResources	Nemáš potřebné suroviny.
+PlayerBuildingScreen	BuildingComponentConstructionPointsRequired	Nedostatek stavebních bodů.
+PlayerBuildingScreen	BuildingComponentNotEnoughRenown	Nedostatek věhlasu
+PlayerBuildingScreen	BuildingComponentTrustLevelRequired	Nemáš dost důvěry, abys tohle postavil.
+PlayerBuildingScreen	BuildingComponentVillageLiberationRequired	Nejdřív musíš ves osvobodit.
+PlayerBuildingScreen	BuildingComponentHostileRegion	V nepřátelském kraji se stavět nedá
+PlayerBuildingScreen	BuildingComponentImpossibleToBuildInThisVillage	V této vsi se stavět nedá.
+PlayerBuildingScreen	BuildingComponentConstructionInProgress	Než začneš novou stavbu, dokonči tu rozestavěnou ve vsi.
+PlayerBuildingScreen	BuildingComponentMaxVillageBuildingsLimitReached	Víc staveb tohoto druhu už v této vsi postavit nemůžeš.
+PlayerBuildingScreen	BelltowerAlreadyBuilt	V neutrální vsi můžeš postavit jen jednu zvonici.
+PlayerBuildingScreen	TownHallAlreadyBuilt	Radnice už stojí. Další postavit nemůžeš.
+
+PlayerBuildingScreen	BuildingComponentBelowGround	Pod zemí se stavět nedá
+PlayerBuildingScreen	BuildingComponentGroundNotAllowed	Na zem umístit nelze
+PlayerBuildingScreen	BuildingComponentGroundTooFar	Země je příliš daleko
+PlayerBuildingScreen	BuildingComponentPlatformNotAllowed	Na tuhle plošinu umístit nelze
+PlayerBuildingScreen	BuildingComponentInvalidParent	Plošina není vhodná.
+PlayerBuildingScreen	BuildingComponentInvalidAngle	Sklon umístění je příliš prudký.
+PlayerBuildingScreen	BuildingComponentSmartPlacementSlopeTooSteep	Terén v místě umístění je příliš strmý.
+PlayerBuildingScreen	BuildingComponentOutsideNavmesh	Mimo přístupnou oblast
+PlayerBuildingScreen	BuildingComponentOutsideRadius	Jsi příliš daleko, abys to tam umístil.
+PlayerBuildingScreen	BuildingComponentFoliageIsBlocking	{FoliageName} brání umístění na tomto místě.
+PlayerBuildingScreen	BuildingComponentNoToolToRemoveFoliage	Nemáš vybádané nástroje potřebné úrovně, abys odstranil {FoliageName}.
+PlayerBuildingScreen	BuildingComponentMineableFoliage	V okolí nejsou žádná ložiska rudy
+
+PlayerBuildingScreen	BuildingComponentTownRequired	Musí stát uvnitř zóny města.
+PlayerBuildingScreen	BuildingComponentOutsideTownZone	Musí stát mimo zónu města.
+PlayerBuildingScreen	BuildingComponentNeutralTownRequired	Musí stát uvnitř zóny neutrální vsi.
+PlayerBuildingScreen	BuildingComponentBlockedByInfluenceZone	Musí stát o {Distance} dál od neutrální osady.
+PlayerBuildingScreen	BuildingComponentFarOutsideOfVillageRequiredDistance	Musí stát o {Distance} dál od neutrální vsi.
+PlayerBuildingScreen	BuildingComponentNearTheRoad	Musí být napojeno na hlavní cestu.
+PlayerBuildingScreen	BuildingComponentOceanOrRiverRequired	Musí být napojeno na moře.
+PlayerBuildingScreen	BuildingComponentWaterShoreRequired	Musí stát podél břehu.
+
+PlayerBuildingScreen	ConfirmPlanText	Schválit plán
+PlayerBuildingScreen	RemovePlanText	Odebrat plán
+PlayerBuildingScreen	DisassembleText	Rozebrat
+PlayerBuildingScreen	RelocateText	Přemístit
+PlayerBuildingScreen	RenameText	Přejmenovat
+PlayerBuildingScreen	NameTownHallDescription	Pojmenuj osadu
+PlayerBuildingScreen	CantDisassembleCartText	Povoz se právě používá
+PlayerBuildingScreen	CantDisassembleManned	Používá jiný hráč
+PlayerBuildingScreen	CantRelocateManned	Používá jiný hráč
+PlayerBuildingScreen	ImprovementRelocationNotInSameTown	Vylepšení vsi nelze přesouvat mezi městy.
+
+# ================================ ÚKOLY ======================================
+Quests	BringItems	Přines <item>{Amount} {ItemName}</>
+Quests	BringItemsWithInventory	Přines <item>{Amount} {ItemName}</> (v batohu: {NumItemsInInventory})
+Quests	BringItemsWithMinimumWeight	Přines <item>{Amount} {ItemName} o váze aspoň {Weight}</>
+Quests	BringItemsWithInventoryWithMinimumWeight	Přines <item>{Amount} {ItemName} o váze aspoň {Weight}.</> (v batohu: {NumItemsInInventory})
+Quests	BringItemsToNpc	Odnes <item>{Amount} {ItemName}</> k <destination>{NpcName}</>
+Quests	BringItemsToNpcWithInventory	Odnes <item>{Amount} {ItemName}</> k <destination>{NpcName}</> (v batohu: {NumItemsInInventory})
+Quests	BringItemsToNpcWithMinimumWeight	Odnes <item>{Amount} {ItemName} o váze aspoň {Weight}</> k <destination>{NpcName}</>
+Quests	BringItemsToNpcWithInventoryWithMinimumWeight	Odnes <item>{Amount} {ItemName} o váze aspoň {Weight}</> k <destination>{NpcName}.</> (v batohu: {NumItemsInInventory})
+
+Quests	BringQuestDescription	Přines {NumUnitsOfResourceName}
+# BringQuestDescriptionItemDelimiter zůstává nepřeložený: originál je ", " včetně
+# koncové mezery, kterou by TSV ztratilo, a v češtině je stejný.
+Quests	BringQuestItemDescription	{Num} jednotek suroviny {ResourceName}
+Quests	BringQuestItemDescriptionWithMinimumWeight	{Num} jednotek suroviny {ResourceName} o váze aspoň {Weight}
+Quests	BringQuestObtainTask	Přines {Num} jednotek předmětu {ItemName}
+Quests	BringQuestObtainTaskWithMinimumWeight	Přines {Num} jednotek předmětu {ItemName}, každou o váze aspoň {weight}
+Quests	BringQuestTitle_ToNpc	Doruč předměty – {QuestGiverName}
+Quests	BringQuestTitle_ToNpcInLocation	Doruč předměty – {QuestGiverName}, {SettlementName}
+Quests	ReturnToGiver	Vrať se k {QuestGiverFullName}
+Quests	CollectRewardTask	Vyzvedni odměnu na vývěsce
+
+Quests	DifficultyEasy	Lehká
+Quests	DifficultyMedium	Střední
+Quests	DifficultyHard	Těžká
+
+Quests	FindActorQuestTitle	Prozkoumej a najdi
+Quests	HuntAnimalsTitle	Lov zvěře
+Quests	KillRupusDescription	Je třeba ulovit {Num} {AnimalName}
+Quests	LootRuinsTitle	Prohledej zříceniny
+Quests	LootRuinsTask	Prohledej {Num} {Structures}
+Quests	LootRuinsDescription	Prohledej {Num} zřícenin ve světě a najdi suroviny i dávné vědění
+Quests	ReachRealmPopulationDescription	Měj najato {Num} lidí
+Quests	VillageTrustGainQuest	Získej ve vsi {VillageName} úroveň důvěry {Stranger_Protector_or_Leader}
+
+Quests	CoinsRewardText	{Num} mincí
+Quests	ItemRewardText	{Quantity} {ItemName}
+Quests	ItemRangeRewardText	{MinQuantity} – {MaxQuantity} {ItemName}
+Quests	RenownRewardText	{NumericRenownIncrease} věhlasu
+Quests	LoyaltyRewardText	{NumericLoyaltyIncrease} věrnosti
+Quests	WrathRewardText	{NumericWrathIncrease} hněvu
+Quests	TrustRewardText	{NumericTrustIncrease} důvěry pro ves {SettlementName}
+Quests	ProsperityRewardText	{NumericProsperityIncrease} prosperity pro ves {SettlementName}
+Quests	ConstructionPointsRewardText	{NumericPointsIncrease} stavebních bodů pro ves {SettlementName}
+Quests	WarriorRewardText	{Num} bodů schopností válečníka
+Quests	ExplorerRewardText	{Num} bodů schopností průzkumníka
+Quests	RogueRewardText	{Num} bodů schopností šibala
+
+# =============================== ZVÍŘATA =====================================
+Animals	AnimalFullName	{TypeName} {Gender}, {Name}
+Animals	Cub_Name	Mládě
+Animals	PregnantStatus	Březí
+Animals	Find	Najít
+Animals	Inspect	Prohlédnout
+Animals	Rename	Přejmenovat
+Animals	ToggleFollow	Následuj mě
+Animals	StopFollowing	Přestat následovat
+
+Animals	BreedingStatus_Breeding	Páření
+Animals	BreedingStatus_CanBreed	Hledá druha
+Animals	BreedingStatus_CanBreed_Female	Čeká na druha
+Animals	BreedingStatus_Cooldown_Male	Odpočívá
+Animals	BreedingStatus_Cooldown_FemaleMammal	Zotavuje se
+Animals	BreedingStatus_Cooldown_FemaleNotMammal	Zotavuje se
+Animals	BreedingStatus_CubCanNotBreedYet	Příliš mladé na páření
+Animals	BreedingStatus_TooStressed	Příliš ve stresu na páření
+
+Animals	FeedLevelThreshold_WellFed	Dobře krmené
+Animals	FeedLevelThreshold_PoorlyFed	Špatně krmené
+Animals	FeedLevelThreshold_Starving	Hladovějící
+Animals	StressLevel_Low	Nízký
+Animals	StressLevel_Medium	Střední
+Animals	StressLevel_High	Vysoký
+
+Animals	Slaughter_Automatic	Automaticky
+Animals	Slaughter_Mark	Označit
+Animals	Slaughter_Protect	Chránit
+
+Animals	Structure_Inspect	Prohlédnout
+Animals	Structure_LivesIn	Bydlí v
+Animals	Structure_Switch	Změnit
+Animals	Structure_TransferringTo	Přesouvá se do
+Animals	FarmAnimal_UnassignedStructure_Instruction	Chceš-li zvířeti dát domov, doveď ho k odpovídající stavbě.
+Animals	PetAnimal_UnassignedStructure_Instruction	Chceš-li zvířeti dát domov, doveď ho ke svému domu.
+Animals	FarmAnimal_UnassignedStructure_Transferring_Instruction	Chceš-li zvířeti změnit domov, počkej, až se přesun do nového dokončí.
+Animals	PetAnimal_UnassignedStructure_Transferring_Instruction	Chceš-li zvířeti změnit domov, počkej, až se přesun do nového dokončí.
+
+# ========================== PRÁCE VESNIČANŮ ==================================
+JobPriorityInfo	JobPriorityInfo	Práci nelze vykonat. Důvod: {Reason}
+JobPriorityInfo	NumberOfActiveWorkers	{Num} činných dělníků
+JobPriorityInfo	AnimalPriority	Žádné zvíře nemá nastavenou prioritu
+JobPriorityInfo	AllTrapsAreEmpty	Všechny pasti jsou prázdné.
+
+JobPriorityInfo	MissingToolsForJob	Chybí nástroj.
+JobPriorityInfo	MissingToolsForJobList	Chybí nástroj {ToolList}.
+JobPriorityInfo	NoToolAvailable	Chybí nástroj ke sklizni: {Item}.
+JobPriorityInfo	RequiredToolNotAvailable	Chybí {ToolName} ke sklizni: {Item}.
+JobPriorityInfo	ToolIsBroken	Rozbitý {ToolName} nedokáže sklidit {Item}.
+JobPriorityInfo	ExistingToolDoesNotFitItem	(úroveň {ToolTier})
+JobPriorityInfo	ExistingToolDoesNotMatchItem	{ToolName} {ToolTier} nedokáže sklidit {Item}.
+JobPriorityInfo	ExistingToolExceedsWorkerSkillRequirements	Chybí dovednost pro použití {ToolName} {ToolTier} na {Item}.
+
+JobPriorityInfo	MissingCraftingResources	Čeká se na {ResourceList}
+JobPriorityInfo	MissingSkillsForCrafting	Chybí dovednost pro výrobu.
+JobPriorityInfo	CraftingMissesResources	{ItemName} čeká na dodání: {ResourceList}.
+JobPriorityInfo	CraftingMissesResourcesInSettlement	{ItemName} postrádá: {ResourceList}.
+JobPriorityInfo	CraftingQuotaReached	Výroba {ItemName} zastavena, cíl {TargetAmount} splněn.
+JobPriorityInfo	MissingResearchResources	Bádání {TechItem} postrádá suroviny: {ResourceList}
+
+JobPriorityInfo	InjuredNpcForHunting	Dělník je zraněný a nemůže lovit.
+JobPriorityInfo	MissingArrowsForHunting	K lovu chybí šípy.
+JobPriorityInfo	MissingBowForHunting	K lovu chybí luk.
+JobPriorityInfo	MissingBowAndArrowForHunting	K lovu chybí luk a šípy.
+JobPriorityInfo	MissingRodForFishing	K rybolovu chybí prut.
+JobPriorityInfo	MissingBaitForFishing	K rybolovu chybí návnady.
+JobPriorityInfo	NoFishingSpotAvailable	Nejsou dostupná žádná rybářská místa.
+JobPriorityInfo	NoFishingSpotOfTypeAvailable	Žádné rybářské místo zvoleného typu.
+JobPriorityInfo	MissingTrainingWeapons	Chybí cvičné zbraně.
+JobPriorityInfo	MissingShovelForRoadConstruction	Ke stavbě cesty chybí lopata
+JobPriorityInfo	ForesterHasNoSaplings	Nejsou k dispozici žádné semenáčky k sázení.
+JobPriorityInfo	ForesterHasNoValidPlaceForPlantingSapling	Není místo pro další semenáčky.
+JobPriorityInfo	DeliverAutoHarvestedResourcesNoHarvestable	Nenalezeno nic ke sklizni: {Item}.
+JobPriorityInfo	DeliverAutoHarvestedResourcesReturnHarvested	Vrátit sklizené suroviny
+
+# =========================== KATEGORIE PRÁCE =================================
+JobCategories	AnimalHandling	Chov zvířat
+JobCategories	CaravanCarrier	Nosič karavany
+JobCategories	CaravanGuard	Strážce karavany
+JobCategories	Construction	Stavitelství
+JobCategories	Cooking	Vaření
+JobCategories	Crafting	Výroba
+JobCategories	Delivery	Doprava
+JobCategories	Farming	Zemědělství
+JobCategories	Harvesting	Sběr
+JobCategories	Hunting	Lov
+JobCategories	Research	Bádání
+JobCategories	Smelting	Tavení
+JobCategories	Training	Výcvik
+JobCategories	Woodcutting	Dřevorubectví
+
+# ============================= DOVEDNOSTI ====================================
+Skills	Agility	Hbitost
+Skills	AnimalHandling	Chov zvířat
+Skills	Archery	Lukostřelba
+Skills	Crafting	Výroba
+Skills	Farming	Zemědělství
+Skills	FoodProduction	Vaření
+Skills	Harvesting	Sběr
+Skills	Labourer	Dělník
+Skills	OneHanded	Jednoruční zbraně
+Skills	TwoHanded	Obouruční zbraně
+Skills	Polearms	Dřevcové zbraně
+Skills	Shields	Štíty
+Skills	Researching	Bádání
+Skills	Strength	Síla
+Skills	MaxLevelReached	Dosažena nejvyšší úroveň
+
+SkillExplanation	AttackSpeed	Rychlost útoku
+SkillExplanation	ShootingSpeed	Rychlost střelby
+SkillExplanation	Damage	Bonus k poškození
+SkillExplanation	MaxHp	Max. zdraví
+SkillExplanation	Stamina	Výdrž
+SkillExplanation	MovementSpeed	Rychlost pohybu
+SkillExplanation	MovementAcceleration	Zrychlení pohybu
+SkillExplanation	SpeedReductionMitigation	Zmírnění zpomalení
+SkillExplanation	CraftingSpeed	Rychlost výroby
+SkillExplanation	CookingSpeed	Rychlost vaření
+SkillExplanation	ResearchingSpeed	Rychlost bádání
+SkillExplanation	LabourerSpeed	Efektivita stavění
+SkillExplanation	FarmingSpeed	Množství výnosu
+SkillExplanation	HarvestingSpeed	Šance na výnos navíc
+SkillExplanation	SkinningSpeed	Výnos zvěřiny navíc
+SkillExplanation	ProductivityIncrease	Bonus produktivity
+SkillExplanation	ProductivityDecrease	Postih produktivity
+SkillExplanation	E3D8BF644E13FF05261D6DB3CF1B09BF	Rychlost míření s lukem
+SkillExplanation	9EFEF2D348FC1BA1CDE4AD99126E68C9	Rozptyl míření s lukem
+SkillExplanation	0BA21646422CC6CA0AADAD935E10A3C0	Rychlost míření s kuší
+SkillExplanation	E733F82F4FEF1353CDE107B86E058F43	Rozptyl míření s kuší
+
+# =============================== KODEX =======================================
+Codex	CategoryGeneral	Obecné
+Codex	CategoryLore	Příběh světa
+Codex	CategoryWorld	Svět
+Codex	GroupBuilding	Stavby
+Codex	GroupFolklore	Lidová slovesnost
+Codex	GroupFood	Jídlo
+Codex	GroupGear	Výstroj
+Codex	GroupHistory	Dějiny
+Codex	GroupMechanic	Herní mechaniky
+Codex	GroupNotes	Zápisky
+Codex	GroupRegion	Kraje
+Codex	GroupResource	Suroviny
+Codex	GroupTutorial	Návody
+Codex	GroupVillage	Vsi
+
+# ====================== VLASTNOSTI PŘEDMĚTŮ A ZBROJE =========================
+ItemAttributes	Armor	Zbroj
+ItemAttributes	ArrowSpeed	Rychlost šípu
+ItemAttributes	ContainerSize	Velikost
+ItemAttributes	ContainerSizeValue	{Columns}×{Rows}
+ItemAttributes	DrawWeight	Síla nátahu
+ItemAttributes	Hand	Ruka
+ItemAttributes	MovementSpeedReduction	Rychlost
+ItemAttributes	NutritionDuration	Sytost
+ItemAttributes	ProjectileStackSize	Hromádka
+ItemAttributes	RequiredSkill	Vyžaduje {SkillName}
+ItemAttributes	ShieldDurability	Body odolnosti
+ItemAttributes	Slot	Pozice
+ItemAttributes	ToolLabel	{ToolAction}
+ItemAttributes	ToolTypeTier	{ToolType} – úroveň {ToolTier}
+ItemAttributes	WeaponLength	Délka
+ItemAttributes	WeaponSpeed	Rychlost
+
+MaterialTypes	NoProtection	Žádná
+MaterialTypes	NoProtectionMaterial	Bez ochrany
+MaterialTypes	SoftProtection	Měkká
+MaterialTypes	SoftProtectionMaterial	Měkký materiál
+MaterialTypes	HardProtection	Tvrdá
+MaterialTypes	HardProtectionMaterial	Tvrdý materiál
+MaterialTypes	SolidProtection	Pevná
+MaterialTypes	SolidProtectionMaterial	Pevný materiál
+MaterialTypes	HardenedProtection	Robustní
+MaterialTypes	HardenedProtectionMaterial	Robustní materiál
+MaterialTypes	ReinforcedProtection	Zesílená
+MaterialTypes	ReinforcedProtectionMaterial	Zesílený materiál
+MaterialTypes	SpecialProtection	Vlastní
+MaterialTypes	SpecialProtectionMaterial	Zvláštní ochrana
+
+DamageTypes	Blunt	Tupé
+DamageTypes	Cutting	Sečné
+DamageTypes	Piercing	Bodné
+DamageTypes	Tension	Napětí
+DamageTypes	Fire	Oheň
+DamageTypes	Gas	Plyn
+DamageTypes	Water	Voda
+DamageTypes	RawWater	Syrová voda
+DamageTypes	Thirst	Žízeň
+DamageTypes	Fall	Pád
+DamageTypes	Dragging	Vlečení
+DamageTypes	Cactus	Kaktus
+DamageTypes	Repair	Oprava

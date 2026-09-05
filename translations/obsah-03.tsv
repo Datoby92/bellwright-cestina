@@ -1,0 +1,182 @@
+# Obsah hry, dávka 03 (A-B) - originál <TAB> překlad
+#
+# "Bandit Camp", "Bandit's Encampment", "Bandits camp" apod. jsou v originálu
+# nejednotné, ale jde o totéž místo - česky sjednoceno na "Tábor lapků".
+#
+# Vynechány řetězce s koncovou mezerou ("Belongs to: ", "Bandit patrol activity: "),
+# protože ta by se v TSV ztratila; zůstávají anglicky a doplní se zvlášť.
+
+# --- repliky ---
+Ah, another wanderer. What brings you to me, then?	Á, další poutník. Co tě ke mně přivádí?
+A sword, huh? I swing mine for gold, not glory.	Meč, jo? Já tím svým mávám pro zlato, ne pro slávu.
+250 coins for my services. And I’m not bargaining.	Dvě stě padesát mincí za mé služby. A nesmlouvám.
+Alright, I’ll raise my standing and come back.	Dobrá, zlepším si pověst a vrátím se.
+Aye, what would you know?	Jo, a co ty o tom víš?
+Be my guest.	Jen do toho.
+Back already? You hiring or just browsing?	Už zpátky? Najímáš, nebo se jen díváš?
+Beds upstairs. Don’t break anything.	Postele jsou nahoře. Nic nerozbij.
+Big words for someone about to lose their teeth!	Velká slova na někoho, kdo přijde o zuby!
+At least now he would bother Rudy anymore.	Aspoň už nebude Rudyho otravovat.
+At least, you have no rivals to the family lands.	Aspoň nemáš o rodinné pozemky s kým soupeřit.
+Bell-what?	Bell-co?
+Bell-who?	Bell-kdo?
+About the bottle you wanted me to bring to you...	Ohledně té lahve, co jsem ti měl přinést…
+Back to my original questions.	Zpět k mým původním otázkám.
+Back to my previous questions.	Zpět k mým předchozím otázkám.
+Back to the questions.	Zpět k otázkám.
+
+# --- zadání úkolů ---
+Add propaganda to the notice board in Cragkeep	Vyvěs propagandu na vývěsku v Cragkeepu
+Add propaganda to the notice board in Rustshore	Vyvěs propagandu na vývěsku v Rustshore
+Back to {Npc}	Zpět k {Npc}
+Back to Carpenter	Zpět k tesaři
+Axes for Blacksmith	Sekery pro kováře
+Attend an appointment	Dostav se na schůzku
+(Quest Giver for Shrine Quest - Treasure Guard)	(Zadavatel úkolu se svatyní – strážce pokladu)
+
+# --- názvy úkolů ---
+Bandit, Lord And Common Folk	Lapka, lord a prostý lid
+Bane of Tyrants	Postrach tyranů
+Big Hat, No Cattle	Velká gesta, žádné skutky
+Bandit Bounties	Odměny za lapky
+
+# --- popisy předmětů ---
+A hard, crystalline mineral composed of silica.	Tvrdý krystalický nerost tvořený oxidem křemičitým.
+A letter from a caring father to his daughter.	Dopis starostlivého otce jeho dceři.
+Allows easy transportation of seeds for planting.	Usnadňuje přepravu semen k setí.
+Allows the wearer to carry 30 arrows of one type	Umožní nositeli nést 30 šípů jednoho druhu
+Allows the wearer to carry 30 bolts of one type.	Umožní nositeli nést 30 šipek jednoho druhu.
+Allows the wearer to carry a few items on a belt.	Umožní nositeli nést pár věcí na opasku.
+Allows the wearer to carry items on your back.	Umožní nositeli nést věci na zádech.
+Big order quest item.	Předmět k úkolu Velká zakázka.
+
+# --- lapkové a nepřátelé ---
+Bandits	Lapkové
+Bandit Camp	Tábor lapků
+Bandits camp	Tábor lapků
+Bandit Encampment	Tábor lapků
+Bandits Encampment	Tábor lapků
+Bandit's Encampment	Tábor lapků
+Big Bandit's Encampment	Velký tábor lapků
+Big Bandits Encampment	Velký tábor lapků
+Big Smugglers Encampment	Velký tábor pašeráků
+Bandit Flag	Vlajka lapků
+Bandit patrol party	Hlídka lapků
+Bandit migration party	Přesouvající se tlupa lapků
+Bandit's Cape	Lapkův plášť
+Bandit's Treasure (Quest Item)	Lapkův poklad (předmět k úkolu)
+Bandits note	Zápisek lapků
+Bandit’s unsent message	Neodeslaný vzkaz lapky
+Betrayers	Zrádci
+Betrayer Hideout	Zrádcova skrýš
+Betrayer's Ship	Zrádcova loď
+
+# --- předměty k úkolům ---
+Bag of axe heads	Pytel seker
+Bag of Weapons (Quest Item)	Pytel zbraní (předmět k úkolu)
+Bag with secret bites (Quest Item)	Pytel s tajnými sousty (předmět k úkolu)
+
+# --- jídlo a suroviny ---
+Ale	Pivo
+Baked	Pečené
+Bandage	Obvaz
+Beetroot	Řepa
+Beetroot Jam	Řepná zavařenina
+Beetroot Seeds	Semena řepy
+Berry	Bobule
+Berry Bread	Bobulový chléb
+Berry Jam	Bobulová zavařenina
+Berry Scones	Bobulové placky
+Berry Tart	Bobulový koláč
+Bear Carcass	Medvědí mršina
+Bearded Mullet	Cípal vousatý
+Big Fish	Velká ryba
+Baits	Návnady
+Bait stacks	Hromádky návnad
+
+# --- výbava a zbraně ---
+Axe	Sekera
+Battleaxe	Válečná sekera
+Bastard Sword	Bastardní meč
+Battle Crossbow	Bojová kuše
+Battering Ram	Beranidlo
+Big Ballista	Velká balista
+Azure Cloak	Blankytný plášť
+Basic Gambeson	Prostá prošívanice
+Big Backpack	Velký batoh
+Bag	Vak
+Basket	Koš
+Barrel	Sud
+Barrels	Sudy
+Base Container	Základní nádoba
+Big cooking pot	Velký kotlík
+
+# --- žebrácký oděv ---
+Beggar	Žebrák
+Beggar Rags	Žebrácké hadry
+Beggar Tunic	Žebrácká tunika
+Beggar Breeches	Žebrácké nohavice
+Beggar Pants	Žebrácké kalhoty
+Beggar Coif	Žebrácká kápě
+Beggar Gloves	Žebrácké rukavice
+Beggar Handwraps	Žebrácké návleky na ruce
+Beggar Fotwraps	Žebrácké onuce
+Beggar Shoes	Žebrácké boty
+
+# --- stavby a místa ---
+Bakery	Pekárna
+Baker	Pekař
+Barn	Stodola
+Big Barn	Velká stodola
+Barracks	Kasárna
+Big House	Velký dům
+Big Ship	Velká loď
+Beach	Pláž
+Beacon	Signální oheň
+Beaconhold Lighthouse	Maják Beaconhold
+Belinda Prisoner Cage	Belindina klec pro zajatce
+Berta Stalls	Bertiny stánky
+Berta's Fish Stall	Bertin rybí stánek
+Berta's fish stall	Bertin rybí stánek
+Back of Crossroad Tavern	Zadní část hospody Crossroad Tavern
+
+# --- povolání a postavy ---
+Bard	Bard
+Bear	Medvěd
+Bastard	Parchant
+Associate	Společník
+Big loser	Velký smolař
+
+# --- technologie ---
+Basic Armors	Základní zbroje
+Basic Clothing	Základní oděv
+Basic Cooking	Základní vaření
+Basic Decorations	Základní ozdoby
+Basic Gear	Základní výstroj
+Basic Refines	Základní zpracování
+Basic Tools	Základní nástroje
+Basic Weapons	Základní zbraně
+
+# --- rozhraní ---
+Attack	Útok
+Attacks	Útoky
+Attack Speed	Rychlost útoku
+Attributes	Vlastnosti
+At War with	Ve válce s
+Ate favorite food	Snědl oblíbené jídlo
+Author	Autor
+Autosave?	Automatické uložení?
+Available	Dostupné
+Available Quest	Dostupný úkol
+Available technologies	Dostupné technologie
+Average	Průměr
+Awaiting orders	Čeká na rozkazy
+Back	Zpět
+Back Slot	Pozice na zádech
+Bandaging Threshold	Práh obvazování
+Beginner	Začátečník
+Benchmark	Měření výkonu
+Best Buy Price	Nejlepší nákupní cena
+Best Sell Price	Nejlepší prodejní cena
+BASES	ZÁKLADNY
+AUDIO & SOUND DESIGN	ZVUK A SOUND DESIGN

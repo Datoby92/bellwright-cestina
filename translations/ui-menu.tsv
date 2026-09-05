@@ -1,0 +1,68 @@
+# Hlavní nabídka, ukládání a síťové hlášky
+# Formát: namespace <TAB> key <TAB> český překlad
+#
+# UI drží věcnou, zavedenou češtinu - archaický nádech patří do dialogů a kodexu,
+# ne do tlačítka "Uložit hru". Hráči tykáme.
+
+# --- hlavní nabídka a pauza ---------------------------------------------------
+GameMenuStrings	Game.Continue.ButtonLabel	Pokračovat
+GameMenuStrings	Game.Invite.ButtonLabel	Pozvat přítele
+GameMenuStrings	Game.Load.ButtonLabel	Načíst hru
+GameMenuStrings	Game.New.ButtonLabel	Nová hra
+GameMenuStrings	Game.Online.ButtonLabel	Kooperace
+GameMenuStrings	Game.Options.ButtonLabel	Možnosti
+GameMenuStrings	Game.QuickSave.ButtonLabel	Rychlé uložení
+GameMenuStrings	Game.Quit.ToDesktop.ButtonLabel	Ukončit hru
+GameMenuStrings	Game.Quit.ToMainMenu.ButtonLabel	Zpět do hlavní nabídky
+GameMenuStrings	Game.Resume.ButtonLabel	Zpět do hry
+GameMenuStrings	Game.Save.ButtonLabel	Uložit hru
+GameMenuStrings	Game.Session.ButtonLabel	Lobby
+GameMenuStrings	Game.Unstuck.ButtonLabel	Vyprostit
+GameMenuStrings	MainMenu.Quit.ButtonLabel	Ukončit
+GameMenuStrings	NewGame.Back.ButtonLabel	Zpět do nabídky
+GameMenuStrings	NewGame.CustomizeGame.ButtonLabel	Přizpůsobit hru
+GameMenuStrings	NewGame.Start.ButtonLabel	HRÁT
+GameMenuStrings	NewGame.StartOnline.ButtonLabel	Spustit kooperaci
+GameMenuStrings	Options.ApplyChanges.ButtonLabel	Použít změny
+GameMenuStrings	Options.Back.ButtonLabel	Zpět do nabídky
+
+# --- ukládání a načítání ------------------------------------------------------
+LoadSave	DeleteSavePrompt	Opravdu chceš smazat {SaveName}?
+LoadSave	DeleteSaveSlotPrompt	Opravdu chceš smazat {SlotName}?
+LoadSave	EmptySlot	Prázdná pozice
+LoadSave	LoadAction	Načíst hru
+LoadSave	LoadingNewSaveOnOutdatedGameError	Uložená hra, kterou chceš načíst, pochází z novější verze hry a není zpětně slučitelná. Aktualizuj prosím hru, abys ji mohl načíst.
+LoadSave	LoadingOldSaveConfirmation	Uložená hra, kterou chceš načíst, pochází ze starší verze. Pro nejlepší zážitek doporučujeme začít novou hru. Opravdu chceš ve staré uložené hře pokračovat?
+LoadSave	LoadingTitle	Načíst hru
+LoadSave	NameSaveSlotPrompt	Zadej název nové uložené hry
+LoadSave	OverwriteSaveSlotPrompt	Opravdu chceš přepsat {SlotName}?
+LoadSave	ProfileSlotFormat	Profil {Index}
+LoadSave	SaveAction	Uložit hru
+LoadSave	SaveTitle	Uložit hru
+LoadSave	SlotAutosave	Automatické uložení
+LoadSave	SlotAutosaveQuick	Rychlé uložení
+LoadSave	SlotAutosaveSuffix	{autosave} {suffix}
+LoadSave	SlotManual	Ruční {Number}
+
+# --- síť ----------------------------------------------------------------------
+Network	AlreadyInSessionInvite	V této relaci už jsi.
+Network	ChangeSessionDialog	Chceš opustit současnou relaci?
+Network	ConnectionLost	Spojení s hostitelem bylo ztraceno.
+Network	ConnectionTimeout	Vypršel časový limit spojení.
+Network	CreateEOSSessionError	Relaci se nepodařilo vytvořit.
+Network	FailureReceived	Došlo k síťové chybě. Kód 4
+Network	GenericError	Došlo k síťové chybě.
+Network	GenericNetworkError	Došlo k síťové chybě.
+Network	NetChecksumMismatch	Kontrolní součty sítě se neshodují.
+Network	NetDriverAlreadyExists	Došlo k vnitřní chybě. Kód 1
+Network	NetDriverCreateFailure	Došlo k vnitřní chybě. Kód 2
+Network	NetDriverListenFailure	Došlo k vnitřní chybě. Kód 3
+Network	NetGuidMismatch	Síťová ID se neshodují.
+Network	NetworkErrorFormat	Došlo k síťové chybě: {Error}
+Network	OutdatedClient	Verze klienta je příliš stará.
+Network	OutdatedServer	Verze serveru je příliš stará.
+Network	OwnSessionInvite	K vlastní relaci se připojit nemůžeš.
+Network	PendingConnectionFailure	K relaci se nepodařilo připojit. Možná už není dostupná.
+Network	ServerBanned	Hostitel ti do této relace zakázal přístup.
+Network	ServerFull	Hra je plná.
+Network	ServerLoading	Hostitel relaci stále načítá. Zkus to prosím za okamžik.

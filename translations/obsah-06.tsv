@@ -1,0 +1,271 @@
+# Obsah hry, dávka 06 (C) - originál <TAB> překlad
+#
+# "Claim" (96×) = zabrání vlajky v nepřátelském táboře, ne vyzvednutí odměny.
+# Potvrzuje to zadání úkolu: "once all bandits are dead or the camp flag has
+# been claimed". Proto "Zabrat" a nadpis CLAIMS jako "DRŽAVY".
+#
+# Cassian je jméno frakce - přídavné jméno "cassianský", lidé "Cassiané".
+
+# --- repliky ---
+Can I join you now?	Můžu se k tobě teď přidat?
+Can I stay in the Tavern for a night?	Můžu v hospodě přespat?
+Can I stay in your tavern for a night?	Můžu u tebe v hospodě přespat?
+Can we survive this?	Přežijeme to?
+Can you tell me more about this place?	Řekneš mi víc o tomhle místě?
+Can you tell me more about yourself?	Řekneš mi o sobě víc?
+Can you tell me something about yourself?	Řekneš mi něco o sobě?
+Can you write me a list of liquors offered here?	Sepíšeš mi, jaké lihoviny tu nabízíte?
+Can't pay you now. I'm sorry.	Teď ti zaplatit nemůžu. Omlouvám se.
+Can’t you see I’m busy, go bother someone else.	Nevidíš, že mám práci? Jdi otravovat jinam.
+Careful who you turn away. You might regret it.	Dávej pozor, koho odmítáš. Můžeš toho litovat.
+Caught up now?	Už jsi v obraze?
+Choose who shall inherit the isles.	Vyber, kdo má ostrovy zdědit.
+Can only get here by boat!	Sem se dostaneš jedině lodí!
+
+# --- zadání úkolů ---
+Capture Cragkeep	Dobyj Cragkeep
+Capture Cragkeep Bay	Dobyj záliv Cragkeep
+Capture Redhold	Dobyj Redhold
+Capture During Transition	Dobytí během přechodu
+Check if the gambito is caught on the nets.	Podívej se, jestli gambito neuvízlo v sítích.
+Check if the gambito is in the boxes.	Podívej se, jestli gambito není v bednách.
+Check if the gambito is in the hay bale.	Podívej se, jestli gambito není v balíku sena.
+Check if the medicine helped	Zjisti, jestli lék zabral
+Check on the knight	Podívej se po rytíři
+Check the altar	Prohlédni oltář
+Check the body	Prohlédni tělo
+Check the corpse	Prohlédni mrtvolu
+Check the dead body	Prohlédni mrtvé tělo
+Check the broken cart.	Prohlédni rozbitý povoz.
+Check the caravan.	Prohlédni karavanu.
+Check the Chicken Coop	Zkontroluj kurník
+Check the knight's cave	Prohlédni rytířovu jeskyni
+Check the mysterious note	Přečti si záhadný zápisek
+Check the nets	Zkontroluj sítě
+Check with the merchant tomorrow.	Zastav se u kupce zítra.
+Check with with {QuestGiver} later.	Zastav se u {QuestGiver} později.
+Check with {QuestGiver} later.	Zastav se u {QuestGiver} později.
+Check with {Npc}	Zastav se u {Npc}
+Chop logs	Naštípej klády
+Clear out Opportunist’s Bliss	Vyčisti Opportunist’s Bliss
+Clear out Rustshore	Vyčisti Rustshore
+Clear the bandit's camp	Vyčisti tábor lapků
+Clear the Smuggler's Camp	Vyčisti pašerácký tábor
+Clear the port from Falsgar	Vyčisti přístav od Falsgaru
+Clear the port from Falsgar.	Vyčisti přístav od Falsgaru.
+Clear the Redhold from Falsgar	Vyčisti Redhold od Falsgaru
+Clear the Redhold from Falsgar.	Vyčisti Redhold od Falsgaru.
+Collect evidences	Sesbírej důkazy
+Collect stolen goods.	Sesbírej kradené zboží.
+Collect the strange items	Sesbírej ty podivné věci
+Collect the treasures	Sesbírej poklady
+Collect water using Workforce or manually.	Naber vodu ručně nebo pracovní silou.
+Come back for your reward for Killing the Wolves	Vrať se pro odměnu za zabití vlků
+Confront {Npc}	Postav se {Npc}
+Construct a {Structure} so Lubomir can research the trap.	Postav {Structure}, aby Lubomir mohl past prozkoumat.
+Construct a {Structure} to provide Lubomir with shelter.	Postav {Structure}, aby měl Lubomir přístřeší.
+
+# --- kapitoly a názvy úkolů ---
+Chapter 1: Haerndean	Kapitola 1: Haerndean
+Chapter 2: Padstow	Kapitola 2: Padstow
+Chapter 3: Farnworth	Kapitola 3: Farnworth
+Chapter 4: Blackridgepool	Kapitola 4: Blackridgepool
+Chapter 5: Bradford	Kapitola 5: Bradford
+Chapter 6: Horndean	Kapitola 6: Horndean
+Chapter 7: Crasmere	Kapitola 7: Crasmere
+Chasing the Beast	Hon na bestii
+Chasing the Sky	Hon za oblohou
+Chasing the Sky quest item.	Předmět k úkolu Hon za oblohou.
+Chasing the Sky Shipment	Zásilka Hon za oblohou
+Choice of Tomorrow!	Volba zítřka!
+Closure	Uzavření
+Closure quest item.	Předmět k úkolu Uzavření.
+Communication Breakdown	Vázne domluva
+City Coward	Městský zbabělec
+Carpetbagger	Prospěchář
+Chronicle of the Isles	Kronika ostrovů
+Chronicle Strays of Isles, Chapter 1	Kronika Zbloudilci ostrovů, kapitola 1
+Chronicle: Strays of the Isles	Kronika: Zbloudilci ostrovů
+CHRONICLES:	KRONIKY:
+
+# --- karavany a povozy ---
+Caravan	Karavana
+Caravans	Karavany
+Caravaneer	Karavaník
+Caravan Carrier	Nosič karavany
+Caravan Guard	Strážce karavany
+Caravan delivery report	Zpráva o dodávce karavany
+Caravan parts	Díly povozu
+Caravan Parts (Quest Item)	Díly povozu (předmět k úkolu)
+Caravan Station & Deliveries	Stanice karavan a dodávky
+Cart	Povoz
+Carts	Povozy
+Cart Station	Stanice povozů
+Cart Workbench	Pracovní stůl na povozy
+Cart Tools (Quest Item)	Nářadí na povoz (předmět k úkolu)
+Cart with belongings	Povoz s věcmi
+
+# --- Cassiané ---
+Cassian	Cassian
+Cassians	Cassiané
+Cassian patrol party	Cassianská hlídka
+Cassian Port	Cassianský přístav
+Cassian's Dock	Cassianovo přístaviště
+Cassian's Merchant	Cassianský kupec
+Cassian's caravan	Cassianova karavana
+Cassians's caravan	Cassianská karavana
+Cassians's caravan trace	Stopa cassianské karavany
+Cassian Sigil	Cassianský znak
+Cassian Armor Set	Cassianská zbroj
+Cassian War Scarf	Cassianský válečný šátek
+Cassian Quiver	Cassianský toulec
+Cassian Bolt Quiver	Cassianský toulec na šipky
+Cassian Gilded Cutlass	Cassianská zlacená šavle
+Cassian Navy Sabre	Cassianská námořní šavle
+Cassian Heavy Crossbow	Cassianská těžká kuše
+Cassian Leader Helmet	Přilba cassianského vůdce
+Cassian Leader Brigandine	Brigantina cassianského vůdce
+Cassian Leader Gloves	Rukavice cassianského vůdce
+Cassian Leader Shalwars	Šalvary cassianského vůdce
+Cassian Leader Boots	Boty cassianského vůdce
+Cassian Outrider's Jerkin	Kabátec cassianského jezdce
+Cassian Outrider's Grips	Rukavice cassianského jezdce
+Cassian Outrider's Breeches	Nohavice cassianského jezdce
+Cassian Outrider's Shoes	Boty cassianského jezdce
+Cassian Swashbuckler's Tunic	Tunika cassianského rváče
+Cassian Swashbuckler's Gauntlets	Rukavice cassianského rváče
+Cassian Swashbuckler's Leggings	Nohavice cassianského rváče
+Cassian Swashbuckler's Boots	Boty cassianského rváče
+Cassian Veteran Quilted Jack	Prošívanice cassianského veterána
+Cassian Veteran Gloves	Rukavice cassianského veterána
+Cassian Veteran Shalwars	Šalvary cassianského veterána
+Cassian Veteran Boots	Boty cassianského veterána
+
+# --- tesař ---
+Carpenter	Tesař
+Carpenter House	Tesařův dům
+Carpenter's House	Tesařův dům
+Carpenter Apron	Tesařská zástěra
+Carpenter Trousers	Tesařské kalhoty
+Carpenter's Hammer	Tesařské kladivo
+Carpenter's lost tools.	Tesařovy ztracené nástroje.
+Carpenter refines timber into sturdier planks.	Tesař zpracuje dřevo na pevnější prkna.
+
+# --- zvířata ---
+Carcass	Mršina
+Cat	Kočka
+Carp	Kapr
+Chamois	Kamzík
+Chamois Carcass	Kamzičí mršina
+Chick	Kuře
+Chick Carcass	Kuřecí mršina
+Chicken	Slepice
+Chickens	Slepice
+Chicken Carcass	Slepičí mršina
+Chicken Coop	Kurník
+Cattle Pen	Ohrada pro dobytek
+Clawfin	Drápoploutvý
+Clawfin Trophy	Trofej drápoploutvého
+
+# --- jídlo a suroviny ---
+Carrot	Mrkev
+Carrot Seeds	Semena mrkve
+Cheese	Sýr
+Cheese Omelette	Sýrová omeleta
+Cloudberry	Moruška
+Cloudberry Bread	Chléb s moruškou
+Cloudberry Jam	Morušková zavařenina
+Cloudberry Tart	Moruškový koláč
+Charcoal	Dřevěné uhlí
+Clay	Hlína
+Clay Brick	Hliněná cihla
+Canvas	Plachtovina
+Cloth	Látka
+Clean lake water	Čistá jezerní voda
+Clear water	Čistá voda
+Can produced from resin	Vyrobíš z pryskyřice
+Compound Animal Feed	Míchané krmivo
+
+# --- oděv a výbava ---
+Clothes	Oděv
+Clothing	Oděv
+Clothing.	Oděv.
+Clothing for various artisans.	Oděv pro různé řemeslníky.
+Civilian Cap	Civilní čapka
+Civilian Clothing	Civilní oděv
+Civilian Trousers	Civilní kalhoty
+Civilian's Cape	Civilní plášť
+Civilian's Upper Clothing	Civilní svrchní oděv
+Closed Helmet	Uzavřená přilba
+Cloth Quiver	Látkový toulec
+Claymore	Claymore
+
+# --- stavby a místa ---
+Chest	Truhla
+Chest with Rod	Truhla s prutem
+Closed Barrel	Zavřený sud
+Closed Basket	Zavřený koš
+Cave	Jeskyně
+Cave Entrance	Vchod do jeskyně
+Cave Hideout	Jeskynní skrýš
+Chamber	Komnata
+Chamber Door	Dveře komnaty
+Captain's Quarters	Kapitánova kajuta
+Charcoal Burner	Milíř
+Coal Burner	Milíř
+Coin Mint	Mincovna
+Compost Pile	Kompost
+Community Well	Obecní studna
+Cisne Family House	Dům rodiny Cisne
+Castellan	Purkrabí
+Cecilio's Book (Quest Item)	Ceciliova kniha (předmět k úkolu)
+
+# --- rozhraní ---
+Claim	Zabrat
+CLAIMS	DRŽAVY
+Cancel	Zrušit
+Cancel Investment	Zrušit investici
+Cancel facility investment	Zrušit investici do provozu
+Capacity	Kapacita
+Categories	Kategorie
+Category	Kategorie
+Center	Střed
+Character	Postava
+Character's name	Jméno postavy
+Check	Zkontrolovat
+Close	Zavřít
+CLOSE	ZAVŘÍT
+Close all	Zavřít vše
+Cloak Slot	Pozice na plášť
+Codex	Kodex
+Coin	Mince
+Coins	Mince
+Collect	Sebrat
+Color	Barva
+Combat	Boj
+Combat attributes	Bojové vlastnosti
+Command	Velení
+Common	Obecný
+Companion	Družiník
+Companion reservist	Družiník v záloze
+Companion/Guard	Družiník/strážný
+Competent	Zdatný
+Completed	Dokončeno
+Conflicts	Spory
+Constructing	Staví se
+Construction	Stavitelství
+Construction points	Stavební body
+Construction Points	Stavební body
+Construction points returned	Vrácené stavební body
+Construction Site	Staveniště
+Construction Sites	Staveniště
+Consumed	Spotřebováno
+Consumed Foods	Snědené jídlo
+Chronically homeless	Trvale bez domova
+Changing roles requires a settlement.	Změna rolí vyžaduje osadu.
+chance of being attacked	šance na napadení
+Chat background opacity control	Průhlednost pozadí chatu
+Cinematic	Filmová scéna
+Clear tabs	Vymazat karty
+Capture Texture	Zachytit texturu
+CONSOLE PORTING	PORTOVÁNÍ NA KONZOLE
