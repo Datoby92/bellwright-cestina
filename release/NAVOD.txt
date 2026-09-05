@@ -1,6 +1,6 @@
 BELLWRIGHT – ČEŠTINA
 Fanouškovský překlad, překlad zařídil TheraWoW.com
-Verze překladu: 1.0 (pro Steam build 24840601, září 2026)
+Verze překladu: 1.0.1 (pro Steam build 24840601, září 2026)
 Přeloženo: 100 % textů hry (28 880 řetězců)
 
 ===========================================================

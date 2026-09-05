@@ -5,7 +5,7 @@
 Fanouškovský český překlad hry **Bellwright** (Donkey Crew, Unreal Engine 5).
 Překlad zařídil [TheraWoW.com](https://therawow.com).
 
-**Stav: 100 % textů přeloženo** (28 880 řetězců) · verze 1.0 · Steam build 24840601
+**Stav: 100 % textů přeloženo** (28 880 řetězců) · verze 1.0.1 · Steam build 24840601
 
 ---
 
