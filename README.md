@@ -1,5 +1,7 @@
 # Čeština pro Bellwright
 
+![Bellwright – český překlad dokončen](docs/banner.jpg)
+
 Fanouškovský český překlad hry **Bellwright** (Donkey Crew, Unreal Engine 5).
 Překlad zařídil [TheraWoW.com](https://therawow.com).
 
